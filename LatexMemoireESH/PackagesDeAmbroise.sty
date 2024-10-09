@@ -1,0 +1,89 @@
+% Lises de packages
+
+% Encoding and Fonts
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+
+% Margin Settings
+\usepackage[a4paper,left=3cm,right=2.5cm,top=3cm,bottom=3cm, twoside]{geometry}
+
+% Color and Math Packages
+\usepackage{xcolor}
+\usepackage{stmaryrd}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{libertine}
+
+% Hyperlinks and Bibliography
+\usepackage{hyperref} % for references (\ref, \label), url
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=black,      
+    urlcolor=black,
+    citecolor=black,
+    pdfpagemode=FullScreen,
+}
+\usepackage[
+    natbib=true,
+    style=numeric,
+    sorting=none
+]{biblatex} % Imports biblatex package
+
+% Graphics and Figures
+\usepackage{graphicx} % to include images
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage{multirow}
+\usepackage{array, multirow, tabularx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{apalike}
+\usepackage{minitoc}
+\usepackage{tikz}
+\usetikzlibrary{patterns}
+\usepackage{fancyhdr}
+\usepackage[strict]{changepage}
+\usepackage{siunitx}
+\usepackage{eurosym}
+\usepackage{svg}
+
+% Enumerations and Quotations
+\usepackage{enumitem}
+\usepackage{epigraph}
+\usepackage{lscape}
+\usepackage{titletoc}
+\usepackage{mdframed}
+\usepackage[xindy]{imakeidx}
+\usepackage[acronym,xindy,toc]{glossaries} % nomain, if you define glossaries in a file, and you use \include{INP-00-glossary}
+
+% Tabular and PDF Inclusion
+\usepackage{tabu}
+\usepackage{pdfpages}
+\usepackage{arydshln}
+
+% Calculations
+\usepackage{calc}
+
+% Titles and Sections
+\usepackage[]{titlesec}
+
+% Section Styling
+\usepackage{sectsty}
+
+% Dummy Text
+\usepackage{lipsum}
+\usepackage{emptypage}
+
+% Display code
+\usepackage{listings}
+
+
+\addbibresource{biblio.bib} % Import the bibliography file
+\graphicspath{ {figures/} }
+\pagestyle{fancy}
+\addto\captionsfrench{%
+  \renewcommand{\listfigurename}{Liste des figures}%
+}
