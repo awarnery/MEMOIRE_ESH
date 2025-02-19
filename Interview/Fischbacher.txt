@@ -1,0 +1,144 @@
+17/11/2023
+
+Lecture de l’entretien Urs Fischbacher
+
+
+- 3 sets of questions : CV, experience with computer, history of Z tree
+- licence + master + doctorat de math
+- aucune relation avec eco ou autres sciences sociales
+- quitte academia après phd pour faire des trucs plus appliqués (p.2)
+- collabore avec psychologue pour voir la reception de son software et publie papier (p.2/3)
+- s’interesse à l’eco a travers travail sur landscapes (p.3)
+- découvre Ernst Fehr, aime ses sujets eco et decide de programmer pour lui tout en faisant un peu de recherche à Zurich
+- explique ses recherches (p.3-4)
+- il développe le software et le réseau qui connecte le pardi entre eux et est present dans la sale lors des experiences (p.4)
+- en 2007 il bouge à Konstanz (p.4)
+- il a fait son habilitation en 2006 pour priver ses connaissances en eco et ne souhaitait pas particulièrement partir, mais le Thurgauer Institute of Economics recruter et il a este pris pour le diriger. (p.5)
+2eme set de question
+- premiere experience au lycée avec HP 9810, processeur capable de faire 500 étape
+- premier travail programmer le jeu NIM et puis pas de grand projet
+- (p.6)
+- appris, seul sans prof, a programmer de la géometrie sur écran 
+- ses profs avait le meme niveau que lui, apprenait à l’utiliser
+- puis achète son propre PC ZX81, 1 KB de mémoire mais il a acheté une extension de 60 KB
+- le langage était le BASIC, l’OS était tres bon, l’a utilisé pendant ses etudes pour classifier des structures math, quelques algorithmes
+- la premiere fois en tant que chercheur était pendant son master
+- pendant le phd il a acheté un commodore 64
+- il a fait du text process mais c’était horrible pour faire des maths
+- (p.7)
+-  il a créer un style de latex pour lui meme et l’a utilisé 
+- premiere fois en tant qu’économiste, quand il est aller travaillé en 95 pour Ernst Fehr
+- après son Commodre il a eut un mac qu’il utilisait pour faire du texte et des mails deja dans les années 80
+- les mails etait envoye une fois par jour, pendant la nuit.
+- tout ce qui était lié au réseau était super compliqué donc il utilisait un livre "grimoire" avec toutes les commandes, par ex imprimer, tout été basé sur les lignes de commandes
+- dans son métier sur les computer-aid manufacturing, il avait un système appelé PASCAL sur les postes de travail qui était vraiment bien
+- vi était un éditeur de texte tres compliqué à prendre en main et étrange
+- (p.8) 
+- dans son premier job dans le privé, il utilisait DO, puis PASCAL, puis UNIX, puis macintosh avec OBJECT PASCAL 
+- dans son job d’economiste en 95 il avait un mac pour le quotidien et un windows pour programmer pour le laboratoire. ca rendrait le programme plus facile à diffuser, meme si c’était pas un objectif principal au debut
+- est ce que après le lycée qqn lui a appris à coder ou toujours en solo ?
+- toujours principalement en solo dans ses jobs
+- quand il a commence ses etudes il y avait une filière business IT, IT pour l’entreprise en 78, puis en 80, l’ETH a lance une filière de SEngineer mais il a jamais suivi ces cours
+- pour avoir un job a l’époque son diplôme de math était plus important car de toute façon tout le monde était nul en programmation
+- comment il était compare aux économistes moyen de Zurich ? les autres à l’université comprenait un peu la technique ?
+- (p.9)
+- faisait il un peu d’econometrie ? d’analyse de données ? en python ou R ?
+- a l’époque ils utilisaient principalement stata pour la data analysis, et lui ils connaissaient pas trop la statistiques par rapport à eux. parce qu’il était mathématicien les économistes pensaient qu’il maitrisait tout ca
+- c’était Simon Gächter qui a compris que il maitrisait pas tout a cette époque
+how would you characterize the evolution of your own use of computers and software along your career?
+- refait un resumer des hardware et sofwtwaare associe assez long, beaucoup de changements
+- premier moment d’émerveillement devant la technologie : internet, plus besoin d’utiliser le grimoire pour se connecter à des ordinateurs en réseau
+- il a vu le changement entre 94 les gens sont surpris que d’autre postent sur internet et en 98 les gens sont surpris quand d’autre s’en ont pas
+- (p.10)
+- il a découvert google, avant il utilisait Yahoo et la page de Al Roth avec pleins de liens, google était le premier moteur de recherche vraiment efficace, premier lien : ce que tu cherches
+- les pivot table de excel lui ont aussi beaucoup simplifier la vie
+- des frustrations ?
+- toujours des frustrations quand tu codes et que tu debug, un moment en particulier avec z tree
+- (p.11)
+- la vue des participants freezer pour rien, a cause d’une erreur de programmation pas si compliqué, leur vue dépendait de leurs choix ou d’un timer cote serveur et quand les deux arrivait en meme temps, bug. il avait oublié que ce cas pouvait arriver. il a juste décidé d’ignorer ce que faisait les participants et d’imposer le programme. c’était tres dur car ca arrivait tres rarement et dur d’avoir une erreur reproductible. sans ca, c’est tres dur de corriger et de savoir si la correction est bonne.
+- est ce qu’il avait des collègues avec qui parler de ca et l’aider ?
+- oui, avant meme de commencer il parlait avec un programmeur d’Amsterdam, Otto Perdek qui utilisait OS2 de IBM. mais qui n’était pas content de ce produit. Urs s’est inspire de certaines chose vues chez Otto sur cet ordi
+- dans la frustration, jamais eu de moment ou il avait des limites de capacité de calcul ou quoi, que des problèmes tractables avec un peu d’effort.
+- (p.12)
+- il a eut des problèmes avec un mac qui n’avait pas suffisamment de slots pour ajouter de la memoire
+- sa premiere utilisation d’internet pour économiste c’etait tres excitant, pour visiter des pages, notamment celle de al roth
+- elle était intéressante car elle mettait les liens vers des laboratoires, des pages personnelles, des travaux de théorie des jeux, il avait mit sa photo ce qui était sympathique. surtout des scientifiques.
+- (p.13)
+- aujourd’hui dans son travail en un sens, tout est internet, ses recherches, ses reservations/livres?, tu peux tout faire avec internet
+- comment la transition s’est faites entre reseau de chercheurs à réseau de tous le monde, compagnie privé ?
+- transition tres rapide, google a vraiment aide car tte trouvais vraiment des trucs, plus précisément. mais il a jamais eut de resaux sociaux etc. pas de stackoverflow, juste il échange avec des gens, ils se partageaient leurs programmes avec git’
+- Urs est aller en tant que visiteur à Harvard en 2002. la culture la bas vis à vis des ordinateurs n’était pas différente
+- Urs avait un laptop parce que y avait pas de cloud, il travaillait à 2 endroit different avec 2 appart different et développe des trucs sur plusieurs ordi en meme temps était horrible
+- (p.14)
+- ce qui était interessant c’était de voir comment les laboratoires changeait, les traditions. le laboratoire de selten avait des vrai cabin avec des rideaux à Bonn, Bettine Rockenbach avait appris la programmation avec lui et utilisait aussi des rideaux à Erfurt. Chez Kagel en Ohio il y avait deja les écrans. 
+[partage la programmmation, l’informatique, qui sert à diffuser une autre culture, matériel, ajouter des rideaux dans son labo]
+- a ce moment la à Harvard ils utilisaient deja Z tree, bien avant le papier de 2007 dans Experimental Economics
+- il y avait aussi des labo avec des écrans en verre donc les gens se voyaient entre eux mais pas les écrans, ca n’a rien a voir avec le hardware et la culture sous jacente, juste des labo dans la tradition de Selten avec rideau mais a part ca, ils se ressemblent beaucoup entre eux
+third set of questions : try to cover extensively the history of Z-Tree
+- (p.15)
+- Z-tree is a programming environnement to program experiments and conducts them. experiments are interactive environment for human subjects. Z tree is good for interaction.
+- job starting in 95 was to program experiments.
+- l’idee est de faire une expérience type, de programmer une experience spécifique, de définir des paramètres et c’est good.
+- la premiere chose c’était l’interaction, des écran qu’on a parameter avec des check-box, des paramètres pour définir la structure de pay off et voila.
+- la 2 problèmes, 
+- il y avait un structure de donnes pour faire un jeu sur un bien public avec une institution, avec un 2eme étage(étape/tour?), un set up pour une experience d’echange de cadeau et une experience pour un objectif tres special. pour ernst fehr et Jean-Robert tyran ou l’idée est d’étudier l’illusion de la monnaie
+- le premier problème est avec cette expérience d’illusion de la monnaie, ils mettaient en place un environnement économique avec une fonction de cout qui pourrait être quadratique mais aussi exponentiel ou autre. ils ne pouvaient pas decider et c’est la que Urs s’est dit, je dois avoir un langage de programmation, un moyen de définir des expressions. c’est la qu’il a commence à inclure le langage de programmation, parce que c’était pas prévu de base
+- au debut il pensait juste paramétrer les experiences et mettre en place une experience type pour tous les types d’experiences. la il s’est dit "j’ai besoin d’expressions" et c’était le debut du langage de programmation. 
+- l’incapacité des chercheurs à decider à l’avance ce qu’ils voulaient est une source du deuxième element qu’il appelle étage 3, la structure, comment les écrans sont représentés dans Z tree. la raison c’est que dans une experience pour un article pour Falkinger, Gachter, Fehr etc. pour tester un mécanisme qui force la contributions a un jeu de bien public. donc soit on voirt l’écran du jeu soit l’écran de feedback. mais il y a énormément d’option sur ce qu’on affiche ou pas. il fallait donc remplir 80 checkboxes. il s’est dit je vais devenir fou si je fais ca a chaque fois. 
+[bcp d’innovation en réponse à une demande ou une absence de demande des chercheurs, en fait comme tous les developpeurs]
+- pour éviter ca, dans Z tree, tu écris juste ce dont tu as besoin, ce que tu affiches et a quel endroit, et dans le programme c’est définîtes dans un item, avec un label, avec un contenu, qui est une variable. et c’est ca le lien avec un programme de langage. tu peux lire une variable, ou la montrer. et donc a la place des 80 check boxes, tu décris ce que tu veux, de manière tres structure, et ca te donne une architecture tres flexible.
+- c’était sa force, et la raison c’est qu’il voulait le faire le plus vite et le plus facilement possible.
+- (p.16)
+- et son avantage était d’être programmeur et économiste expérimental a la fois
+- son job était de programmer les experiences spécifiques du labo, pas de faire un logiciel général
+- au debut il voulait faire un marché avec des extensions à son logiciel mais le pb des gens qui disagree sur les details rend ca inutile
+- "Z-Tree is useful because it’s very simple to develop something more or less from scratch"
+- anecdote dev une experience en un week end qui a pris 3 semaines de travail à d’autres
+- 1998 premier cours sur utilisation de z tree à berlin
+- (p.17)
+- pour developper Z tree il na eu que le soutinsse de son université de son travail officiel, aucun soutien d’entreprises ou autres
+- une des grosses difficultés pour Z tree c’était la partie interactive, client/serveur. pour le réaliser il a prit l’exemple d’un program de chatting. Avant ca. il n’avait jamais fait de programmation interactive ou de réseau. il a apprit seul comment ca marcher.
+- il a apprit en faisant, en essayant de lire la documentation mais elle était vraiment mauvaise, notamment chez Microsoft. celle de Apple avec inside macintosh était mieux.
+- (p.18)
+- anecdote, en 98 conference xp econ à Mannheim, il dit aux gens donner moi vos experience je les codes en 3 heures. et il a réussi à le faire donc les gens étaient bluffé.
+- (p.19)
+- la plupart des utilisateurs de Z tree sont arrivés par bouche a oreille, parce que c’est dur de convaincre les gens d’utiliser un nouveau logiciel. 
+- il a été ensuite invite a pleins d’endroits pour presenter le logiciel dans la fin des années 90 et ca lui a permit de rencontrer pleins d’utilisateurs et de discuter de leurs besoins.
+- Z tree s’est diffuse tres tres vite, 2/3 ans.
+- beaucoup de ce genre d’invitation pour donner des cours sur Z tree entre 1998 et 2003 puis de nouveau en 2012
+- (p.20)
+- c’est parce que il n y avait plus besoin, au debut tres utile pour apprendre aux gens à partir de 0, il était plus invite, ca a repris en 2012 car organise sur place dans sa fac
+- pas d’autres pub que les cours et l’article lui meme, Z tree est un cite ware, il est gratuit si des que tu l’utilises pour des résultats tu le cites.
+- ca date de 2007 alors ? (date du papier Z tree)
+- non y avait working papers cités des 1998
+- il n’avait jamais vu ca avant juste ca lui paraissait pas mal pour sa situation. mais il avait sous estimé la taille du marché. c’est pour ca qu’il a pas pense a le rendre payant. mais ca a donne de la visibilité a sa fac et a lui.
+- avec le recul il pense que le rendre payant aurait marché mais ca aurait été un travail d’entrepreneur. lui est plus chercheur et ne regrette pas.
+- a t il reçut des critiques sur le fait que le nombre de citations important sur son papier n’est pas représentatif de sa qualité et de son apport scientifiques car il n’est cite que comme outil technique. que pense t il de cette question de credit en general pour les gens qui font des software et qui n’ont pas forcement la reconnaissance méritée.
+- (p.21)
+-  le journal experimental economics ne voulait pas publier son papier z tree juste comme ca, il devait ajouter une experience pour en faire une contribution scientifique. et c’est compréhensible, meme si z tree a faire croitre l’économie expérimentale plus vite que sans z tree, est ce que ca en fait une contribution scientifique ? c’est un outil qui aide la science. dans ce sens c’est normal d’obtenir de la reconnaissance et rendre l’outil citable est un bon moyen de le reconnaitre.
+- evolution de z tree depuis sa creation
+- (p.22)
+- premiere step implementation des graphiques, a ce moment la Stefan Schmid arrivent (Ingénieur en CS a eth zurich) il a beaucoup participe a développe z tree en ajoutant la manipulation de texte qui a permis de faire un chat box
+- au debut versioning papier avec to délits qui grandi beaucoup. SC a permit de passer sur git et d’avoir un vrai versionning. maintenant il développe une version browser mais ils font attention car ils veulent retrocompatibilité  [replicabilité] des codes sur les deux versions. c’etait un gros avantage d’avoir une seule version qui fonctionne toujours bien.
+- (p.23)
+- il y a plusieurs outils satellites mais pour le coeur de z tree il n y a que 2 développeurs, eux deux qui touchent au code.
+- dernière grosse evolution, pouvoir mettre les gens dans 2 traitements différents, ce qui est important pour z tree unleashed sur le web.
+- la coopération a deux est tres dur, toujours dur de rentrer dans le code des autres. maintenant meme si y a git ils essayent de ne pas travailler en meme temps quand l’un a beaucoup de temps, l’autre travaille moins dessus. et en plus C++ a bcp évolue et il se sent moins a la page.
+- ils ont eux des contacts avec leurs utilisateurs via la mailing liste de z tree qui est un peu moins active maintenant et y a des competition avec otree. et ils donnent un cours par an qui leur permet de discuter aussi.
+- (p.24)
+- changement pour z tree après son déménagement hors de zurich ?
+- non suprenamment tres peu. 
+- comparaison entre z tree et les autres ? evolution depuis la comparaison du papier de 2007 ?
+- toujours l’environnement le plus simple pour faire des truc interactif. il y a aussi des restrictions mais ca permet de se concentrer sur le principal. et ca marche pas encore sur browser t’as besoin de télécharger le client. il a fait  Etre pour être le plus simple possible, tu décris juste ce que tu veux et ca marche.
+- du coup il pense que les trucs d’IA comme copilot qui aident à coder sont la preuve que les systèmes sous jasent sont trop compliques et permettent pas suffisamment de juste d’écrire quelque chose.
+- donc il y a un competition entre z tree et d’autres software et o tree et le principal concurrent 
+- il n’est pas un open source activist mais il deplore que le développement d’internet et des ordinateurs et mener à la creation de nombreux monopoles. les gens dans les années 2000 étaient tres enthousiastes des opportunités de ces nouveaux modes de consommation et c’est en partie vrai mais il y a aussi ces monopoles qui sont le revers de la médaille. et c’est pour ca que selon lui l’open source est si important, pour casser en partie ces monopoles.
+- (p.25)
+- "So one current view about computerization is that this is simply the adoption of pre-formatted tools that do not fundamentally alter the scope and nature of economics. Such tools, they only increase computational power, tractability, they allow economists to perform the same operations as in the pre-computerization era only faster at a lower cost. Computers allow to incrementally complexify models or to handle more data but basically that’s it. Now what’s your opinion on this view?"
+- disagree. faire plus simple permet de faire plus et donc libéré du temps et de l’énergie pour tester, explorer, se poser des questions différentes. et de faire des choses tout simplement impossibles autrement. donc ca c’est clair maintenant pour savoir a quel point c’est révolutionnaire, l’ampleur du changement c’est difficile à dire. "in science nobody would ask such a question. Because in science it’s totally clear if you have a new microscope you can study totally new things and in social sciences I think the idea of Chamberlin to use incentives to create economic environments was really an extremely clever idea that changed what social sciences can do. […] there are new methods that make a difference and in that sense I think without computers all these large-scale experiments that are now conducted wouldn’t be possible."
+- "In your opinion what role did computerization play in creating the conditions for interactions between academic research, economic policies, business activities, economic teaching, how does the computer change all of these relations."
+- "So I think the computer, the internet changed the world. So it changed the economic environment, it changed the research question that we can ask, so we can ask about what did computers do, what did they do. So it changed our subject, it changed our subject significantly. Now does it affect how we do it?" networks effect, information bubbles are the result of computerization. monopolization will probably again be a problem. AI once again speed things and allow new thing. 
+- (p.26)
+- areas to investigate about compurterization ?
+- yes vernon smith and tucson lab, very important for electronics markets.
+fini le 2/12 à 15h30
