@@ -1,0 +1,69 @@
+19/02/2025
+
+Lecture interview Joshua Epstein - Sugarscape
+
+(p1)
+- BA pas clair si c’est en eco ou musique ou quoi
+- PhD au MIT en political science et économie
+- 2025 project, model to asses sustainability, by Brooking think tank
+- talk at Carnegie Mellon, meet  Herb Simon
+(p2)
+- student call about the talk because can’t replicate, meet to help him, good vibes, it’s Rob Axtell
+- Axtell is hired in the Theoretical Group of 2050 Project with Epstein and John Steinbruner, the boss in Brookings
+- Draw on napkins the simplest society possible at end of a lunch at Brooking cafeteria
+- Built Sugarscape from this discussion
+- Discover and code Schelling model, add in appendix (auto segregation because people have mild in-group preferences)
+- Sugarscape idea is "build a full-up, evolutionary social science, where there’s a lot going on and society is a high-dimensional thing with movement, migration, trade, combat, and disease, and really try to take, again, a crude look at the whole in an artificial society"
+(p3)
+- Sugarscape, at the beginning, was more a concept or an idea of a "pure" society rather than a ABM scientific tool
+- then realise it could be used for empirical work
+- Proto-History, agent in specified condition, and study how it evolve
+- At Santa Fe institute (thin tank, complex system), an archeologist thought it looks like Anasazi, Arizona natives civilisation who interact with other population and vanished 
+- Used hydrology, corn potential, housing in sugarscape to try to draw an Computational Archaeology and understand what happened
+(p4)
+- Math major before PhD, scholar thesis on financial control of industrial corporations in the U.S. economy
+- Very interested in political economy and MIT welcomed people from rigorous field AKA math
+- Fell in a group who was modeling in the fiel of security studies (interstate conflict, arms races, warfare) with highly math model but no ABM
+- no yet connected to Santa Fe or Brookings
+- Became connected in the late 80’s
+- First in the Foreign Policy program then moved to Economic studies program at Brookings
+- Smooth transition because Sugarscape was very protected
+- Then Rob Axtell went to George Mason University and Epstein to John Hopkins with National Institute of Health for epidemic work
+(p5)
+- Now a professor of Epidemiology at NYU both Math and Politics department, before at Hopkins,  department of medicine, but university wide Center for Advanced Modeling in the Social Behavioral and Health Sciences
+- He is into 5 things 
+- 1 - produce a coherent epistemology for generative social science, including economics
+- this is focused on what is the standard of explantation ? for macro social regularities ?
+- the generative explanation is : you have to generate it bottom-up in a population of cognitively plausible agent
+- different from prediction, which might have no mechanism
+- what is the epistemology ? idea of a generative explanation of social phenomena
+- 2 - the scientific instrument for this generative explanations is the agent-based computational model he has been implicated in the development of
+- 3 - a lot of applications, from economics to epidemiology
+(p6)
+- probleme de l’acteur rationnel qui correspond pas avec la réalité
+- you can only beat a model with another model
+- 4 - formal alternative to rational actor : agent zero based on cognitive neuroscience, with emotional module
+- 5 - Inverse Generative Social Science
+- instead of designing agent, stipulate primordial soup of agent, permissible combinators and target
+- view the results, the evolution, the gap between results and targets
+- computing is a very essential part of this work
+(p7)
+- when they created sugars cape, no text book, no object oriented programming
+- now, lot of model, python
+- very big model, planetary wide infectious disease model with 6.5 billion agents
+- "The computing is just unrecognizable. And it’s allowed the thing to explode in a million directions. But using computers is not the point, right ?  I mean, you can use computers to do very traditional economics, and there are a lot of economists using computing to do traditional representative agent macro, using computers. That’s irrelevant. What’s relevant is: What is the explanatory standard? What is the scientific instrument in constructing explanations meeting that standard? And it turns out that computing has developed to the point where this is a serious alternative way of doing social science, including economics."
+- he don’t feel to have change fields, between economics, political economy and epidemiology, he has always been studying networks, generative minimalism 
+(p8)
+- this analysis have been developed after 
+- first thing, the napkins, the model
+- then developed an epistemology. what is an explanation ? 
+- prediction=/=explanation
+- ARIMA model to estimate number of sheep, without reference to number of wolf
+- but it’s not just about it’ll happen, we want to understand mechanism, why do things happen ?
+- AI and LLM often predict without explaining
+- why earthquakes ? because plate tectonics, explanation but no prediction
+- they was illiterate, Rob Axtell background is chemical engineering, his is social science, mathematical modeling
+- but thought that neo classical was a wrong picture
+(p9)
+- so developed their model and tried every application that  was suggested, so those applications re a bit random
+- computing mattered a lot, and object oriented programming was perfect for agent based modeling, he wrote a lot of C++ code
