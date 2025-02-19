@@ -1,0 +1,207 @@
+04/12/2024
+
+Lecture de l’entretien Agnès Gramain
+
+
+- (p.1)
+- premier contact avec ordi en traitement de texte (logiciel Sprint) aider sa maman a écrire 
+- puis papa branché apple donc mac
+- calculatrice programmable en prépa, développe une horloge dessus
+- puis ensae, calcul sur SAS, depuis des terminaux
+- programme en batch a faire tourner la nuit sur ordinateur de l’insee (entre 90 et 92) et résultats sous forme papier
+- (p.2)
+- puis arriver de PC sur lequel les résultats sortaient sous forme informatique. écriture de rapport avec word
+- SAS est logiciel insee par excellence donc cours de SAS
+- tres violent car pas fait d’informatique avant car arrivé par prépa éco et science sociales
+- (p.3)
+- au debut rendu de devoir manuscrit, cours de socio de florence Weber, entretien et analyse. elle a photocopié son devoir pour le donner à la personne avec qui elle a fait l’entretien (en 2eme année ENSAE)
+- plus le droit de rendre travaux manuscrits
+- rendu d’un devoir en 3eme année. anonymisation du lieux avec CTRL F sur WORD
+-  se force à apprendre a taper avec ses 10 doigts en these
+- these register avec TEX sous OZTEX
+- ses profs avaient écrit les equations de leurs thèses à la main
+- (p.4)
+- avant d’être en autonomie face aux terminaux, TP avec des économistes (anciens ensae) et des petits exo techniques
+- manuels appelés pieuvres écrits par des gens de l’Insee pour avoir les bases en SAS, un autre pour les bases en analyse de données etc. avec syntaxes, exemples etc. tres pédagogique. une pédagogie d’apprentissage par le faire, travail autonome et toutes les deux semaines, points avec encadrants. et entre temps assistas statisticien qui était dispo pour donner de l’aide
+- (p.5)
+- cartes perforés deja hors du paysage
+- pas de lien, jamais vu la machine qui faisait les calculs
+- gros problèmes de portabilité entre ses différentes ordinateurs sous mac, windows,…
+- perte de sa base de données bibliographiques suites à l’arret de la maintenance de ClarisWorks, logiciel Mac
+- SAS pas accessible sur mac donc un PC en plus pour faire tourner SAS
+- puis utilisation de GAUSS, beaucoup plus programmable mais dur a utiliser
+- gros problèmes de portabilité des fichiers donc passage à plain TEX. ca tu dis a l’ordi que c’est du TEX et ca compile sur n’importe quoi. transition faites en meme temps que son papa mathématicien qui lui a installé OZTEX et dees premiers fichiers d’input. et le livre de Seroul qui est la bible du TEX.
+- (p.6)
+- tout le monde passe à tex en meme temps qu’elle à la fac d’eco
+- a la fac de médecine (these codifiée) les gens utilisent pas tex
+- en eco en particulier les économètres c’est tres bien pour eux
+- en premiere année de these, cours tres dur sur GAUSS, tres peu convivial. proche du C. pour sa these, réécrire la vraisemblance, l’algorithme de maximisation de la vraisemblance. (these entre 94 et 98)
+- ca c’est paléolithique mais sinon l’informatique dans son ensemble est super généralisé, écrire, calculer, archiver, biblio faites sur pc, SGBD
+- (p.7)
+- et aussi pour communiquer, debut du mail généralisé 
+- pour la collecte des données, sans doute faites à la main
+- suite d’une enquête 3 ans après, retourné voir les personnes âgées pour voir leurs situations et faire le liens avec des variables comme revenu, patrimoine etc. est ce que maintenant mort, en maison de retraite, en famille, avec des aides pro ?
+- recuperation des données à la main qui retranscription dans un excel sans doute, en tout cas dans un tableur ensuite importé sous GAUSS
+- donc vraiment du bricolage, tambouille, artisanat
+- (p.8)
+- travail d’independant
+- dur émotionnellement le debut de these quand contraintes d’utilisée GAUSS
+- s’est entouré d’ami qui était fort en programmation qui l’aidait
+- aspect d’apprentissage collectif, elle aidée en retour, à l’ENSAE c’était ca
+- les pieuvres de JM grosbras c’était des documents qu’il avait rédiger pour expliquer ses macro, préprogrammés pour lui meme, pourquoi ils les avaient faites, comment les utiliser. objectif que tous le monde n’ait pas besoin de refaire le meme travail
+- le travail de groupe était encadre par des étudiants passer par la 10 ans avant donc transfert de savoir faire, transmission de type maitre-apprenti
+- avec GAUSS un peu moins car moins de gens qui l’utilisait, surtout les économètres un peu hard
+- (p.9)
+- peut etre qu’il y avait des échanges de programmes sur des disquettes mais pas de souvenir. surtout un souvenir de galérez à faire marcher ses codes à elle
+- beaucoup de sujets de recherche différents dans le labo, théorique, empirique, économie, médecine, pas les memes types de modèles, donc de problème. pas un truc fondamental (quel truc ? l’informatique ? la programmation?)
+- dans le labo tout le monde était face a son PC, un bureau pour 2, un PC par personne
+- (p.10)
+- son directeur de these était un théoricien de l’économétrie à l’ancienne de ouf, pas d’ordi sur le bureau, pile de feuille blanche et gros feutre noir
+- elle a fait pareil, pas d’ordi car ca coupe des gens
+- il lisait ses mails sur papier, imprimer par sa secrétaire
+- pareil pour le directeur cote médecine, labo de bio stat mais lui faisait jamais les stat lui meme
+- le traitement des données étaient different entre médecin et économiste
+- médecin tres marque par essai pharmaceutiques de phase 3, enquête randomise qui sont arrive bien après en économie.
+- (p.11)
+- en épidémiologie c’est des enquêtes ou tu ne peux pas faire ca, donc ils ont aussi un peu prepare le terrain pour les économistes. "en économie on était moins tatillon" à part l’insee qui était le grandirent pour ce genre de savoir-faire maisles épidémiologistes avaient des méthodes statistiques beaucoup moins creatives pour traiter leurs données. appliquer de manière routinière toujours les memes test et analyse. ils avaient un logiciel bcp plus confort avec tous les programmes pre programmes. juste le parametrage à faire.
+- elle n’a jamais eu de problème de devoir faire tourner ses programmes pendants des heures car elle n’avait pas beaucoup de données, seulement 331 personnes mais ca prenait quand meme parfois 15 minutes ou elle allait fumer une clope. on voyait les iterations des l’algorithmes de maximisation à l’écran et à la fin ca convergeait plutôt bien. et puis ils etaient bien équipe et avait des gros ordinateur pour l’epoque.
+- à l’envase pour les travaux sur beaucoup de monde ca partait sur l’ordi d’air en provence pendant la nuit justement parce que c’était trop long.
+- le problème c’était qu’elle recommençait beaucoup, donc il fallait etre bonne programmation. pour certains de ses amis ca prenait parfois la nuit ou 48h pour des calculs, la c’était vraiment long.
+- (p.12)
+- aujourd’hui son rapport aux ordi ?
+- ca fait 5 ans qu’elle fait plus d’econometrie fonda
+- dirige un labo donc plusieurs heures de mails par jour. sa fille dit qu’elle est écrivaine de mails
+- aujourd’hui elle voit l’informatique comme un boulet
+- trier les mails, répondre, réfléchir a qui en copie a qui en destinataire, beaucoup de problème de communication par ordinateur 
+- elle s’occupe des achats d’ordi pour les gens du labo, environ 12 par ans. difference entre théoricien et applique, applique bcp de puissance de calcul.
+- informatique toujours tres présente mais plus du point de vue de la mise en place de l’infrastructure, de mettre des chercheurs dans de bonnes dispositions.
+- (p.13)
+- 50 dans le labo et changement de pc tous les 5 ans donc acter 12 ordi par an.
+- toujours un peu d’informatique car enseignement de l’économétrie applique a la fac
+- essaye de faire l’equivalent des pieuvres mais les gens ont encore du mal en M1 donc tentative de nouvelle pédagogie avec retour de méthode comme a l’ensae, plus en autonomie, comme elle a eut.
+- (problèmes dans l’enseignement les gens savent plus faire, retour au méthodes de l’ensae)
+- les TP sont trop artificiels pour apprendre vraiment avec les mains dans le cambouis.
+- enseigne en SAS aujourd’hui, quasiment tout du long sauf a Dauphine, ou c’était éviers pour série temporelles
+- GAUSS finito
+- (p.14)
+- la portabilité était bien meilleure mais toujours pas top.
+- améliorer par les géants du numérique qui se sont rendu compte que c’était nécessaire.
+- nouveau problème entre Latex et Scientific Word. chacun un traitement de texte different. l’avantage de plain TEX c’est que c’est compilable partout
+- elle écrivait ses morceaux en plain tex à ses collègues qui faisaient l’integration et la version finale de l’article. 
+- maintenant le problème c’est l’harmonisation des logiciels à enseigner. chacun enseigne avec celui qu’il maitrise. SAS, R, eviews, stata.
+- (p.15)
+- à l’ensae ca fait partie du métier de connaitre pleins de technologie différentes mais dans sa licence d’eco, les gens sont pas destine a devenir des data hardcore donc vaut mieux avoir un seul outils qu’ils maitrisent bien.
+- comment elle elle choisit ?
+- elle a fait longtemps SAS car tres verrouilles, pas de risque, bonne doc pour chaque proc, tout est logique car centralisé, harmonisé, systématisé.
+- le problème de SATA c’est que travailles en mode interactif (modifie directement la DB) et que y a aucun filet de sécurité. son cote année 90, les données sont tellement couteuse, on prend pas le risque d’effacer un fichier. on test son code sur des données blanches d’abord. archivage des programmes, cahier avec tout ce qu’elle fait chaque jour avec quelle programme. elle a essaye de transmettre cette logique a ses étudiants.
+- (p.16)
+- e views meme problème, finalement elle est passé sur R
+- R est une catastrophe car tres mal organise, rien n’est systématisé, rien n’est devinable, chaque library est écrite par qqn de different avec une logique différentes 
+- mais elle l’utilise parce que 1 elle est passée sur une surface windows tres légère. SAS marche pas dessus, il faut payer tous les ans etc. et un jour elle apprend que au rectorat commence a utiliser R à la place de SAS 2 pour les étudiants, c’est gratuit, super simple à utiliser.
+- mais elle utilise via Rstudio car R trop dur et elle utilise des packages qui transforment R en SAS. donc quand elle compare des programmes fait par elle ou par des natifs de R, c’est tres tres different.
+-  (p.17)
+- maintenant elle ne sait pas quel modele utiliser pour faire de la recherche. elle n’est pas a l’aise avec les docs, pas confortable.
+- elle fait métaphore de passer du coca à l’orangina.
+- elle ne trouve jamais l’info qu’elle cherche la ou elle l’attend.
+- avec tex, créer par un prof de math universitaire c’est hyper intuitif, "comment j’aurais appelé cette commande ? a bah c’est comme ca qu’elle s’appelle"
+- Word fait pour les secretaires, pas les universitaires. tu te met dans la situation du secretariat et tu trouves
+- R elle n’a pas trouver la posture adapter pour arriver a bien utiliser les docs. elle ne comprends pas par qui c’est écrit. pas des gens comme elle, plutôt des jeunes qui programment en python. qui pensent différemment. c’est très étonnant mais tres interessant et émoustillant.
+- le fait d’être sur logiciel libre était un enjeu pour elle ?
+- un peu, pour ses étudiants pour qu’il soit opérationnel facilement
+- (p.18)
+- elle n’a jamais refuse d’acheter de licence en tant que Directeur d’unite mais elle a essaye de faire réfléchir les gens, est ce possible de faire autrement ? 
+- pour stata, mutualisations avec un autre labo pour acheter la licence en gros et payer moins cher
+- mais elle essaye aussi de les faire passer ua logiciel libre, equivalent de matlab en libre, latex aussi. R libre.
+- R enjeu plus complexe, pas comme un traitement de texte en perso, aussi enjeu pour l’éducation pour l’enseignement. 
+- elle pouvait pas collaborer avec un co auteur sur latex si il ne lui donnait pas un droit spécial. alors que le CNRS a un equivalent parfait mit a disposition. mais personne est au courant
+- Francesco sergi rit en disant qui lui le premier n’est pas au courant
+- au debut cet equivalent était reserve aux matheux du CNRS, mais après avoir rué dans les brancards, elle a obtenu, et les matheux ont gentiment accepte d’ouvrir l’outil à d’autres. en tant que DU elle a donc essaye de aire attention à ca. mais pas pour des raisons idéologiques, plus pour utiliser l’argent public intelligemment. 
+- (p.19)
+- après pour les choix perso, chacun fait ce qu’il veut. elle a essaye de respecter les choix des collègues la dessus. car les logiciels libres sont souvent collaboratifs (plusieurs devs) et donc moins bien ficelés. plus dangereux. tu ne sais pas bien quel est l’algorithme de maximisation derriere. alors que tradition de transparence, de métadonnées, beaucoup plus forte chez SAS, STATA, qui sont beaucoup plus institutionnalisés.
+- enfin ca ca depend surtout des manières d’être de réfléchir
+- elle n’a pas d’idéologie, le fait d’apprendre avec SAS fait qu’elle est beaucoup plus a l’aise avec et qu’elle réfléchîtes tout avec ce mode de fonctionnement, en proc, … c’est comme une langue maternelle, ca structure ta manière de penser 
+- BREAK
+- oui, il y a forcement de meilleurs logiciels statistiques que d’autres. ca depend des critères, certains sont plus flexibles, certains permettent de faire moins de chose, sont plus ciblés, certain boite noirs, t’as pas la main, elle s’en méfie. elle a trouve des trucs tres clic bouton mais elle trouve ca dangereux.
+- (p.20)
+- troisième critère c’est comment le logiciel te parle, est ce que il y a de logs ? des bons messages d’erreurs ? quand il fait un truc est ce qu’il te le dit ? ca fait la difference entre les noobs et les experts, les experts regardent les logs essaye de corriger les zones rouges
+- dans les 4 grands (SAS, stata, eviews, R) stata sait pas pas utiliser, R et sas assez similaire. messages d’erreurs de R se comprennent plutôt bien, tres pertinents. Eviews, jamais programmé avec donc no se. eviews de toute façon c’est series temporelle et elle n’en fait jamais. 
+- sur les algorithmes utilise en back ground elle fait surtout la différence entre les gros et les petits logiciels. ls gros te laissent quasiment tous le choix de l’algo. tu as la mains sur tout. comme les voitures modernes vs années 70. aujourd’hui ut peux rien réparer toi meme, faut de l’electronique etc. alors qu’avant tu pouvais rentrer dans le capot et customiser ton moteur. pareil pour les logiciels.
+- (p.21) il faut faire faire à l’informatique ce pourquoi elle est bonne et a l’humain ce pourquoi il est bon. les calculs a 2000 à l’heure c’est l’ordi, le choix de l’algo de maximisation c’est l’humain. il sait pq il en préfère un, les propriétés mathématiques, et que dans son cas, avec ces données, c’est lui le mieux. pour elle c’est important les logiciels qui liassent la part à l’homme dans ce pourquoi il est bon, pas juste appuyer un bouton.
+- donc dans les grands moments de l’informatique en économie, on sens qu’il y a deja un partage entre 2 temps au niveau logiciel.
+- il y a eu de l’économétrie app avant elle ou il devaient avoir en core plus les mains dans le moteur, c’st peut etre pas si mal qu’il y ait eu des simplifications pour avoir un accès un peu plus facile. tout le monde n’est pas un mega tuneur/garagiste pro de la mécanique.
+- dosage compliqué à faire mais aujourd’hui on a quand meme beaucoup de choix dans les logiciels plus ou moins facile. SAS STATA et R c’est trois generations différentes à la creation et c’est tres generationnel à l’utilisation, dans les labo ca se voit clairement. sauf que plus de gens transitent vers R que vers SAS. c’est un peu un signe. c’est tres flexible tu peux ou pas, rentrer dans le capot. SAS quand meme un truc de sorcier et cout d’entree tres important.
+- dans les usages ont voit des vagues, des gens socialisés à l’informatique avec des logiciels différents, mais les logiciels eux meme ne disparaisse pas, ils coexistent.
+- (p.22)
+- GAUSS existe encore, des gens l’utilisent, mais R tu peux l’utiliser de la meme manière. en programmant tout. 
+- elle a plutôt l’impressions qu’il y a une diversification des formes de logiciels plutôt qu’une evolution des logiciels. "on ajoute de nouvelles formes mais on ne détruit pas les anciennes"
+- sergi : aujourd’hui l’histoire commune de l’informatique en économie c’est "On peut faire aujourd’hui plus vite et plus simplement des choses qui avant étaient longues et compliquées ou coûteuses en termes de temps, en termes d’argent." est suffisant comme caractérisation ? cette diversification de logiciel introduit d’autres changements ?
+- oui c’est clair, on peut faire aujourd’hui des choses qu’on ne pouvait pas il y a 20 ans. un PROBIT conditionnel a 3 issues ou 4, c’était infaisable avec les ordis il y a 50 ans. sauf peut etre la NASA. dans les PROBIT il y a integral triple, trop dur a calculer, ca s’approxime. le chercheurs lambda i se posait pas la question, il changeait ses hypothèses stochastiques.
+- trop grand nombre d’iteraiton nécessaire 
+- donc on faisait un LOGIT a la place, aujourd’hui sur un PC ca se fait en 3 minutes, le monde est discret pas continu. durée de calcul passe des jours à 15 minutes.
+- des choses sont devenues possibles, avec les bons et les mauvais cotés.
+- (p.23)
+- sergi : y a t il des dépendances au sentier ? dans le type de technique choisis en ayant bcp de capacité de calcul alors que c’est pas forcement judicieux ?
+- on ne programme plus pareil, avant on faisait attention a la capacité de calcul, en réduisant le nombre de tests, le nombres de conditions 
+- mais c’est aussi une manière différentes de penser le problème, c’est une contrainte qui te fait poser la question dans des termes différents, un philosophe dit que "de la contrainte né la beauté" bref une contrainte productive. oblige a réfléchir, il y a donc une derive techniciste, à estimer les modèles les plus bizarres que nos capacités de calcul autorisent
+- mais pas de cours à traiter de plus en plus de données. on est submerge par les données pas traitées. la production va plus vite que l’analyse. mais il continue a ya voir des domaines ou les gens font des collectes de données sur mesure. donc pour lesquels il n y aura pas 500 000 observations. ca prend trop de temps pour un projet une these
+- parallemelemnt le financement de la recherche a changer, beaucoup de recherche finance au projet, au contrat, avec des échéances, en gros 3ans. dans les années 80,90 il y avait dotations fondamentales, vie devant eux pour faire des projets. tu fais pas de l’informatique pareil. quand tu dois avoir des livrables à 1an 1/2 et 3 ans. pour la collecte de données c’est un gros problème. ca prend beaucoup de temps. il y a le net, le webscrapping se développe bcp. mais bcp de doctorat font encore de la production de données, en petite quantité. comme elle pendant sa these.
+- (p.24)
+- un peu plus gros quand meme pour etre plus a l’aise pour faire tourné les modèles. mais il y a une attention aux données qui se perd. pleins de données, de capacité de calcul, donc on les traite. y compris si mauvaises données ou pas clean. le fait que la capacité de traitement était rare, il y avait beaucoup d’attention aux données utiliser. 
+- donc risque que les données plus massive et les capacités de les traiter plus grande pousse à estimer des modèles plus compliqué ou avec des méthodes d’estimations plus compliqués sans réfléchir à la pertinence du modele, des donnes. il y a un besoin fort de formation en epistemologie empirique, et une demande des doctorants.
+- sergi : on est aussi de plus en plus dépendants à des logiciels pas fiat pour nous non ? les macro SAS de l’Insee c’était par des économistes pour des économistes.
+- R on ne sait pas trop d’ou ca sort mais c’est particulier car c’est collaboratif. si la communauté joue le jeu et s’en empare, fait des packages accessibles à tous, ca devient adapte a la communauté. c’était beaucoup moins souple avec SAS, que l’Insee. R c’est n’importe qui, avec les avantages et les inconvénients.
+- Mathlab pareil, pas spécialement pour des économistes mais beaucoup de théoricien l’utilisent.
+- (p.25)
+- les historiens aussi utilisent des outils de stat standard.
+- mais aussi parfois du tres peu standard. 
+- Un historiens arrive avec sa base de données construite pour sa these d’état sur sa disquette. essaye de la charger sur SAS mais ca plante. parce que dans une colonne il y avait des chiffres et du latin donc pas une colonne numérique.
+- les ethnographes utilisent beaucoup l’informatique pour la construction des archives
+- (p.26)
+- comment gère une enquête de terrain et ses obesrvations quand il y a plusieurs chercheurs sur le coup ? travail avec archéologues qui sont tres pionnier la dedans pour construire logiciel pour structurer et traiter ces information, tres diverses en natures et en types d’info.
+- Ce texte souligne l'importance croissante de l'informatique dans la gestion et l'archivage des données issues des enquêtes de terrain collectives, notamment en ethnographie. Florence Weber a développé un logiciel innovant, inspiré des pratiques des archéologues, pour structurer et traiter des données très hétérogènes (entretiens, photos, documents divers). Ce type d’outil dépasse les simples fonctions de calcul des logiciels statistiques comme SAS. Il facilite le partage d'informations entre membres d'une équipe de recherche, stimule la réflexion collective, et aide à surmonter les limites humaines de traitement de données complexes. L'informatique est ainsi présentée comme un outil non seulement technique, mais également conceptuel, contribuant à la création et à l'avancement de la recherche, notamment dans des disciplines comme la sociologie et l'économie.
+- décloisonnement des sciences sociales, l’informatique est juste un outil, et tres transversal par rapport à d’autres. statistiques aussi, l’importatn c’est les modèles, les types de données, leurs codages etc. mais la capacité de calcul c’est utilisable partout. 
+- la capacité d’organisation et tri, classement de l’informatique c’est super puissant quel que soit la science, au de la des SHS, meme en physiques. les linguistes organisent des corpus énormes comme ca.
+- (p.27)
+- en économie 4 catégories :
+- les théoriciens, traitement de texte élaboré, logiciel de dessin. 1 type essaye de la convaincre que ca marcherait pour elle car il y a du calcul
+- les empiristes qui doivent faire tourner des gros modèles de stat applique sur des grosses bases
+- les simulateurs (agent based model) simulations qui se basent sur des distributions empiriques mais multiplications des simulations.
+- les expérimentaux avec des logiciels de protocolisations
+- rapport à l’informatique assez cloisonnées entre ces gens, pas le meme parcours, pas les memes pratiques
+- (p.28)
+- vu de l’exterieur ils ont un peu les meme problèmes que elle avait-il y a 20 ans. 20 minutes pour faire tourner une simulation.
+- impérialisme de l’économie vers les sciences sociales. on parle souvent de l’aspect théoriques, mais est ce que il n y a pas aussi, par le biais de l’economie appliquée et donc de l’économétrie, une main d’oeuvre qualifié qui se serait exportés vers d’autres disciplines qui utilisent des données de manière générale.
+- oui tres plausible, en scpo, en socio, des écoles quantitativistes. des transferts. Baudelot et Establet sont de tres bons statisticiens, pas pareil que des économètres.
+- (p.29)
+- économétrie transposé un peu violemment en sociologie en France
+- linguistes ont une tradition quantitative mais pas tres modélisé. socio, histoire, science po, ont un usage tres ancien des statistiques, calculs de concentration, de dominance stochastique
+- les approches de cliométrie (histoire de l’economie via économétries), de sociométrie sont plus nouvelles. c’est peut etre lié à la force de frappe des économistes appliqués
+- propriété des données par exemple de tinder
+- possible de les avoir en faisant des partenariats
+- résultat tres interessant, tinder terrible, encore plus homogamique que la vrai vie, seule milieu professionnel fait pire
+- gros problème au niveau des données et de leurs qualités
+- (p.30)
+- tu peux ou non supprimer tes cookies, navigation privé ou pas, vpn ou pas, on ne sait pas vraiment ce qu’on recupperre comme donnée. boulevard pour la question comment ce truc est arrivé jusqu’à nous, que les historiens se sont deja posé. l’Insee a appris a tout le monde a. faire des sondages avec des protocoles de tirages aléatoires ca tres bine, mais pour ca il faut avoir la distribution de depart. donc la il faudrait etre informaticien et utiliser du traitement statistiques, savoir comment le site est construit etc.
+- pour l’instant les économistes n’ont pas ces competences il faudra former des gens à l’analyse de ces nouveaux comportements. role de l’informatique sur le Data Generating Process. quand est ce que le site laisse la main ou pas à l’utilisateur, comment decide t il si il laisse ou pas les données.
+- (p.31)
+- réseau de neurones, modele de prédiction auto générés. permettent de contourner des problèmes de donnes, dont les relations sont opaques pour l’être humain. 
+- elle a un peu utilisé en DEA, en théorie des maths tres sympa. 
+- tres different de l’économétrie, choix épistémologiques tres different. pas à l’aide avec ces méthodes. l’endroit ou le chercheur intervient n’est pas clair. quand elle fait une hypothèse de spécification sur son modele, elle sait pourquoi elle le fait. parce que un théoricien ou un sociologue a dit, "j’observe ca, il y a un lien entre ces deux variables". et notre role et de quantifier ces liens. donc on fait de hypothèse de specifications, ont peu tester ces erreurs de spécifications etc. et après on estime, selon une méthode qu’on choisit, en fonction des termes de la specification, en fonction de ce qui est endogène ou pas.
+- (p.32)
+- donc dépend totalement du modele a priori en termes de mécanismes 
+- en réseau de neurones, pas du tout les memes résultats en fonction de la distance choisit ou selon la méthodes d’optimisation. 
+- quand elle demande pourquoi telle méthode et pas une autre on lui répond que "on fait comme ca, ca marche mieux" c’est pas une raison suffisantes selon elle.
+- elle pense que c’est une discipline super mais que les chercheurs ne sont pas encore allé au bout de pourquoi c’est super.
+- question du partage des taches entre humain et ordi. il faut que ce partage soit pertinent. à l’informatique le calcul, a nous de penser les liens, ressentir ce qu’il se passe, capter notre univers.
+- pour la formation c’est un gros enjeu, il faut arrêter de former des gens à ce que l’informatique fera mieux dans 10 ans. c’est dur de savoir ce qu’on fera mieux que l’informatique dans dix ans, c’est a ca qu’il faut réfléchir.
+fini le 17/12 à 12:00
+
+Agnes Gramain
+- 5eme ligne en partant du bas page 24 "l’Insee adaptait cesse …" remplace par SAS.
+- avait vous interviewer des gens qui font des simulations, agent based model comme conseiller p.27/28 ?
+
+L’economie comme une interface entre les sciences "dures" et les sciences sociales 
+L’économie en se voulant tres scientifiques attire des profils de physiciens, de mathématiciens (Aumann pour théorie des jeux) et finies par "digérer" leurs méthodes puis les fais appliquer dans les autres sciences sociales. quantitatif en sciences po, en socio, etc.
+L’informatique et ses usages est le meilleur exemple de ca.
+Avant ca servait à calculer la trajectoire des fusées, après à prédire les cours de la bourse, après a faire de la macro, et après à faire des campagnes de pub ciblé sur internet pour modifier le vote des gens. etc.
+Meme en cours d’épitemo on parle toujours d’épistémologiste des sciences dures avant qu’ils s’attaquent aux shs
