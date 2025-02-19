@@ -28,3 +28,4 @@
 *.xdy
 *.thm
 *.DS_Store
+aux/
