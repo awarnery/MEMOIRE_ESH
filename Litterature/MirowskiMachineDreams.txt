@@ -1,0 +1,40 @@
+17/02/2025 Intervention oral TCR
+
+Book review of Mirowski Machine Dreams
+
+- Machine Dreams raconte l'histoire d'un épisode, ou d'un groupe d'épisodes, qui a joué un rôle central dans l'émergence de l'économie mathématique après 1945 ».
+- L'argument principal de Mirowski est de dire que l'économie néo classique est tres influencé par l'importation de concept et de metaphore d'autres sciences.
+- Il a travaillé sur l'influence de la thermodynamique chez les marginalisés du 19eme siècle dans 'More heat than light' et s'intéresse maintenant au cas des néoclassiques et de l'influence du développement de l'informatisation sur leurs travaux.
+- On sait que la deuxième guerre mondiale et la guerre froide ont été importantes pour les économistes, mais Mirowski soutient qu'elles ont été d'un ordre de grandeur plus important que nous ne le pensons.
+- Cowles, fondée par des économistes mathématiciens qui ont tous participé à l'effort de guerre.
+- RAND corp, financé par l'armée de l'air américaine.
+- Personnage principal : le mathématicien John von Neumann, célèbre pour son intérêt pour la théorie des jeux.
+- mais ce n'est que la partie émergée de l'iceberg, car il s'intéresse aussi beaucoup à la machine pensante et au cyborg.
+- La théorie des automates est décrite comme traitant de toutes les formes de traitement autorégulé de l'information et fournit une approche générale de la rationalité.
+- Pour Mirowski, les sciences cyborg ont commencé ici : avec le traitement des phénomènes naturels ou sociaux en tant que processus d'information d'une machine de calcul finie. C'est cela, et non sa théorie des jeux, qui constitue la « contribution la plus profonde de von Neumann à l'économie ».
+- C'est également ici que Mirowski repère la bifurcation théorique cruciale. Von Neumann, malgré tout son intérêt pour les questions de rationalité, ne s'est pas montré enclin à appliquer la théorie des automates aux questions d'architecture cognitive humaine. Il s'intéressait plutôt aux questions d'organisation, que ce soit dans le domaine de la biologie, des opérations militaires ou des questions sociales en général. Ce n'est donc pas von Neumann, mais la profession économique, qui a développé l'idée de la cognition humaine en tant que processus algorithmique et l'a transformée en un concept renforcé de rationalité économique.
+- Dans un chapitre nommé « L'empire contre attaque » Mirowski va expliquer qu'à cette époque, le modele de l'acteur rationnel est en crise. C'est ainsi que les cyborgs, les économistes mathématiciens associer à VN vont détruire par eux meme le concept de rationalité algorithmique.  D'abord en remettant en cause la calculabilité de la fonction de choix d'Arrow, et donc l'hypothèse de préférence rationnelle de son théorème d'impossibilité, puis en ciblant les hypothèses de connaissance commune implicites dans l'équilibre de Nash.
+- Leur vision de la rationalité est donc chamboulé et ils doivent se réinventer rapidement sous la pression de l’armée qui trouve que ces théories ne sont pas suffisamment appliqué et ne marche pas bien en lors d’experiences + evolution rapide de la technologie informatique. Concrètement c’est théorie alambiqué des mathématiciens dans leurs bureaux vs réalité complexe de la prise de décision stratégique dans l’armée.
+- Ensuite le débat se déplace de l’algorithme minimax de von neumann vers l’equilibre de Nash. Celui ci représente une extension mais aussi une critique des modèles precedents, car en l’étendant à plus de 2 joueurs et à des situations à somme non nulle, il le rend plus credible et réaliste.
+- Les chercheurs de la RAND expriment de gros doute quand a la faisabilité calculatrice et a l’application reel de ce modele.
+- De plus, Mirowski critique le modele de Nash
+- Celui sous entend une vision de la rationalité algorithmic et paranoïde, ainsi qu’un agent extrêmement isolé et toujours en hyper vigilance.
+- Puis dans Does Rational actor compute, Mirowski s’interesse aux problèmes de solvabilités et de tractabilité. Ces sujets sont en fait des problèmes mathématiques. Les auteurs cites par Mirowski remettent donc fortement en doute la possibilité de toujours trouve une solution à un probleme. Et si il était possible de trouver une solution, mettent en doute la possibilité qu’on puisse la calculer.
+- si la fonction de choix des agents n’est pas solvable, ou impossible à calculer, alors toute la théorie du choix rationnel néoclassique s’effondrent
+- ici Mirowski s’interrompt dans son discours académique pour s’adresser directement aux lecteurs, il dit que de nombreux auteurs de la rationalité ont vécu des graves problèmes de santé mentale et que plusieurs se sont suicidés et interpelle le lecteur sur l’incohérence entre ces faits et les theories qui dresse un portrait de l’humain comme un maxmisateur d’utilite parfaitement rationnel.
+- finalement il conclut en parlant de Herbert Simon, de sa vision de la rationalité limité
+- au lieu de calculer et de maximiser tres précisément leur utilité, les agents font un arbitrage entre la complexité du choix à faire et son importance. les agents font des choix "satisfaisant" en fonction de leurs contexte, des infos disponibles, de leurs capacités, des institutions en place.
+- Mirowski finit donc son livre en appelant à une evolution de l’histoire des idées en économie. Il reconnait la valeur de la simulation informatique et des algorithmes ainsi que de leurs usages mais reprouve qu’on compare les humains à ces outils. 
+
+
+Dans ce travail, il cite beaucoup de littératures, tres variées. La plupart de ses critiques affirme l’étendue de ses recherches et la comprehension qu’il a acquis des différents sujets. Cependant on peut citer 2 problèmes, 1 pour les lecteurs c’est tres difficile de suivre le rythme. 2 en théorie des jeux, de la littérature tres complexe en math et pas de review du livre par des mathématiciens pour etre sur qu’il a tout bien comprit.
+
+Ensuite, beaucoup de critiques,
+- personne ne comprend vraiment ce qu’est un cyborg dans le livre de Mirowski
+    - un temps il les critiques tres fort, un temps il en fait ses champions face aux neo classiques
+    - qui est dans le camp des cyborg ou non ?
+- en fait l’ensemble de l’écriture de Mirowski, tres fleuris car pleins d’anecdotes et de métaphore est assez dure à lire. le propos de l’auteur en devient un peu flou, la frontière entre l’ironie et ses idées devient flou.
+- sa presentation des faits comme une bataille entre les partisan de von Neumann et les walrasiens x neo classiques est critiques par différents auteurs comme un narratif stéril et polémiste qui réduit la puissance de son travail et incite à approfondir les recherches pour avoir les ides claires
+- on l’accuse aussi d’un manque d’objectivité et de trop utiliser du vocabulaire complotiste.
+
+Il répond en disant que son discours est de presenter une histoire à plusieurs facette qui invite à remettre en question le discours de l’économie  orthodoxes.
