@@ -1,0 +1,18 @@
+Agnès Gramain commence son cursus par une CPGE "sciences sociales" ou elle fait de l'économie, de la sociologie et des mathématiques. C'est probablement la filière qu'on appelle aujourd'hui B/L.
+
+Suite à sa prépa, Agnès Gramain intègre l'ENSAE en 1990. Elle y découvre l'informatique dédié aux statistiques, notamment le logiciel statistique SAS, alors outil phare de l'INSEE.
+Après son diplôme de l'ENSAE, Agnès Gramain poursuit en thèse entre 1994 et 1998, avec pour sujet la prise en charge des personnes agées dépendantes. Cette thèse est donc réalisé entre l'université d'économie et la faculté de médecine de Toulouse.
+En première année de thèse, alors appelée DECA, son ecole doctorale ogranise des cours tres avancé de programmation sur GAUSS, un logiciel d'analyse economètrique. Elle va faire face à beaucoup de problèmes de compatibilité de fichiers car elle travaille entre un Mac et un PC à une époque ou la portabilité des standard n'est pas la norme. Pour faire face à ces problèmes, elle va nottament se spécialiser sur TeX, un logiciel de traitement de texte offrant une grande liberté, opensource et fonctionnant aussi bien sur Mac et sur PC. Elle témoigne aussi du fait que l'informatique etait complétement généralisé autour d'elle. A la fac d'éco, tout le monde commence à utiliser TeX, l'informatique commence à être utilisé pour ranger et archiver. Elle fait notamment la bibliographie de sa thèse sur ClarisWorks,  un gestionnaire de base de données. Et l'usage du mail pour communiqer est complétement généralisé.
+Au cours de sa thèse, Agnès Gramain mène le deuxième volet d'une enquête de terrain, pendant laquelle elle récupère à la main des données. Elle a ensuite dut saisir manuellement ces données dans un tableur pour enfin les utiliser pour produire des estimations economètriques. 
+Elle décrit cette partie de son travail comme un travail d'artisan, une tambouille, du bricolage, car à cette époque, aucun algorithme, aucune régression n'est pré programmé et disponible dans les logiciels d'économétrie. Elle témoigne avoir du écrire les vraisemblance et les algorithmes de maximisaiton utilisé dans ses travaux.
+
+
+Aujourd'hui directrice de labo, confronté aux enjeux d'achat de matériels informatiques qui sont suffisament robuste pour ne pas etre rerime trop vite.
+Egalement en cours d'économétrie aupres de ses etudiants. Ils ont opté pour Rstudio comme langage apres avoir fait pas mal de temps sur SAS. mais en utilisant des library qui permettent de convertir R en SAS.
+toute une partie sur le fait qu'elle ne se sent pas comme les utilisateurs normaux de Rstudio et q'uelle est formatée par SAS.
+
+Les logiciels de statistiques sont spécialisés dans de sdomaines particuliers et certains sont donc meilleurs que d'autres pour des usages précis. CErtains sont généralistes, certains sont tres ouverts et offre beaucoup de liberté, d'autres des boites noirs impenetrables. Par exemple eViews est spécialisé pour le traitement des series temporelles.
+
+
+
+Partie sur l'impact de l'augmentation des capacités de clacul, ce que ca change pour les economistes, pour les autres SHS.
