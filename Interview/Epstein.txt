@@ -65,5 +65,95 @@ Lecture interview Joshua Epstein - Sugarscape
 - they was illiterate, Rob Axtell background is chemical engineering, his is social science, mathematical modeling
 - but thought that neo classical was a wrong picture
 (p9)
-- so developed their model and tried every application that  was suggested, so those applications re a bit random
+- so developed their model and tried every application that  was suggested, so those applications are a bit random
 - computing mattered a lot, and object oriented programming was perfect for agent based modeling, he wrote a lot of C++ code
+- first time with computer Amherst college, IBM 360 with paper card around 1976
+- love computer, can make them do what you want ("muleish" ?)
+- used it to do physics homework, part of the undergraduate training
+(p10)
+- used fortran at MIT
+- first version of sugarscape in regular Pascal, no OOP
+- learn programming by doing
+- probably some book about fortran at Amherst
+- you needed to built everything from scratch with Mac Toolbox routines
+- for his book, to wrote math and do visualisation, he used Mathematica and NetLogo, but it was a mess
+- he used mathematica since 90’s
+- "Rob figured out how to do doubly linked lists and I learned how to do that and we wrote all this very, very fancy code with pointers to pointers and handles and all this deep stuff."
+(p11)
+- they changed language because it was more powerful, C++ because C wasn’t OOP
+- proliferation of differents langage
+- NetLogo dominated, kind of Python of the time
+- the computing power was also a thing, Sugarscape with 500 agent amazed them but now it look like 0
+- so computing has helped a lot the science to advance
+- the point is that this is different from classic social scientist
+- at the MIT, his cohort was more into classical econometrics with TROLL
+- he was the only one in dynamic programming because coming from math background
+(p12)
+- to do Dynamical programming he used Fortran, Mathematica and then Matlab
+- they were several technology explosion but the OOP was the biggest, for ABM
+- then Java was huge and permitted NetLogo specially designed for ABM
+- OOP permitted to really code agent as agent
+(p13)
+- more computing power mean that it was possible to run ABM multiple time to precisely understand a model, not just one stochastic run
+- there is almost no more trade off between scaling model or improving cognitive of agents
+- the question of the time to wait for computation is also a no brainer for him, he is okay to wait for days for results
+- he don’t think that it is linked with his experience of slow early computer science
+- "can you gain insights about the human condition? And if it takes me a week to get a serious insight about the human condition, I’m happy to wait. "
+(p14)
+- big moment of frustration is debuting, when the code does run but it’s not what you want. like during internship at Rand Corporation and for A(B+C) the computer do (AB) + C
+- "cutting room floor" on NtLogo (did not understand, have to dig)
+- do not remember other frustrations, did a lot of bad coding and errors, the objective was to do simplest explaining model
+(p15)
+- history of sugarscape : simplest thing we could get going 
+- move towards sugar, have kids, same or with mutation
+- without plan, just elaborated the model in different dimension
+- tried kids, fight, cultural transmission, segregate, fight for ressources
+(p16)
+- then epidemiology, immunology, unified both.
+- did not know about Conway "game of Life" at that time
+- at Santa Fe institute project of artificial societies work
+- first video presenting Sugarscape at SataFe Institute with heavy jimi hendrix musics
+(p17)
+- were full partners with Axtell
+- Axt did programming, Eps did most of writing, both did generation of ideas and analysis of results
+- the big deal was finding good rules, not much the coding [at least he say, maybe Axtell disagree as he has done most of the coding]
+- he took example of the combat rule, that was very hard to design, and Axtell did the same [common experience that let deep impression on them]
+- there interdisciplinary background help them. they knew homo economicus so they were not intimidated by complex mathematical economics. try to built agents that are plausible and defensible not wicked optimizer
+(p18)
+- visualisation were very important for Sugarscape but at the time, not much tool, no GIS
+- Mac Toolbox was the only thing that allowed visualisation and it was a mess
+- they could have no visuals but it was very important for them to get the spatial dimension of the dynamic at play
+- in the first edition, they put a CD with some small movie animation, which was important to the influence of the book
+- the visualisation was also important because it helped them discover thing, explain thing
+(p19)
+- visualisation is part of the epistemology, while trying some random setup, visualisation suggested and discovered new questions
+- the effort of coding that was relay worth it
+- to create Sugarscape they had the huge luck go having a great academic freedom for five years, having the engagement of very interesting people (Murray Gell-Mann, Nobel laureate in physics/ Ken Arrow, Economics Nobel/ Tom Schelling, Econ Nobel, and finally, a very good relationship and friendship between them Rob Axtell and Josh Epstein
+(p20)
+- the reception of all those work from Santa Fe had very huge variance, some economist saw that this was important, but guardians of orthodoxy did not care that much. [there is a point here about the computerisation from inside/orthodox and from outside/heterodox/new branch of economists]
+- at Brookings very receptive cause not really protector of orthodox
+- european are a lot less supportive of rational actor and care more about path dependency
+(p21)
+- had a talk with Paul Krugman that had an epidermic reaction to ABM
+- they do not exchange tricks about coding or visualisation, it was the Wild West and everybody was trying things, without any standards
+- the software that lasted in ABM game is NetLogo
+(p22)
+- the code of Sugarscape did not spread across ABM game
+- but Epstein reimplemented it in NETLOGO and teach it at NYU
+- he say that now it’a lot better because everything sin integrated development environment, you d’ont need to recode every thing from scratch, you can choose already programmed environment with already programmed agent, and use mathematical library from R or Python to analyse results
+- having ready-to-use software are dangerous because it is easy to do bad econometrics and student don’t understand what they do anymore
+- for ABM, you can run a lot of simulation, but then you have to export results analyse them through R or SAS and it fall back to the same problem, do you understand the math ?
+(p23)
+- computer has changed profoundly some part of the field but not other
+- very theoretical and mathematical one don’t care about computing, it’s about theorem and proof and elegance and math
+- but for statistical finance, computational finance, huge thing
+- econophysics also require mature computing
+- Paper from Robert Hahn called "The Crisis of Economics" about theorem being done by computers [I don’t find the paper]
+- computer broadens the scope and change practice, particularly in empirical fields
+- there is a change in mentality about ABM, more and more young economist doing transdisciplinary work pick it up
+- main thing is developing a mathematicaly formal and explanatory alternative to rational agents
+(p24)
+- main thing is not the computers, it facilitate a change in epistemology, a change in applications and a change in scientific results and progress
+- but main thing is the conceptual move, "what is an explanation in social sciences ?"
+- he think that growing population of plausible cognitive agent is far more powerful than nash equilibrium, when we want to explain how human works
+fini le 15/03/2025
