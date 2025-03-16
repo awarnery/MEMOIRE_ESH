@@ -1,0 +1,39 @@
+16/03/2025
+
+Lecture interview Richard Pierse - Winsolve
+
+(p1)
+- 1976, graduated in Philosophy, Politics and Economics at Oxford
+- not much econometrics, not a very good place for technical Economics
+- did an econometrics paper with roger bacon at Lincoln College, at LSE
+- did not have money to do master at Oxford so keep on his summer job for a year at National statistical institute with Denise Osborn
+(p2)
+- forecast model of institute was getting to big to run, so he rewrote it and called it NIModel
+- it spread because people took those software when moving across institution, found copy at London Business School and BoE
+- after a year at NIS he goes to LSE because is now attracted to econometrics
+- started at M1 because weak background in math
+- had very good teachers
+- does a MSc dissertation on exogenous policy switch with econometrics, coding and applied policy implications => suggested by David Hendry, application of an other paper
+- he had only 4 years of funding and took 2 for his master so he did not had enough to finish his PhD with Denis Sargan
+(p3)
+- he did part time research assisstant with Andrew Harvey
+- but wanted a proper job so quit LSE and goes to Cambridge Growth Project for 10 years
+- they were doing a lot of forecast model funded by ESRC but losed the funding
+- then he was getting older and more expensive so he took a job cat London Business School again in a macro modelling group
+- he get back into programming at that time, on a version of NIModel
+(p4)
+- probably Stephen Hall who carried it around at LBS and BoE
+- different version of the software because people used it to do different things, that became incompatible
+- ended up in University of Surrey in 1995 were he do teaching for the first time, wasn’t really into that idea 
+(p5)
+- applied to a research program from ESRC in 1994 to work on WinSolve 
+- took early retirement in 2014
+- touched to computer for the first time at 17 yo, as an option, get hooked to it
+- wrote program and sent it to people that rewrote it on paper-tape, then run it and sent back results
+- computer was a main frame in a air conditioned room
+(p6)
+- he wrote a compiler in spare time in high school and computer club at Oxford was also doing one
+- a guy who did the computer option in high school adise him to apply to work at Departement of Environment between high school and Oxford. He got hired there for 8 months and did it again the next summer
+- at Oxford, economics and computer was two very different thing and he happened to be involved in both
+(p7)
+-
