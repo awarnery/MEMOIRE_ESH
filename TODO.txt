@@ -1,0 +1,41 @@
+To do list :
+
+Fischbacher : fini le
+Gramain     : fini le 
+Epstein     : fini le 15/03
+Pierse      : en cours le 16/03
+Turocy      : 
+Hendry      : 
+Axtell      : 
+
+BioFischbacher : v1
+BioGramain     : v1 
+BioEpstein     : v2
+BioPierse      : v2
+BioTurocy      : v1
+BioHendry      : v2
+BioAxtell      : 
+SyntheseBioEcon:
+Synthese des moments wahou/entre[]/surligner par moi :
+
+Comparison.csv
+
+BioSugascape   :
+Bioz-Tree      :
+BioGambit      :
+BioWinsolve    :
+SyntheseBioSoft:
+public auxquels se destinent les logiciels ? :
+que deviennent les logiciel ? qui s’en occupe maintenant ? :
+regarder si y a d’autre cas interessant à mettre en perspectives, dans la liste des logiciels des années 80, si y a des histoires interessantes, des logiciels qui existent encore
+
+Lire papier "it's computer stupid" pour reference temporelles :
+
+Lister ici les papiers presentations OHE :
+Lire ces papiers :
+
+Ecrire pour AOH Junior quelques pages qui rendent le corpus intelligible à quelqu'un (biographie du groupe)
+
+Explorer lien entre Sugarscape, Herbet Simon et Machine Dreams :
+
+computerisation from inside/orthodox and from outside/heterodox/new branch of economists
