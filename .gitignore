@@ -29,4 +29,4 @@
 *.thm
 *.DS_Store
 aux/
-.pdf
+*.pdf
