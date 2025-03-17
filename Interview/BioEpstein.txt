@@ -1,14 +1,39 @@
+Partie académique
+
 Joshua Epstein est né à New York et à grandi à Amherst dans le Massachuetts.
-Il débute ses études supérieures au Amherst College avec un intérêt initial pour la musique, Epstein se tourne rapidement vers les mathématiques, convaincu de leur capacité à apporter des éclairages rigoureux sur les phénomènes sociaux et économiques. Il consacre son mémoire à l'économie politique sur le thème des dynamiques de contrôle financier des entreprises industrielles américaines et acheve son BA en 1976.
+Il débute ses études supérieures au Amherst College avec un intérêt initial pour la musique, Epstein se tourne rapidement vers les mathématiques, convaincu de leur capacité à apporter des éclairages rigoureux sur les phénomènes sociaux et économiques. 
+En 1976, il obtient son BA et consacre son mémoire à l'économie politique sur le thème des dynamiques de contrôle financier des entreprises industrielles américaines.
 Il est ensuite admis au MIT où ses recherches combinent les sciences politiques et l'économie, avec une thèse obtenu en 1981. Cette thèse s’est concentré sur des modèles mathématiques liés aux dynamiques des conflits internationaux, aux courses aux armements et aux guerres, dans un cadre interdisciplinaire mêlant économie et science politique, et prenant pour exemple l'Union Soviétique.
 C'est à cette occasion qu'il considère devenir un modélisateur en science sociale.
-###
-C'est au sein du prestigieux Brookings Institution, dans les années 1980 et 1990, qu'il s'investit dans le projet "2050 Project", sous l'impulsion de figures comme Murray Gell-Mann et John Steinbruner. C'est dans ce cadre qu'Epstein rencontre Robert Axtell, avec lequel il développe, en 1991, le modèle Sugarscape, né d'une idée esquissée sur des serviettes à la cafétéria de Brookings. Sugarscape devient rapidement une référence fondatrice en sciences sociales computationnelles, permettant d'étudier des phénomènes variés tels que la ségrégation spatiale, la dynamique du commerce, la violence intertribale et même les systèmes immuno-épidémiologiques numériques.
+Ensuite, il rejoint le "2050 Project". Ce programme, financé par la MacArthur Foundation, est tres prospectif, ouvert et ambitieux, et se concentre sur la question de la durabilité à l'horizon 2050. [marrant, sorte de précurseur de la modelisation climatique d'aujourd'hui, Pierse aussi temoigne de travaux sur les ressources et la soutenabilité lors de ses job d'été au departement de l'environnement]
+Le projet a été initié par Murray Gell-Mann, physicien renommé (prix Nobel de Physique en 1969), John Steinbruner, chercheur au Brookings Institution, et Gus Speth, président du World Resources Institute.
+Epstein explique avoir été impliqué dès les débuts du projet, lorsque les fondateurs cités ci-dessus et lui même sont allé convaincre la MacArthur Foundation d'utiliser la modélisation pour « take a crude look at the whole ». C’est-à-dire adopter une vision large, globale, sans se perdre dans les détails, afin de capturer les dynamiques générales et complexes liées aux questions de durabilité à long terme. Ce financement obtenu, le projet a rapidement évolué vers une organisation multi-institutionnelle plus vaste. Finalement, Murray Gell-Mann lui-même a sollicité Epstein pour qu’il prenne la tête du groupe de travail théorique au sein du projet. Epstein confesse qu'a ce moment là, le cadre théorique du projet n'était pas clair, mais il est enthousiaste et accepte. Peu de temps apèrs, il fait une présentation à Carnegie Mellon sur les dynamiques de courses aux armements et rencontre Herb Simon qui donne egalement une présentation. Quelques herues apres sa présentation, un étudiant le contact car il ne parvient pas à répliquer les résultats de la présentation. Epstein lui propose alors qu'ils se rencontrent pour pouvoir l'aider. Les deux finissent pas tres bien s'entendre, l'étudiant est Rob Axtell, et Epstein décide de le recruter dans le "2050 Project".
+C'est lors d'une discussion dans la cafétaria du Brookings Institue qu'ils ont une discussion sur la société la plus simple qu'ils puissent modéliser. Cette discussion et les dessins fait sur des serviettes de la cantine seront à l'origine du projet Sugarscape.
+C'est en 1991 que sera acheve la première version du logiciel.
+A cette époque, Epstein est aussi très lié au Santa Fe Institute, lieux de rencontre et d'échange sur les recherches en systèmes complexes en sciences sociales.
+Apres le projet Sugarscape, Epstein recoit un important financement du National Institute of Health pour ses travaux sur les epidémies. A cette occasion, il s'installe à l'université John Hopkins, ou ilest Professeur d'épiémiologie et où il dirige le "Center for Advanced Modeling in the Social, Behavior, and Health Sciences, with Joint appointments in Economics, Applied Mathematics, International Health, and Biostatistics".
+[ref à 1992, que se passe t il cette annee là ? publication The Adaptive Dynamic Model of War ?]
+Aujourd'hui, Joshua Epstein est professeur d'épidémiologie à la NYU School of Global Public Health et directeur fondateur du NYU Agent-Based Modeling Laboratory. Il est également affilié au Courant Institute of Mathematical Sciences et au College of Arts & Sciences.
+Aujourd'hui, Joshua Epstein poursuit son œuvre autour de cinq axes principaux : l'épistémologie générative, les instruments scientifiques computationnels, des applications variées à l'économie et à l'épidémiologie, une alternative formelle à l'acteur rationnel (l'Agent Zero basé sur les neurosciences cognitives), et l'usage innovant de l'intelligence artificielle pour générer des agents sociaux.
 
-En parallèle, Epstein contribue à élaborer une épistémologie originale de la modélisation sociale, centrée sur les explications génératives : selon lui, pour expliquer une régularité macroscopique, il faut être capable de la générer par le bas, en utilisant des agents individuels cognitivement réalistes. Ce cadre théorique influence considérablement la recherche en économie et au-delà.
+A propos de son parcours qui semble mélé des disciplines académiques très différentes, Joshua Epstein répond qu'il n'a pas vraiment l'impression d'avoir changé de domaine. Il s'est toujours concentré sur le minimalisme génératif et sur l'étude des réseaux, des dynamiques de contagions.
+A l'époque de la création de Sugarscape, Epstein confesse son manque de connaisance sur les domaines auxquels il s'attaque. Axtell etait en génie chimique et lui en modélisation mathématiques des science social. Cependant, ils étaient tout les deux en opposition à l'image néo classique de l'économie et à l'idéotype de l'agent rationnel maximisateur de bien être.
 
-Son parcours prend ensuite un tournant interdisciplinaire : après avoir quitté Brookings pour rejoindre l'université Johns Hopkins, il développe des modèles épidémiologiques d'une ampleur sans précédent, notamment financés par le National Institute of Health. Epstein rejoint finalement la New York University (NYU) où il occupe un poste conjoint en épidémiologie et en sciences politiques, associé au Courant Institute for Mathematical Sciences.
+Partie informatique
 
-Aujourd'hui, Joshua Epstein poursuit son œuvre autour de cinq axes principaux : l'épistémologie générative, les instruments scientifiques computationnels, des applications variées à l'économie et à l'épidémiologie, une alternative formelle à l'acteur rationnel (l'Agent Zero basé sur les neurosciences cognitives), et l'usage innovant de l'intelligence artificielle pour générer des agents sociaux. Sa carrière témoigne d'un engagement constant vers une compréhension profonde et rigoureuse des dynamiques sociales complexes.
+Joshua Epstein aura son premier contact avec un ordinateur, un IBM 360 (mainframe), pendant sa licence au Amherst College, autour de l'année 1976. Cette ordinateur fonctionne alors avec des carte papier à trou. Il apprécie immédiatement travaillé avec des ordinateurs car ils sont corvéables à merci. L'utilisation d'ordinateur faisait partie de sa formation, il les utilisait pour résoudre des devoirs de physiques. A cette époque, à part un ordinateur sur le Fortran, Epstein apprend la programmation en autonomie. La première version de Sugarscape est developpé en Regular Pascal, sans programmation orienté objet. Ils en ecriront une seconde en C++ pour profiter de la programmation orienté objet. Puis une troisième en NetLogo.
+Pour les visualisations de Sugarscape, il n y avait aucun logiciel le permettant à part Mac Toolboxes, qui restait tres compliqué a utiliser.
+Pour écrire ses livres comme Agent Zero, il utiliser Mathematica et NetLogo pour écrire les équations et faire les visualisations mais tout cela etait tres compliqué.
 
 
+Partie épistémologie
+
+Epstein contribue à élaborer une épistémologie originale de la modélisation sociale, centrée sur les explications génératives : selon lui, pour expliquer une régularité macroscopique, il faut être capable de la générer par le bas, en utilisant des agents individuels cognitivement réalistes.
+
+
+
+
+
+Source :
+Oral History of Economics
+https://publichealth.nyu.edu/faculty/joshua-epstein
