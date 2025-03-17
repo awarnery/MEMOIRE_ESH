@@ -1,5 +1,24 @@
+Partie académique
+
 Sir David Forbes Hendry est né le 6 mars 1944.
 Il a obtenu une maîtrise en économie avec mention très bien à l'université d'Aberdeen en 1966. Il s'est ensuite inscrit à la London School of Economics où il a obtenu un master en économétrie et en économie mathématique en 1967. 
-E 1970, il obteient son doctorat à la London School of Economics sous la direction de John Denis Sargan en 1970. Il a également il été chargé de cours, puis lecteur et enfin professeur d'économie à la LSE, avant de rejoindre l'Université d'Oxford en tant que professeur d'économie en 1982.
+En 1970, il obtient son doctorat à la London School of Economics sous la direction de John Denis Sargan. Il a également été chargé de cours, puis "lecturer" et enfin professeur d'économie à la LSE, avant de rejoindre l'Université d'Oxford en tant que professeur d'économie en 1982.
 Hendry a ensuite été professeur de recherche à l'Université Duke de 1987 à 1991.
 De 2001 à 2007, il a dirigé le département d'économie de l'université d'Oxford. Il est également professeur au Nuffield College d'Oxford.
+
+
+Partie informatique
+
+La première expérience de Hendry avec l'informatique a lieu à Aberdeen, avec des calculatrices pouvant enregistrer uniquement 2 variables. Ensuite, apres etre arrivé à la LSE, il apprendra à programmer en Atlas Autocode, langage de programmation spécifique à l'ordinateur du Center of London University, Atlas.
+Peu de temps après, University College London achete un IBM 360/65. Hendry apprendra alors le Fortran, langage utilisé pour programmer cette ordinateur, dans un cours donné à la LSE par Carol Hewlett.
+En 1975 et 1976, Hendry effectue des séjours académiques à Yale, Berkeley et Louvain-la-Neuve. Durant cette période, il remarque que les méthodes computationnelles américaines diffèrent considérablement des approches européennes, notamment par leur usage moins critique de la théorie économique vis-à-vis des données.
+Son arrivée à Oxford en 1982 marque une autre étape clé, avec l'acquisition d'un ordinateur personnel IBM 8088, symbole d'un tournant vers l'utilisation intensive des micro-ordinateurs en économétrie. 
+Il crée alors plusieurs logiciels d’analyse économétrique, dont le plus notable est PcGive. Ce logiciel, ainsi que les suivants PcGets et Autometrics, développés avec Jurgen Doornik dans les années 1990 et 2000, révolutionnent l’enseignement et la pratique économétrique en introduisant des interfaces intuitives et des méthodes graphiques innovantes.
+En 1986, en tant que rédacteur en chef du Oxford Bulletin, Hendry exige des auteurs qu'ils fournissent données et codes informatiques avec leurs soumissions, marquant un tournant vers la transparence et la reproductibilité en économie.
+À partir de 1989, Hendry développe une approche innovante fondée sur la théorie de la réduction, qui vise à mieux intégrer les spécificités des données réelles aux modèles économiques. Cette théorie constitue aujourd'hui un pilier de l’économétrie moderne.
+Durant les années 1990 et 2000, Hendry collabore avec d’autres économètres renommés comme Hans-Martin Krolzig et Siem Jan Koopman pour développer des méthodes sophistiquées de modélisation, notamment des modèles à régimes changeants et des modèles GARCH.
+Tout au long de sa carrière, David Hendry insiste sur l’importance d'une méthodologie rigoureuse et critique l'approche dominante consistant à appliquer directement la théorie aux données sans tenir compte de la complexité réelle des processus générateurs.
+
+Source : 
+Oral History of Economics
+https://en.wikipedia.org/wiki/David_Forbes_Hendry
