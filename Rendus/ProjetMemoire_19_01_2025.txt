@@ -1,0 +1,86 @@
+Ambroise Warnery - Master ESH - 19/01/2025
+
+Titre 1 : 
+L'Informatique au Service de l'Économie : Analyse des Pratiques de Développement Logiciel chez les Économistes
+
+Titre alternatif : 
+Transformation Numérique de l'Économie : Motivations et Impacts des Outils Informatiques dans la Recherche Économique
+
+
+(1) Etat de la littérature
+
+Ce mémoire étudiera la relation qu’on entretenu l’informatique et l’économie en s’appuyant notamment sur les pratiques d’une population : les chercheurs ayant mobilisé l’informatique comme outil ou comme méthode pour l’économie. Ces pratiques étant peu documenté, nous nous appuierons sur les entretiens de la collection « Computerization of Economics : Oral Histories ». Cette collection rassemble 5 entretiens avec des personnes ayant participé à la création de logiciel pour différent champ de la recherche en économie. Deux autres entretiens s’intéressent au rôle de l’informatique dans la pratique de l’économétrie.
+Ces entretiens mettent en lumière les origines et les parcours, académique et professionnelle de notre population d’étude. Ils s’intéressent également au rôle qu’a jouer l’informatique dans leurs carrières, à leurs découvertes et à leurs mobilisation de cet outil dans leurs travaux universitaires. 
+Alors que l’économie est désormais résolument informatisé (Boumans et al., 2023), les économistes se sont de plus en plus tournés vers des logiciels spécialisés pour explorer des modèles complexes, faciliter les simulations et traiter de grands ensembles de données - des aspects essentiels de l'analyse économique d’aujourd'hui. De plus, ces logiciels permettent de résoudre d’important problème de tractabilité et de portabilité (Cherrier et al., 2023). En devenant des références communes, ils permettent aux économistes de partager un langage et favorise donc les échanges. Mirowski étudie également les liens entre économie et informatique dans son livre "Machine Dreams: Economics Becomes a Cyborg Science", il sera donc aussi une référence important dans la rédaction de ce mémoire.
+
+
+(2) Question de recherche et contribution du mémoire
+
+La question des pratiques informatiques des économistes est peu voir pas traité par la littérature actuelle. En effet cette question a sans doute été mise de coté du fait de l’absence de sources rendant compte du travail souvent « invisible » qu'implique la création d'un logiciel. Les entretiens auxquels nous allons nous intéresser offrent une ressource unique et précieuse pour examiner cet aspect autrement insaisissable de la pratique économique.
+Ce travail aura donc pour objectif d’en dresser un première esquisse. 
+Le mémoire visera à analyser les transformations de l’économie par l’informatique en se concentrant sur les figures clés et leurs contributions, capturées à travers des entretiens détaillant le développement de logiciels dans divers sous-domaines économiques, tels que l'économie expérimentale, la théorie des jeux, l'économétrie et la modélisation à base d'agents.
+
+Ce mémoire portera sur les diverses motivations derrière la conception de logiciels, les processus de développement et la diffusion de ces outils au sein de la communauté économique, ainsi que les succès et les limites auxquels ces économistes ont été confrontés. En particulier, la question du financement et de la reconnaissance académique que peuvent, ou non, obtenir les créateurs de logiciel devra être abordé. En effet, il semblerait que des difficultés à financer leurs travaux ou à en obtenir de la reconnaissance académique limiterait l’implication des universitaires dans ce type de projets.
+
+[ Problématique : 
+Quels sont les facteurs culturels, intellectuels et professionnels qui motivent les économistes lorsqu'ils créent des logiciels ?
+Comment l'identité professionnelle des économistes faisant de l’informatique a-t-elle évolué au fil du temps et quels facteurs socioprofessionnels ont influencé cette transformation ?
+Quelles sont les motivations qui poussent les économistes à devenir des créateurs de logiciels et comment ces motivations reflètent-elles des changements culturels, intellectuels et pratiques plus larges au sein de la discipline économique ? ]
+
+
+(3) Corpus et méthode
+
+Ma littérature primaire sera constituée soit des 7 entretiens de la collection “Computerization of Economics: Oral Histories”.
+Les cinq premiers entretiens s’intéressent à des personnes ayant participé à la construction de logiciel pour la recherche en économie. Ces logiciel souvent différents thèmes de recherches comme l’économie expérimentale, la théorie des jeux, la modélisation macroéconomique.
+Les deux derniers entretiens ont été réalisé avec des économètres ayant beaucoup mobilisé l’informatique dans leur pratique de l’économie.
+Ces entretiens seront une base permettant de dresser un panorama des pratiques et des histoires de notre population d’intérêt. Ils permettront également de distinguer les motivations des économistes à créer et utiliser des logiciels. Enfin, ils permettront d’analyser la manière dont les économistes perçoivent la reconnaissance que le champ accordent à leurs travaux.
+
+Notre littérature secondaire contiendra des travaux de références documentant l’évolution et l’influence de l’informatique en économie ainsi que ses acteurs (entre autres, Mirowski; Desrosières, 1999; Cherrier et al., 2023).
+Ces travaux fourniront une base théorique pour comprendre comment la technologie croise la théorie et la pratique économique, permettant une contextualisation plus large des entretiens.
+
+Elle pourra également contenir de la littérature "grise" comme des guides de bonnes pratiques informatique destiné aux économistes : 
+Price 2023, FED, Code, Data, and Version Control: Best Practices for Economic Research
+Gentzkow and Shapiro, 2014, NBER, Code and Data for the Social Sciences:  A Practitioner’s Guide 
+Turrell, 2024, Coding for economists
+
+
+(4) Pistes de recherche
+
+Pour mener à bien cette recherche sur la relation entre l’informatique et l’économie, nous commencerons par une revue approfondie de la littérature existante, en nous appuyant sur des travaux de référence tels que ceux de Mirowski, Desrosières (1999), Boumans et al. (2023) et Cherrier et al. (2023). Cette étape nous permettra de situer notre étude dans le contexte académique actuel, d’identifier les lacunes et de définir les cadres théoriques pertinents. Par la suite, nous analyserons de manière qualitative les sept entretiens de la collection “Computerization of Economics: Oral Histories”. Cette analyse thématique nous aidera à extraire les principaux motifs liés aux motivations, aux processus de développement et à la diffusion des logiciels, ainsi qu’aux défis rencontrés par les économistes dans leurs projets informatiques.
+Nous nous attacherons ensuite à identifier les motivations culturelles, intellectuelles et professionnelles qui incitent les économistes à créer des logiciels, en les catégorisant et en les reliant aux évolutions plus larges de la discipline économique, telles que les avancées technologiques et méthodologiques. L’étude portera également sur l’évolution de l’identité professionnelle des économistes informaticiens, en examinant les facteurs socioprofessionnels comme la reconnaissance académique, le financement des projets informatiques et l’adoption des outils numériques dans la recherche. Cette analyse comparera les trajectoires professionnelles des économistes développeurs de logiciels avec celles de leurs pairs, afin de mieux comprendre les transformations induites par l’informatique.
+En complément des entretiens, nous intégrerons une analyse de la littérature "grise", notamment les guides de bonnes pratiques informatiques destinés aux économistes tels que ceux de Price (2023), Gentzkow et Shapiro (2014) et Turrell (2024). Cette comparaison nous permettra de contextualiser nos résultats et d’évaluer dans quelle mesure les pratiques actuelles des économistes répondent aux recommandations existantes. Enfin, nous synthétiserons les résultats obtenus pour répondre à nos questions de recherche, mettant en lumière les principales transformations apportées par l’informatique dans la pratique économique, les défis persistants et les perspectives futures pour les économistes impliqués dans le développement de logiciels. Cette synthèse inclura également une réflexion sur les implications de notre étude en termes de reconnaissance académique et de financement des projets informatiques en économie.
+
+
+
+Bibliographie
+ 
+Renfro, . A Compendium of Existing Econometric Software Packages.  .
+Villeneuve, . A Contemporary Historiography of Economics.  .
+Binmore, . A Review of Philip Mirowski’s Machine Dreams.  .
+Turrell,  et al. Aeturrell/Coding-for-Economists.  .
+Gross, . Best Practices for Computer Programming in Economics.  .
+Gentzkow, M., & Shapiro, J. M. Code and Data for the Social Sciences: A Practitioner’s Guide.  .
+Price, . Code, Data, and Version Control: Best Practices for Economic Research.  .
+Merali, . Computational Science.  .
+Wehrheim, . Economic History Goes Digital.  .
+“Effective Programming Practices for Economists: Topics.”
+Biddle,  & Boumans, . Exploring the History of Statistical Inference in Economics.  .
+Imbert,  & Ardourel, . Formal Verification, Scientific Code, and the Epistemological Heterogeneity of Computational Science.  .
+Weintraub, . How Economics Became a Mathematical Science.  .
+Gramain, . (2023, 16 janvier). Interview with Agnès Gramain, conducted by Francesco Sergi and Pierrick Dechaux. Dans Oral Histories of Economics.
+Hendry, . (2024, 19 mars & 26 avril). Interview with David Hendry, conducted by Romain Plassard and Francesco Sergi. Dans Oral Histories of Economics.
+Epstein, . (2024, 11 avril). Interview with Joshua Epstein, conducted by Romain Plassard and Francesco Sergi.
+Pierse, . (2024, 11 mars). Interview with Richard Pierse, conducted by Francesco Sergi, Pierrick Dechaux, and Thomas Delcey. Dans Oral Histories of Economics.
+Turocy, . (2024, 8 mars). Interview with Theodore Turocy, conducted by Dorian Jullien, Thomas Delcey, and Francesco Sergi. Dans Oral Histories of Economics.
+Fischbacher, Urs. (2023, 17 novembre). Interview with Urs Fischbacher, conducted by Dorian Jullien and Thomas Delcey. Dans Oral Histories of Economics.
+Jullien, . Interviews: Some Methodological and Historiographical Issues of Oral Sources.
+Backhouse, R., & Cherrier, . “‘It’s Computers, Stupid!’ The Spread of Computers and the Changing Roles of Theoretical and Applied Economics.” , ,  .
+Desrosières, A. La commission et l’équation.  .
+Mirowski, P., . Machine Dreams : Economics Becomes a Cyborg Science.  .
+Mirowski, P. Philosophizing with a Hammer.  .
+Backhouse, R., & Cherrier, . The Age of the Applied Economist.  .
+“The Computerization of Economics: A Chronology (in Progress) – The Undercover Historian.”
+Boumans,  et al. The Computerization of Economics.  .
+Mirowski, P. The Future(s) of Open Science.  .
+Hausman, J. A. The Inexact and Separate Science of Economics.  .
+Cherrier, Saïdi & Sergi, F. “Write Your Model Almost as You Would on Paper and Dynare Will Take Care of the Rest!’ A History of the Dynare Software.” 

@@ -1,0 +1,76 @@
+Ambroise Warnery - Master ESH - 11/11/2024
+
+Titre 1 : 
+Evolution de la sociologie et des pratiques des économistes/informaticiens praticien de l’informatique/de l’économie
+
+Titre alternatif 1 : 
+Sociologie et influence sur l’économie des économistes/informaticiens praticien de l’informatique/de l’économie
+
+Titre alternatif 2 : 
+Comment les contraintes de la discipline économique ont elles influencés le travail des économistes/informaticiens
+
+
+(1) Etat de la littérature
+
+Ce mémoire étudiera la relation qu’on entretenu l’informatique et l’économie en s’appuyant notamment sur les pratiques d’une population : les "économistes/informaticiens praticien de l’informatique/de l’économie" ayant travaillé à l’intersection de ces deux disciplines. Ces pratiques étant peu documenté, nous nous appuierons sur les entretiens de la collection « Computerization of Economics : Oral Histories ». Cette collection met en lumière le rôle essentiel, mais peu étudié, que la création de logiciels a joué dans la formation de l'économie moderne. Elle éclaire également sur les origines et les parcours, académique et professionnelle de notre population d’étude. Alors que l’économie est désormais résolument informatisé (Boumans et al., 2023), les économistes se sont de plus en plus tournés vers des logiciels spécialisés pour explorer des modèles complexes, faciliter les simulations et traiter de grands ensembles de données - des aspects essentiels de l'analyse économique d’aujourd'hui. De plus, ces logiciels permettent de résoudre d’important problème de tractabilité et de portabilité (Cherrier et al., 2023). En devenant des références communes, ils permettent aux économistes de partager un langage et favorise donc les échanges. Mirowski étudie également les liens entre économie et informatique dans son livre "Machine Dreams: Economics Becomes a Cyborg Science", il sera donc aussi une référence important dans la rédaction de ce mémoire.
+
+
+(2) Question de recherche et contribution du mémoire
+
+La question des pratiques des "économistes/informaticiens praticien de l’informatique/de l’économie" et de leurs sociologie (qui est le "économistes/informaticiens praticien de l’informatique/de l’économie" type ? a-t-il changé au cours du temps ? Desrosières, 1999) est peu voir pas traité par la littérature actuelle. En effet cette question a sans doute été mise de coté du fait de l’absence de sources rendant compte du travail souvent « invisible » qu'implique la création d'un logiciel. Les entretiens, tels qu'elles sont présentés dans cette collection, offrent une ressource unique et précieuse pour examiner cet aspect autrement insaisissable de la pratique économique.
+
+Ce travail aura donc pour objectif d’en dresser un première esquisse. 
+Le mémoire visera à analyser les transformations de l’économie par l’informatique en se concentrant sur les figures clés et leurs contributions, capturées à travers des entretiens détaillant le développement de logiciels dans divers sous-domaines économiques, tels que l'économie expérimentale, la théorie des jeux, l'économétrie et la modélisation à base d'agents.
+
+Ce mémoire étudiera l'influence de leurs innovations sur les théories et méthodes économiques, les motivations culturelles et intellectuelles qui poussent les économistes à devenir des développeurs de logiciels/ou les développeurs de logiciel à travailler sur des logiciels d’économie. Le mémoire pourra également porté sur les diverses motivations derrière la conception de logiciels, les processus de développement et la diffusion de ces outils au sein de la communauté économique, ainsi que les succès et les limites auxquels ces économistes ont été confrontés. En particulier, la question du financement et de la reconnaissance académique que peuvent, ou non, obtenir les créateurs de logiciel pourra être abordé. En effet, il semblerait que des difficultés à financer leur travail ou à obtenir de la reconnaissance académique limiterait l’implication des universitaires.
+
+Cette étude est particulièrement pertinente dans le contexte actuel, où l'informatisation continue de façonner les méthodologies et les cadres théoriques de l’économie (“Generative AI for Economic Research: Use Cases and Implications for Economists”  (Korinek, forthcoming)).
+
+
+[ Problématique : 
+Comment le travail des économistes-programmeurs a-t-il influencé les théories et méthodes économiques, et quels sont les facteurs culturels, intellectuels et professionnels qui motivent ces individus lorsqu'ils créent des logiciels ?
+Comment l'identité professionnelle des « économistes-programmeurs » a-t-elle évolué au fil du temps et quels facteurs socioprofessionnels ont influencé cette transformation ?
+De quelle manière la création de logiciels spécialisés par des économistes a-t-elle eu un impact sur la théorie et la pratique économiques, et comment cet impact est-il perçu au sein de la communauté universitaire ?
+Quelles sont les motivations qui poussent les économistes à devenir des créateurs de logiciels et comment ces motivations reflètent-elles des changements culturels, intellectuels et pratiques plus larges au sein de la discipline économique ? ]
+
+
+(3) Corpus et méthode
+
+En fonction du périmètre couvert par mon mémoire qui sera choisi ultérieurement, ma littérature primaire sera constituée soit des 5 premiers entretiens de la collection “Computerization of Economics: Oral Histories”, soit des 7 entretiens.
+
+Les cinq premiers entretiens s’intéressent à des personnes ayant participé à la construction de logiciel pour la recherche en économie. Ces logiciel souvent différents thèmes de recherches comme l’économie expérimentale, la théorie des jeux, la modélisation macroéconomique.
+Les deux derniers entretiens ont été réalisé avec des personnes ayant pratiqué l’économétrie et ayant donc beaucoup mobilisé l’informatique dans leur pratique de l’économie.
+Ces entretiens seront une base permettant de dresser un panorama des pratiques et des "sociologie" de notre population d’intérêt.
+
+Notre littérature secondaire variera en fonction du périmètre des questions qui seront couvertes par ce mémoire.
+Elle contiendra évidemment des travaux documentant l’évolution et l’influence de l’informatique en économie ainsi que ses acteurs (entre autres, Mirowski; Desrosières, 1999; Cherrier et al., 2023).
+Ces travaux fourniront une base théorique pour comprendre comment la technologie croise la théorie et la pratique économiques, permettant une contextualisation plus large des analyses de l'entretien dans le cadre de l'évolution de l'économie.
+
+Elle pourra également contenir de la littérature "grise" comme des guides de bonnes pratiques informatique destiné aux économistes : 
+Price 2023, FED, Code, Data, and Version Control: Best Practices for Economic Research
+Gentzkow and Shapiro, 2014, NBER, Code and Data for the Social Sciences:  A Practitioner’s Guide 
+Turrell, 2024, Coding for economists
+
+
+(4) Pistes de recherche
+
+Mon travail consistera dans un premier temps à analyser en profondeur les entretiens. 
+Cette étude m’apportera un éclairage important sur la littérature secondaire à étudier pour articuler les questions et les résultats que je tenterais de mettre en lumière dans mon mémoire.
+
+
+Bibliographie
+ 
+Urs Fischbacher – The history of the Z-Tree software for experimental economics
+Theodore Turocy – The history of the GAMBIT software for game theory
+Richard Pierse – The history of the WINSOLVE software for macroeconomic dynamic modelling
+Joshua Epstein – The history of the SUGARSCAPE and agent-based modelling (coming soon)
+Robert Axtell – The history of the SUGARSCAPE and agent-based modelling (coming soon)
+David Hendry – Computers and the practice of econometrics 
+Agnès Gramain – Computers and the practice of econometrics
+
+Mirowski
+Cherrier
+Boumans
+Sergi
+Desrosières
+Backhouse
