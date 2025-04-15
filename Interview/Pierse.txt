@@ -5,7 +5,7 @@ Lecture interview Richard Pierse - Winsolve
 (p1)
 - 1976, graduated in Philosophy, Politics and Economics at Oxford
 - not much econometrics, not a very good place for technical Economics
-- did an econometrics paper with roger bacon at Lincoln College, at LSE
+- did an econometrics paper with Roger Bacon at Lincoln College, at LSE
 - did not have money to do master at Oxford so keep on his summer job for a year at National statistical institute with Denise Osborn
 (p2)
 - forecast model of institute was getting to big to run, so he rewrote it and called it NIModel
@@ -33,7 +33,118 @@ Lecture interview Richard Pierse - Winsolve
 - computer was a main frame in a air conditioned room
 (p6)
 - he wrote a compiler in spare time in high school and computer club at Oxford was also doing one
-- a guy who did the computer option in high school adise him to apply to work at Departement of Environment between high school and Oxford. He got hired there for 8 months and did it again the next summer
+- a guy who did the computer option in high school advise him to apply to work at Departement of Environment between high school and Oxford. He got hired there for 8 months and did it again the next summer
 - at Oxford, economics and computer was two very different thing and he happened to be involved in both
 (p7)
--
+- interest for computer anc econ converge at LSE where he realize that Phd in econometrics always mean writing a program
+- he printed David Hendry program to look at it 
+- he wrote his own, named PERESUS during his PhD, a FORTRAN program for estimating systems of equations with switching exogeneity
+- at Cambridge, did not programmed
+- later used GAUSS, higher-level language, he translated FORTRAN program he had into GAUSS
+- at LSE, the National Institute and Cambridge, it was mainframe computer built by Control Data Corporation
+(p8)
+- at LSE a card reader went through your card ant send the data to the computer, then the output came back after a long time
+- he learned programming langage by himself, FORTRAN by reading Danile McCracken book
+- he preffered ALGOL, which he thought was more elegant
+- he think that programming is more a logic and you can do it with every language
+- he agree that higher level code make it esaier for broad range of people to do econometrics and reuse code frome other people
+- people switch from software to other for 2 reason : more people wrote on that software so make it easier to use it, "appel d'air" and problem of compatibility (ex: switching to windows)
+(p9)
+- 2 moment of amazement : running a lot of regression for disaggreagated model (40 industry), Hashem Pesaran wanted that every output came from Microfit, the package he created, with a program of low level code and GAUSS, he reproduced the look of those output and Hashem did not notice / and learning C++ to work on winsolve, because C++ library was necessary to wrote windows app
+- C++ is different because it is object oriented and because student still learn it while nobody learn FORTRAN
+(p10)
+- he had to teach computer at Surrey, he chose BASIC and Java because it is OOP
+- a lot of moment of frustration but always thought it was his fault rather than the language
+- transition from mainframe to PC was interesting, no FORTRA compiler in PC but a C compiler
+(p11)
+- his first PC was a text processor for PhD but never got tto the writing phase
+- then a Compaq Deskpro 386, very useful tool for econometrics
+- he used to send message trough JANET, the UK version of internet
+- in term of WWW, he tried with a colleague named Adam Nealis at LBS, a system called Gopher, an index of images and stuff
+- also tried Mosaic at LBS
+(p12)
+- winsolve start when at LBS, he is asked by head of Centre for Econmic Forecasting, David Currie, to go to a meeting with other modelling people organized by ESRC
+- lot's of people in macro that he know from BoE, Treasury, National Institute, and Jeremy Bray, a memebre of Parliament interested in macro modelling and software
+- Jeremy Bray pushed ESRC to fund a cutting edge software for all the macro people funded by ESRC
+- but ESRC did'nt fund macro model group which were funding themselves by selling forecast and were differentiating each other by theyre software, so imposing one was going to destroy that and they were all against
+- don't remember the argument for it, apart that some group were using some very obsolete software, but at the end, they put money fot it
+(p13)
+- as he knew he can do it, he applied for the funding and building the software
+- he wanted to do for macro model solution software what was done on econometric software by Hendry
+- everybody followed David Hendry type of econometric approach because everybody started to use PCgive because it was easy to use
+- the software was spreading his approach and his fame
+- seeing people at conference talking about software make him thought that it was academically okay, but he don't think so anymore
+- he felt that the modelling community was kind of hiding to the world how to build a model and forecast with it
+- but he wanted student to be able to play with model and estimate equation so he applied for the fund to build that software
+- he was accepted but did a teaching job in the same time so he was funded for half his time for three years, from 1995 to 1998
+- he was alone on this project but the administration add someone else
+(p14)
+- from the very start he saw winsolve as a software to handle rational excpectations, models, dynamics
+- because at that time that was the model used by ESRC groups, later BoE started to work on something for SDGE models
+- but a lot of solution methods are implemented
+- and then he started doing a day a week consultancy at the BoE, teaching new entrants econometric, for 10 years
+(p15)
+- at the BoE, he developped specific part of Winsolve to help Peter Westaway on developping the MTMM model
+- then, a new team was hired to developp BEQM Bank of England Quarterly model, but this group used TROLL, a very expensive American software, using a stacked-Newton solution method
+- but he did not engage with that group
+- he worked for Fathom a consultancy group that asked him to reproduce BEQM in Winsolve, which was very easy with public knowledge
+(p16)
+- BEQM did not survive long, and they moved away fromm TROLL which was very expensive
+- he tried it a bit when he had access, at the bank, and it was a basic front end with a FORTRAN program
+- biggest difficulty for winsolve was the user interface because they were a very different paradigm for pre windows and windows program
+- they were a lot of change, for the C++ compiler he used Borland one which then moveed to another one called OWL, which then changed again, but a community keep supporting OWL so he followed the flow, now he use the microsoft one
+- they wera also the question of writing the program for 16 or 32 bit, he had both version of winsolve, but abandon the 16 version
+(p17)
+- then 64 came out, and now there is a problem with non ASCII symbole like the pound surligner
+- he did a PC Windows program because it was the state of the art at the time, for Jeremy Bray, but now the state of the art is probably web based app
+- the first version came out in 1998
+- he talked to user, the less hostile one, but major part of the user came from the BoE course, that used winsolve, for other Central Bank named Centre for Central Banking Studies, they were Central Bank and Treasury form around the world
+- when ESRC stopped funding the developpment they asked him to keep developing it, so he started to sell it, but it was a big burden, so a company approach him and started to sell it for him
+(p18)
+- the company is called Timberlake Consultants Limited
+- they act as a distributor for eViews, TSP and they worked a lot with David Hendry and Jurgen Doornik
+- it was a lot cheaper than TROLL, but as the price is a signal, he could not make it too cheap
+- one time buy and then upgrade for free
+- he keep upgrading it until 2007 and version 4, as client askde him for more options and he wanting to add some things
+(p19)
+- for exemple, he createtd fan chart, both with stochastic simulation method and BoE ones with only a forecast point
+- he updated the software based on email he received and meeting hehad in person with people using it
+- people requested to be able to use it through command line instead of the GUI so he developped that
+- this new usage made some pre check set up for the GUI redundant and he had to change that in order to avoid doing thousand of teste for every thousand of variable of a model
+(p20)
+- Winsolve was able to run for very large model because that was the usage at that time in central banks, now it is more small model but very hard to solve because extremly non linear, tha's why he put so much solution methods, that are useful in different context
+- the econometric part was not developped because no need to reinvent the wheel, lot of econ soft, just not able to perform model forecasting, so he made Winsolve able to read data files from other program such as PCgive
+- now with DSGE both part come together and it lack in winsolve
+(p21)
+- Dynare was not doing higher than second order approximation while he was, but it was really hard
+- probably because it was coded on GAUSS at first, then a Matlab version came out and then in 2004/5 they did a C++ version, wherehas Winsolve is C++ from the start
+- he met a guy named Ondra Kamenik at Washinton onse that has written c++ for high order approximation
+- he was at Washington because of a possibility to publish a paper with Andy Blake, under the pression of University of Surrey who wanted him to publish or to scale down his time on Winsolve, because Winslolve work was very difficult to publish
+(p22)
+- he always was for free software and never see Winsolve as very expensive for academics, but he was pushed to it by ESRC who stopped funding it
+- now it is very differnet and that king of grant would probaly come with openess conditions
+- ESRC was cutting funding for model development to zero and only fund some special extension of model in a direction for specific project and for the paper tha t would come out
+(p23)
+- he initially choose the price arbitrarly and then when Timberlake took over they probably discussed it but he don't remeber and now he don't heard from them regularly, he don't know how much copy are sold, much of the Central Bank already have one
+- at the beginnning he sent hard copy of the software on CD, but quickly  he had a special page on his website to dowload last version
+(p24)
+- the documentation is very clear but some people approach him directly for some help on problem that was never seen before, it was interesting but time consming and a problem when at Surrey
+- but he never had question on the algorithm of solution method, probably because people who use those software don't understand them
+(p25)
+- he is retired now and do'nt have worked on winsolve for 3 or 4 years
+- to came back to software recognition, he observed that people like Jurgan Doornik and other econometrician who pent a lot of time on programming did not publish about program but about the thing they did with the program, so they did not have a very brilliant career as writing take a lot of time
+- he tried to publish some algorithm but he never publishes those paper and became découragé (despondent)
+- referee most of the time did not understood the paper and said it was not new or else
+(p26)
+- it is common to other interview, people have trouble finding a space for computational methods in economics and for contribution
+- creation of Society for Computational Economics by Kenneth Judd xas a big change in this dynamic
+- his fascination for computer was always there, he particularly remind a movie of spy with a lot of computer
+(p27)
+- he wrote a code, during highschool option to print out the code of the computer so he got bach a huge output to work on, he loved it, seeeing into the computer
+- he is not programmming anymore
+- he remember loving a lot his programmation work, he enjoyed a lot doin it and work a lot of unpaid overtime
+(p28)
+- Winsolve is named after SOLVE, a version of NIModel that he wrote at LSE, and becasue Winsolve was translating and extending SOLVE to Windows application
+- in computing history, he particularly remember Werox work on user interface, trasnition from mainframe to PC and WWW decentralized system
+
+finished at 01:57 16/04/2025
