@@ -3,7 +3,7 @@ To do list :
 Fischbacher : fini le
 Gramain     : fini le 
 Epstein     : fini le 15/03
-Pierse      : en cours le 16/03
+Pierse      : fini le 16/04
 Turocy      : 
 Hendry      : 
 Axtell      : 
@@ -15,26 +15,37 @@ BioPierse      : v2
 BioTurocy      : v1
 BioHendry      : v2
 BioAxtell      : 
-SyntheseBioEcon:
+SyntheseBioEcon: cf AOHJunior
 Synthese des moments wahou/entre[]/surligner par moi :
+Faire une synthèse des commentaires reçus à AOH Junior/Desmarais Tremblay :
 
 Comparison.csv
 
-BioSugascape   :
-Bioz-Tree      :
-BioGambit      :
-BioWinsolve    :
+sugarscape.txt   : v1
+ztree.txt        : v1
+gambit.txt       : v1
+winsolve.txt     : v1
+hendrysofts.txt  : v1
 SyntheseBioSoft:
 public auxquels se destinent les logiciels ? :
 que deviennent les logiciel ? qui s’en occupe maintenant ? :
 regarder si y a d’autre cas interessant à mettre en perspectives, dans la liste des logiciels des années 80, si y a des histoires interessantes, des logiciels qui existent encore
 
+Réorganiser ma biblio dans zotero :
+
 Lire papier "it's computer stupid" pour reference temporelles :
+
+Demander à Sergi, entretien méthode de socio, pas neutre, pq avoir choisi ca, formation ? : il a dit de lire les papier d'intro de OHE et surtout le papier de Dorian Jullien
+Comment ont ils choisis les interviewé ? Y en a plus orthodoxes d'autre hétérodoxes ?
+
+Faire un texte pour faire la différence entre software, langage, ... :
+
+Faire un mail à Agnes Gramain pour l'impérialisme des software economique :
 
 Lister ici les papiers presentations OHE :
 Lire ces papiers :
 
-Ecrire pour AOH Junior quelques pages qui rendent le corpus intelligible à quelqu'un (biographie du groupe)
+Ecrire pour AOH Junior quelques pages qui rendent le corpus intelligible à quelqu'un (biographie du groupe) : v1 faites pour AOH, mais à refaire, trop sombre pour néophyte
 
 Explorer lien entre Sugarscape, Herbet Simon et Machine Dreams :
 
