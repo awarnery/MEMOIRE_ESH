@@ -1,0 +1,22 @@
+z-tree
+
+Dev par : Urs Fischbacher, later helped by Stefan Schmid
+
+Date : Début du développement en 1997. Le logiciel est présenté pour la première fois en 1999.
+
+Institution : Développé à l’Université de Zurich, à l’Institut de recherche empirique en économie dirigé alors par Ernst Fehr.
+
+Publication : La publication de référence est "Fischbacher, Urs (2007), z-Tree: Zurich Toolbox for Readymade Economic Experiments, Experimental Economics, 10(2), 171–178."
+
+But :
+Permettre aux économistes expérimentaux de programmer facilement des expériences interactives complexes en laboratoire (jeux économiques, marchés, préférences sociales, coordination, etc.), sans avoir besoin de compétences approfondies en programmation. z-Tree vise à automatiser et standardiser la conduite d’expériences en sciences économiques.
+
+Caractéristiques techniques :
+Langage de programmation permettant de construire des jeux expérimentaux à partir de modules prêts à l’emploi.
+Communication en temps réel entre les ordinateurs des participants via un réseau local.
+Compatible avec Windows ; nécessite une infrastructure réseau locale.
+Prévoit l’administration centralisée de sessions expérimentales depuis un poste « serveur » contrôlant tous les clients.
+Langage propriétaire mais gratuit pour un usage académique.
+
+Histoire
+Le développement de z-Tree débute lorsque Urs Fischbacher est recruté en tant que programmeur en 1995 par Ernst Fehr à Zurich, dans le contexte de la montée de l’économie expérimentale. Fischbacher, de formation mathématique et informatique, est chargé de concevoir le logiciel du laboratoire expérimental. Il réalise rapidement que les outils existants sont insuffisants ou trop rigides pour les besoins variés des chercheurs. Il conçoit alors z-Tree pour répondre aux besoins de flexibilité, de fiabilité et de simplicité. Dès 1999, z-Tree est présenté à la communauté, et devient progressivement le standard de facto pour l’économie expérimentale, notamment en Europe. Il est utilisé dans des centaines de laboratoires à travers le monde.

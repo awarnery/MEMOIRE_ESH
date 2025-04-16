@@ -1,0 +1,28 @@
+Winsolve
+
+Dev par : Richard G. Pierse
+
+Date : Développé entre 1995 et 1998, avec des versions successives jusqu’à la version 4 en 2007
+
+Institution : Université de Surrey (UK), avec financement initial de l’ESRC (Economic and Social Research Council)
+
+Publication : Pas d’article fondateur unique. Documentation en ligne sur www.winsolve.co.uk et plusieurs manuels utilisateurs. Présenté dans diverses conférences et cours, notamment via la Bank of England et le Centre for Central Banking Studies
+
+But :
+WinSolve est un logiciel destiné à résoudre, simuler et contrôler des modèles non linéaires. Il peut traiter une large classe de modèles incluant à la fois des modèles théoriques tels que les modèles d'équilibre général dynamique stochastique (SDGE) et des modèles économétriques tels que les modèles macroéconomiques . Il a été conçu pour rendre la modélisation dynamique plus accessible, en fournissant une interface intuitive permettant à des chercheurs, étudiants ou institutions de manipuler et d’expérimenter avec différents types de modèles dynamiques (y compris avec anticipations rationnelles et contrôle optimal).
+
+Caractéristiques techniques :
+Programme Windows 32 bits, écrit en C++.
+Interface graphique interactive (GUI) inspirée des standards Windows.
+Possibilité d’exécution en mode batch via un langage de commandes interne (log language).
+Capacité à résoudre des modèles non linéaires, anticipatifs, de grande taille.
+Méthodes de résolution disponibles : Gauss-Seidel, Newton, Fair-Taylor, Stack Newton, Perturbation, Parexp (expectations parameterized), etc.
+Simulation stochastique avec génération de fan charts, évaluation de distributions empiriques.
+Fonctions de contrôle optimal linéaire-quadratique, avec ou sans engagement, pour un ou plusieurs agents (jeux non coopératifs).
+Prise en charge de nombreux formats de données (PC-Give, MicroFit, TROLL, EViews, Excel…).
+Pas de module d’estimation intégré, par choix délibéré : le logiciel est conçu pour être complémentaire aux logiciels d’économétrie (comme PcGive ou MicroFit).
+
+Histoire : 
+WinSolve est né de l’opportunité offerte par un appel à projet de l’ESRC en 1994, visant à moderniser les logiciels utilisés par les groupes de modélisation macroéconomique au Royaume-Uni. Richard Pierse, alors à la London Business School, propose un logiciel inspiré de ses travaux précédents sur NIModel, mais pensé pour l’environnement Windows et orienté vers l’enseignement et la diffusion.
+Entre 1995 et 1998, Pierse développe seul la première version de WinSolve, en parallèle de son poste à l’Université de Surrey. Malgré le scepticisme des groupes de modélisation existants, le logiciel rencontre un certain succès, notamment à la Banque d’Angleterre (où Pierse est consultant pendant près de 10 ans), au Centre for Central Banking Studies, et dans plusieurs banques centrales à travers le monde.
+Après la fin du financement ESRC, WinSolve devient un logiciel commercialisé, notamment via Timberlake Consultants Ltd., tout en restant bon marché pour les chercheurs. Le logiciel est mis à jour régulièrement (jusqu’à la version 4), souvent en réponse à des demandes d’utilisateurs. Il connaît un usage prolongé, notamment dans les années 2000, grâce à sa flexibilité, sa documentation claire, et sa capacité à traiter des modèles complexes.

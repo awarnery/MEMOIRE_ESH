@@ -1,0 +1,28 @@
+Gambit 
+
+Dev par : Richard McKelvey (initiateur), Theodore Turocy et Andrew McLennan. Turocy devient le principal développeur dès 1994.
+
+Date : Débuts informels à la fin des années 1980. Le projet devient structuré avec un financement NSF autour de 1993–1994.
+
+Institution : Caltech, University of East Anglia, financer par la National Science Foundation (NSF) jusqu’en 1999, et plus récemment par l’Alan Turing Institute.
+
+Publication : Pas d’article unique fondateur, mais un ensemble de publications techniques. La citation recommandée aujourd’hui est 
+"Savani, Rahul & Turocy, Theodore L. (2025), Gambit: The package for computation in game theory, Version 16.3.0. https://www.gambit-project.org"
+
+But :
+Gambit est une bibliothèque logicielle libre destinée à la représentation, l’analyse et la résolution des jeux finis, en forme normale et extensive. Il contient notament les algorithmes permettant de calculer différents équilibres, dont celui de Nash, pour des jeux à stratégies discrètes. Il est conçu à la fois comme outil de recherche en théorie des jeux computationnelle et comme ressource pédagogique.
+
+Caractéristiques techniques :
+Logiciel open source, sous licence GNU GPL v2.
+La dernière mis à jour date de janvier 2025, c'est la 16ème version
+Écrit principalement en C++, avec une interface Python (pygambit) et des outils en ligne de commande.
+Interface graphique multiplateforme (Linux, MacOS, Windows) via wxWidgets.
+Compatible avec les scripts Python, intègre divers algorithmes de calcul d’équilibre.
+Disponible via PyPI (pip install gambit).
+Hébergé sur GitHub avec intégration continue (CI) et documentation complète.
+
+Histoire :
+Gambit est né des travaux de McKelvey dans les années 1980, initialement comme un ensemble de petits programmes en ligne de commande pour résoudre des jeux. Le nom "Gambit" apparaît en 1990 dans un article de Robert Wilson, et reflète un jeu de mots entre game et bit.
+En 1992, Theodore Turocy rejoint le projet comme étudiant à Caltech et amorce une réécriture en C++. À partir de 1994, il est employé à plein temps sur le projet via un financement NSF. Une interface graphique est développée, et plusieurs algorithmes sont implémentés, dont ceux de McKelvey et McLennan.
+Après la fin du financement, le développement ralentit. Turocy continue d’entretenir le projet seul durant les années 2000. Vers 2010, une interface Python commence à être développée, et le code est migré vers GitHub.
+Depuis 2022, avec un financement du Turing Institute, Gambit connaît un regain d’activité.

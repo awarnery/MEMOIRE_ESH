@@ -1,0 +1,25 @@
+Sugarscape
+#ajouté que c'est à la fois un logiciel, un modele et faire la difference
+
+Dev par : Joshua M. Epstein et Robert Axtell
+
+Date : 1991
+
+Institution(s) : The Brookings Institution, "20250 Project"
+
+Publication(s) : Growing Artificial Societies: Social Science from the Bottom Up (Brookings Press, 1996)
+
+
+But : 
+Sugarscape est un logiciel permettant aux scientifiques de construire et d'expérimenter des sociétés artificielles dans lesquelles des agents - ayant chacun des comportements, des besoins et des contraintes spécifiques - interagissent au fil du temps sur une grille spatiale. En spécifiant des règles simples pour les déplacements, la consommation de ressources, la reproduction, le commerce ou la transmission de maladies, les chercheurs peuvent simuler l'émergence de modèles sociaux à grande échelle tels que l'inégalité des richesses, la ségrégation spatiale, la diffusion culturelle ou les vagues d'épidémies. Il s'agit d'un environnement contrôlé permettant de tester des hypothèses, d'explorer des mécanismes de causalité et d'observer les effets des règles individuelles sur les résultats collectifs, sans s'appuyer sur des hypothèses d'équilibre ou des équations globales.
+
+
+Caractéristiques techniques : 
+Sugarscape a d'abord été écrit en Psacal puis réécrit en C++, deux langage de relativement bas niveau, complexe à maitriser. Le software a été distribuer dans un CD qui été vendu avec le livre de Epstein et Axtell : Growing Artificial Societies. Il ne tournait d'abord que sur des ordinateurs Macintosh d'Apple, car la partie du logiciel permettant de visualiser les mouvements des agents avait été ecrit en utilisant des routines de la MacToolbox. Cette partie, critique pour la diffusion et l'adoption du modèle selon ses auteurs, nécessitaient beaucoup de puissance de calcul, ce qui limitait les modèles à quelques centaines d'agents. Bien que le code original de Sugarscape ait été développé avant la prolifération des plates-formes de simulation ABM spécialisées, son architecture anticipait de nombreuses caractéristiques aujourd'hui standard dans des logiciels tels que NetLogo, Repast et MASON. 
+Aujourd'hui, le logiciel Sugarscape n'est plus utilisé mais il a été réimplementer, notamment dans NetLogo, un logiciel libre de droit et multi plateforme, ce qui le rend compatible avec des ordinateurs autres que Macintosh. De plus, il est maintenant possible d'utiliser des GPU pour pouvoir accélérer les calculs et multiplier le nombre d'agents/ les simulations.
+
+
+Histoire : 
+Sugarscape a été conçu dans la cafétéria de Brookings, littéralement sur des serviettes de table, lors d'une discussion informelle entre Joshua Epstein, Robert Axtell et d'autres membres de leur équipe. L'objectif était de modéliser la société artificielle la plus simple possible, peuplée d'agents eux mêmes définis par des paramètres simples : localisation, vision, métabolisme et mouvement.
+
+Le modèle est né d'une ambition plus large : jeter un « regard brut sur l'ensemble » de la durabilité sociétale à l'horizon 2050. Bien que le terme « modélisation basée sur les agents » (ABM) n'ait pas encore été largement utilisé, Sugarscape allait bientôt devenir une pierre angulaire dans le développement du paradigme de l'ABM.

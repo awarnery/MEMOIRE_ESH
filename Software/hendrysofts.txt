@@ -1,0 +1,97 @@
+Hendry's softs
+
+Dev par :
+
+Date :
+
+Institution :
+
+Publication :
+
+But :
+
+Caractéristiques techniques :
+
+Histoire :
+
+
+1. PcGive
+Développé par : David Hendry
+Date : Première version en 1984, version 4 en 1987
+Institution : University of Oxford
+Publication : Documentation interne et intégrée à OxMetrics
+But : Estimer, tester et simuler des modèles économétriques dynamiques ; conçu pour l’enseignement et la pratique empirique.
+Caractéristiques techniques :
+Développé d’abord en Fortran, puis C.
+Interface menu en mode texte DOS.
+Simulation Monte Carlo intégrée.
+Histoire : Premier logiciel de Hendry pour PC, largement utilisé dans le cadre de son enseignement à Oxford. Il a servi de base à l’approche "general-to-specific".
+
+2. GiveWin
+Développé par : David Hendry & Jurgen Doornik
+Date : Années 1990
+Institution : University of Oxford
+Publication : Interface associée à PcGive
+But : Proposer une interface graphique conviviale pour Windows afin de rendre PcGive plus accessible.
+Caractéristiques techniques :
+Interface graphique Windows.
+Intégrée plus tard à OxMetrics.
+Histoire : Conçu pour moderniser l’environnement PcGive et attirer un public plus large, notamment non programmeur.
+
+3. PcGets
+Développé par : Hans-Martin Krolzig (sur la base de la méthodologie de Hendry)
+Date : Fin des années 1990
+Institution : University of Oxford
+Publication : PcGets: Automatic Model Selection (2000)
+But : Automatiser la sélection de modèles économétriques selon l’approche général-vers-spécifique.
+Caractéristiques techniques :
+Implémentation algorithmique en Fortran/C.
+Procédures Gets automatiques.
+Histoire : PcGets marque un tournant vers l’automatisation de la modélisation économique. Il précède et inspire Autometrics.
+
+4. Autometrics
+Développé par : David Hendry & Jurgen Doornik
+Date : Années 2000
+Institution : University of Oxford
+Publication : Intégré à OxMetrics
+But : Offrir une modélisation automatique avancée, robuste aux ruptures structurelles, applicable aux grands ensembles de données.
+Caractéristiques techniques :
+Implémenté en Ox et C++.
+Indicateur de saturation, tests de stabilité, gestion des ruptures.
+Histoire : Représente l’aboutissement méthodologique de l’approche Hendry. Autometrics est aujourd’hui central dans OxMetrics.
+
+5. STAMP
+Développé par : Siem Jan Koopman
+Date : Années 1990
+Institution : Développement associé à Oxford
+Publication : Durbin & Koopman (2012)
+But : Modéliser des séries temporelles structurelles via des modèles en espace d’état.
+Caractéristiques techniques :
+Intégré à OxMetrics.
+Langage Ox.
+Histoire : Module complémentaire à PcGive et Autometrics, utilisé notamment en macroéconomie pour traiter des données à tendance instable.
+
+
+6. G@RCH
+Développé par : Sebastian Laurent
+Date : Années 1990–2000
+Institution : Maastricht et Oxford
+Publication : Documentation OxMetrics
+But : Estimer des modèles de volatilité (GARCH et variantes) pour données financières.
+Caractéristiques techniques :
+Outils de simulation et estimation GARCH intégrés à OxMetrics.
+Histoire : Extension spécialisée pour l’analyse de séries financières, intégrée dans la suite OxMetrics.
+
+
+7. OxMetrics
+Développé par : Jurgen Doornik & David Hendry
+Date : Depuis 1998
+Institution : University of Oxford
+Publication : Hendry & Nielsen (2007)
+But : Fournir une suite complète de logiciels économétriques pour séries temporelles, données de panel, volatilité, sélection de modèle, etc.
+Caractéristiques techniques :
+Basé sur le langage de programmation Ox.
+Multiplateforme (Windows, Mac, Linux).
+Modules : PcGive, STAMP, G@RCH, Autometrics, etc.
+Histoire : Héritier de PcGive, OxMetrics s’impose comme un standard dans l’école économétrique d’Oxford/LSE.
+
