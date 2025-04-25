@@ -17,6 +17,7 @@
 \usepackage{libertine}
 
 % Hyperlinks and Bibliography
+\usepackage{biblatex}
 \usepackage{hyperref} % for references (\ref, \label), url
 \hypersetup{
     colorlinks=true,
@@ -26,11 +27,6 @@
     citecolor=black,
     pdfpagemode=FullScreen,
 }
-\usepackage[
-    natbib=true,
-    style=numeric,
-    sorting=none
-]{biblatex} % Imports biblatex package
 
 % Graphics and Figures
 \usepackage{graphicx} % to include images
@@ -78,7 +74,6 @@
 \usepackage{listings}
 
 
-\addbibresource{biblio.bib} % Import the bibliography file
 \graphicspath{ {figures/} }
 \pagestyle{fancy}
 \addto\captionsfrench{%

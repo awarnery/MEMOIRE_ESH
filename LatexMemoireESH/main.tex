@@ -14,8 +14,11 @@
 %----------------------------------------------------------------------------------------
 %	PREAMBULE // PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
 %----------------------------------------------------------------------------------------
+
 \documentclass[a4paper,12pt,twoside,french]{book}
 \usepackage{PackagesDeAmbroise}
+\addbibresource{biblio_ESH.bib}
+
 \selectlanguage{french}%
 \linespread{1.2} % Line spacing of 1.5 times the normal spacing
 \title{Memoire M2 ESH}
@@ -27,7 +30,6 @@
 \fancyfoot{} % clear all footer fields
 \makeglossaries
 \makeindex
-\usepackage{PackagesDeAmbroise}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %----------------------------------------------------------------------------------------
@@ -35,10 +37,77 @@
 %----------------------------------------------------------------------------------------
 \begin{document}
 
+
+%\maketitle
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+\begin{titlepage}
+    \begin{center}
+            \includegraphics[height=2.5cm]{figures/cover/logoparis1.png}
+    \end{center}
+
+    \begin{center}
+    
+\vspace*{.03\textheight}
+\textsc{\LARGE Université Paris-Panthéon-Sorbonne}\\[0.2cm] % Univ name
+    \large M2 - ESH\\
+          \vfill
+
+         \rule{\textwidth}{0.8pt} \\ % Horizontal line
+         \vspace{10pt}
+          { \LARGE \bfseries Le figure de l'économiste programmeur} % Thesis title
+          \vspace{10pt}
+          \rule{\textwidth}{0.8pt} \\ % Horizontal line
+    \end{center}
+    
+    \vfill
+    % Author and supervisor	
+    \begin{center}
+        Par \textsc{\Large Ambroise WARNERY}\\[1cm] 
+        Mémoire de recherche\\[1.2cm]
+        Dirigée par \textsc{\large Francesco SERGI}\\[0.2cm]
+        Et par \textsc{\large Dorian JULLIEN}\\[0.2cm] 
+        Présenté et soutenue le XX/06/2025 %renseigner la date et choisir le type de soutenance
+    \end{center}
+    
+    \vspace{1cm}
+
+
+\newpage %page de garde vide
+\thispagestyle{empty} %page de garde vide
+\end{titlepage}
+
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+
+
+
+
+% --------------------------------------------------------------
+%                         Début du corps
+% --------------------------------------------------------------
+
+\mainmatter
+\setlength{\parskip}{1.2em}
+
+\renewcommand{\baselinestretch}{1.1} %interligne pour le texte standard
+
+\fancyhead[RO]{\leftmark}
+\fancyhead[LE]{\textsc{\chaptername~\thechapter}}
+
+
+\input{chapters/chap1}
+
+
+
 \printglossary
 
-Document brouillon du mémoire :
+
+%----------------------------------------------------------------------------------------
+%	BIBLIOGRAPHY
+%----------------------------------------------------------------------------------------
+\printbibliography
+%\nocite{*} % <-- if you want uncited entries, otherwise comment this out
 
 
-
-\end{document}  
+\end{document}
