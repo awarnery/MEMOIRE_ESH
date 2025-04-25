@@ -1,0 +1,46 @@
+16/04/2025
+
+Lecture interview David Hendry - PCGIVE
+
+(p1)
+- started computer with hand calculator at Aberdeen and then the computer ATLAS at LSE at the Center of London University
+- Denis Sargan publish his famous 1964 paper by plugging wire into ATLAS
+- he was bad at ATLAS Autocode and the university bought an IBM using FORTRAN
+- he did not use computer during MSc but during Phd he programmed a lot under the supervision of Denis Sargan, who wanted program to apply theory he wrote
+(p2)
+- he learned programming in Fortran at LSE with Carol Hewlett in a class wth other Phd student in econometric
+- he felt it very easy to master Fortran
+(p3)
+- during visit at Yale, Berkeley and UCLouvain, he didi not program because to busy with his view on econ methodology, for which he was very critized
+- he think that it is a huge battle to persuade people that econ methodology is not right and need to be revised
+- at Berkeley he met Bronwyn Hall who developped a time series processor that was plugged into his software later
+- not much difference in programming between USA and UE because no developper in EU apart him, Hashem Pesaran and Pierse
+- but huge methodology difference, Americain assumed they have a true theory, the collect data and fitted it with the theory, while Hendry proposed to look at the data, build a model and try to interpret the results. that was called data mining in a very pejorative way at the time
+(p4)
+- all the software he created (PCGIVE, PCGET) are a recode of what he didi on mainframe at LSE but for PC as he view them as the future
+- he was very limited and felt very frustrated by the small amount of RAM and ROM but he succeded and hardware improved
+- he wanted his software to enhance teaching of econometrics, that he disliked a lot at that time, very much american way of doing it, spending 3 weeks in proving LS was BLUE instead of learning how to create model
+- it was very open so that other people might plug into theyre program
+- he developped an sort of ML approahc with monte carlo but he stopped in front of antagonism it created
+(p5)
+- FORTRAN was a nightmare to create a fornt end and to output graphic, so Jurgen Doornik was engaged on the promess of easing the whole program a lot with C code
+- he also created the language OX, very similar to C, for replicating everythonng done with OxMetrics
+(p6)
+- but they were also other members of the team, each did contribute to the project by doing small standalone bit of the software
+- Hans Martin with PCGET, Sebastian Laurent with GARCH, Siem Jan Koopman with STAMP
+- each part of the program was linked to ESRC grant because it was new econometrics innovation taht required software, so ESRC grant was provided for both research and it technical implementation
+[The software development was not just a side product, but an essential part of the research methodology.]
+- each contributor invented new econometrics and rpogrammed it fot it's PhD, then Doornik, as the core programmer of the project reprogrammed it into the software, under C++ or OX
+- the user friedly aspect of the software was very important for Hendry, to be able to braodcast and show student in classroom how does it work, whcich result you get etc. because prior to that, you had to develop your model yourself
+- student were amazed by the program crash proofsness because at that time windows OS DOS was very unstable
+(p7)
+- use of computer became much and much more important
+- in 1986, when he took over the Oxford Bulletin, he asked every people that sent paper to also sent data and code used
+- today big data set are available on the FED website or others
+(p8)
+- the Hendry started focusing more on testing and comparing model than building them, he developped the concept of encompassing, testing if one model can explain what another does. But software didn’t exist to handle that. So Hendry’s group built it. Their system could store and compare multiple models, check results, and even log the process (e.g., with a feature called Progress).
+- Ultimately, computers enabled a deeper methodological shift: from writing models to building reliable, testable explanations of economic behavior.
+(p9)
+- Encouraged by Bayesian econometrician Jean-François Richard, and drawing on earlier warnings by Denis Sargan, Hendry flipped the traditional approach: (1) Instead of starting with a simple theoretical model, he began with very general models, rich in variables and structure. (2) He reduced them step by step, using statistical tests to eliminate irrelevant parts — this became the "theory of reduction."
+- This shift to general-to-specific modeling relied heavily on programming. Hendry and his colleagues built software tools (like PcGive) to automate tests and model reduction. Programming became an essential part of methodology — not just a tool for implementation.
+(p10)
