@@ -1,0 +1,37 @@
+30/05/2025
+
+
+Axtell
+
+
+
+(is an engineer but have a minor in econ, he got to econo because :)
+But I enjoyed economics. I think it’s also true that, in
+Detroit, in the early 1980s, there was a gigantic economic collapse happening, kind of in front of my
+eyes. The U.S. auto industry was falling down. So, economics was not just an abstract subject. It was
+very concrete that a huge industry was in trouble. I think just the desire to understand that (a little
+bit) was an easy motivation to want to know more about how economics worked. p.1
+
+(In PhD also had Simon Herbert cover him for doing core CS and core econ) p.2
+
+
+
+(histoire compliqué de creation d'un centre de recherche, qu'on bouge du departement de sciences po vers celui d'economie, histoire institutionnel trouble car discipline peu calir) p .4/5
+
+(groupe BACH qui essaye de cumuler CS et biologie pour faire un peu le jeu de lavie, eux ils veulent faire pareil pour les sciences sociales) p.6/7
+
+
+(son phd) p.7
+My dissertation had been more about mathematical stuff, about
+aggregation and how to build computational mathematical models
+
+
+Ils sont tres influence par les CS, plus que par l'économie
+(en biologie les modeles de ce types etait des Individual BM, maisl'acronyme fait penser à l'entreprise donc ils ont pensé à actor, mais c'était deja un concept de theorie des reseaux sociaux, et ils sont partis sur agents par defaut, qui etait à la mode en CS) p.8
+
+(au debut on appele ASL pour artificial social life, comme si un modele suffisait pour tous, en fait finalement c'est plutot un type de modele qui permet de faire des cas precis, genre une institution) p.8/9
+
+
+(volonte de ne pas s'incrire dans la meme economie que Samuelson qui est juste à propos de résolution d'équation) p.10
+
+
