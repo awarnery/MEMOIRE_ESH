@@ -34,4 +34,168 @@ Ils sont tres influence par les CS, plus que par l'économie
 
 (volonte de ne pas s'incrire dans la meme economie que Samuelson qui est juste à propos de résolution d'équation) p.10
 
+Right up front,
+we say there are four ways that we can use this technology to relax assumptions. [Two of these are:]
+
+
+Romain Plassard: Okay, thank you. Let’s move to the second step of our interview. We are now
+interested in getting a sense of the place of computers and software throughout your career. Yep.
+Do you recall when you used a computer for the first time?
+Robert Axtell: Yeah, I do! It turns out I recently had to talk about this for some reason. (Why did I
+talk about this?) It turns out that when I was in high school, one Christmas, my parents gave me a
+TI [Texas Instrument] programmable calculator. I grew up in upstate New York—not New York
+City, but upstate New York—in an area that was very snowy. I just remember that it was one winter.
+It just snowed so much that they canceled school for like two weeks. So, I basically learned how to
+program that whole thing in a couple of weeks. I went through this big, fat manual. Then, we had no
+computer at school; but my high school math teacher said, “Well, we need a computer”
+. He made a
+plan to go in front of the school board and ask the school board for funding to have a computer;
+and he had me and one of my classmates (who turns out, ends up being my brother-in-law, because
+I married my friend’s sister) made a presentation. This would have been in the late 1970s, when I
+was thus involved with getting a teletype terminal in my high school. That was my first interaction
+with computers. The programs were stored not even on cards, but on paper tape, with holes in the
+paper tape. We programmed in BASIC. I remember BASIC language. p.15
+
+(then fortran for the first time doing ecoonomics, at exxon, on mainframe)
+
+
+
+Romain Plassard:... even if it was rudimentary, how did you learn about programming?
+Robert Axtell: Once my high school got that teletype terminal, then I took one semester of
+BASIC—the math teacher taught a one semester course on BASIC. I learned BASIC that way. In
+undergraduate school, I learned FORTRAN through just taking a course. You guys, once again, do
+not remember this, but then, when microcomputers came around. And at “time zero” in
+microcomputers, it was not clear what the best languages were going to be. It turns out the IBM PC
+was the first kind of commercial box for doing this, but they were smaller. IBM actually released this
+weird thing called APL. APL stood for “A Programming Language”, but it was a totally symbolic
+thing.
+...
+I learned how to program in Pascal: in fact, the first version of
+Sugarscape was written in Pascal, largely. The only caveat I’ll say about that is that the graphics
+didn’t run fast enough. So, we had to actually write the graphics in C, then do something trickier.   p.16/17
+
+
+
+Romain Plassard: Okay. So, when you arrived in Carnegie, you had already a strong background in
+computer science. How would you describe the background of the other students in your cohort?
+Robert Axtell: Yeah, that’s right. At Carnegie Mellon, it’s surprising, because I thought “This is the
+home of Herbert Simon”
+. Herbert Simon has a Nobel Prize in economics, and, at the time, he also
+had the Turing Medal from the Association for Computing Machinery—which is basically the Nobel
+Prize in Computing. And I said to him something like, “Why aren’t there more people at Carnegie
+Mellon doing economics and computing?” His answer was just like “Those guys over there, they just
+want to do rational choice stuff”
+. He was very dismissive of the economists. He viewed them as
+being... You guys will know the history there...  p.17
+
+
+
+(compute power)
+So, even
+though we had these small IBM PCs, or these Apple machines, they were really not able to do a hell
+of a lot. For example, the Sugarscape model has a couple hundred agents; not a couple thousand or
+a couple million. Because you can only do a couple hundred agents and have it run fast enough. It’s
+a little bit hard to think about, but it’s important to keep in mind, I think, that the computers that we
+had at the time we’re not capable of doing anywhere near what they can today. I mean, like, you
+have much more computing [power] on your phone today than we had available to us in state-of-
+the-art microprocessor back then. That may be one reason why there was just not that much interest
+from students to do computing and economics, maybe.   p.18
+
+
+
+
+(recipe to do commputationnal economics, considered that good economic departement university would not go towards CS, full on engineering take over)
+He basically said this,
+“I have a recipe for you”
+. The recipe he gave me was, basically, the one he used himself: he had been
+at Illinois Institute of Technology (or somewhere like this) and then he went to Carnegie Tech, an
+engineering school at the time, and he converted into this powerhouse for doing a lot of other stuff
+(including computing), by basically taking over the area. By going to a place with great technical
+skills. What he said to me (I’ll never forget): “You should go find a tech school, where basically the
+only economics they teach is a service course for the engineers or the scientists”
+. He meant, you see,
+where every engineer needs to take two courses in economics, every chemist needs to take one
+course in economics or whatever it is, right? “Go there.” And then he goes: “Take over. Go there,
+become the department chair, and then turn into computational economics”. p .19
+
+
+
+(research program question by the administrative board of the Brookings)
+But there were people on the so-called board of trustees. These are typically old-line
+people who come from administrative backgrounds, or they are executives of something. They come
+to Brookings twice a year, and then we would put on these kind of dog and-pony shows for them,
+which is really just kind of like show them the current research, show them what you’re working on.
+Several times we showed them what we were doing, and a couple of them had a pushback. They
+would say, “Well, this seems like very basic research. Is this really the stuff that Brookings should be
+doing? It’s not policy related (or not obviously), right?” I have to say, at this point, you never know
+who your friends are going to be. p .21
+
+( a lot of good research assitatn but no one with programming skills)
+You know, at Brookings we had assistants—they were research assistants. Who were
+they? These were typically people who were in an economics studies program at Brookings:
+undergraduates who had finished their degree, and who knew they were going to go on to do a
+graduate degree, a Ph.D. somewhere. Typically, these would be very good people from MIT, or
+Harvard, or somewhere like that, like, Yale—some good American university. They’re going to take
+a year or two off, and sit with and learn from an economist, how things are done. Those kids are
+great at running regressions. They just did not have the skills to do what we’re doing though, right? I
+think Josh [Epstein] will confirm this if you ask him: that we had great research assistants, in terms
+of being sharp, being willing to learn; but they didn’t come to us with programming skills. They
+didn’t come to us with the ability to build these kinds of models. p.22
+....
+(Brookings attire des jeunes economistes tres bon mais il faut aller à l'niversité pour avoir des bons techniciens)
+It turns out that what I found there was: when you offer a course on
+agent-based modeling, nobody knows what it is. We say: prerequisite is, you have to have
+microeconomics and one programming language. I was amazed. I got amazing kids then, amazing
+students. We said to theme “You have to know microeconomics, you have to know game theory
+helps, and you have to know, say, Pascal”, or nowadays would be Python. And those kids would
+come in there and they would just have such great ideas for building their own little ABM to do
+something, right? Whereas at Brookings, trying to get kids who were on their way to an economics
+PhD, who had a lot of math skills, a lot of econometric skills, but no programming skills... That was
+hard to work with those. We’d work a whole year with some research assistants at Brookings, and
+they wouldn’t be as capable as the kid who’s self-selected to be in the ABM class at Johns Hopkins.
+It was after a couple years of seeing that discrepancy, when I knew I had to go to a university,
+because if we had stayed at Brookings, we just would never have had enough, in essence, graduate
+student support to kind of keep building it out.p.23
+
+
+
+(MDRRR Stallman le grand père de Linux qui s'interesse à Sugarscape)
+Just from a history of
+computing point of view, one of the pioneers of open-source software was Richard Stallman. I
+would regularly get calls from Richard [Stallman] saying “Please make this Sugarscape software
+open-source” or “Please, make it available”: which we did.
+
+(did send the code on diskettte on a regular basis but when NetLogo came out with a replica of Sugarscape the demand stop) p.24
+
+
+(amazed bit OOP because it allowed for one agent to be described by a continuum in the RAM rather than th nth element of different vector, each vector being one feature of the agents population) p. 26
+
+(amazed by improvement in hardware (GPU, multi-core) and software (easier parallelization, more efficient langugae and compilers)) p.27
+
+(change programming langugae, now using Python to use built-in library) p.27
+
+(today economist student of Axtell use library like MESA, in python, to do ABM without haing to do the hard coding work) p.28
+I advise PhD students, primarily now, you know:
+those PhD students are about half computer scientists, who want to do one social science,
+oftentimes economics or finance. Those are the students I work with. Or it could be a social
+scientist in economics or finance who wants to do computing. By
+“half and half” [I mean], we have
+these two different tracks. My experience is that, typically, the students who come to us who are
+social scientists first (by degree), and who have only picked up their computing skills kind of
+secondarily, they sometimes will spend an inordinate amount of time writing their code, checking it,
+and getting it fixed, et cetera. When they can use one of these libraries, they simply are more
+efficient. I’ve advised roughly 40 PhD students at this point; of those 40 PhD students, about half
+are (say) economics and finance people, and half are computer scientists. I think it is fair to say that
+many of the social science people have found it just very efficient to use one of these frameworks
+[MASON or MESA].
+....
+(those library provide a level of abstraction that ease the process and allow people not get hands dirty)
+I think the creation of these frameworks is a way to accelerate the ability for social
+scientists, and particularly economists-finance people, to use agent-based models. Because you can
+do... For example, an agent-based model that might be, say, a 1,000 lines of code if you wrote it
+yourself; whilst it is a hundred lines in MASON. Or, if it’s, maybe like 10,000 lines of low-level
+Python, or 10,000 lines of C, it might be only, say, 1,000 lines in MESA.   p.28
+
+
+(he is afraid that the progress on compute power will dwarf the work he did on mainframe and 3M computer) p.30
 
