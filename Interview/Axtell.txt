@@ -199,3 +199,70 @@ Python, or 10,000 lines of C, it might be only, say, 1,000 lines in MESA.   p.28
 
 (he is afraid that the progress on compute power will dwarf the work he did on mainframe and 3M computer) p.30
 
+(he don't like Lucas economy with only equation, but agent of ABM just solve equation, so they tired nested ABM, the agents have their own ABM in mind to choose what to do) p.31
+
+
+(old supercomputer and GPU update with synchrony, wich is bad for ABM and create artifact) p. 32
+(with new supercomputer, you can do asynchonous update and XL AMB, DARPA and other outside of economy do care a lot)
+
+
+(ABM for solving the micro to macro big question)
+I think that the basic idea is that the micro to macro question has always been the big hard
+question in social sciences. What rules give rise to what kind of society? I think that’s where we can
+really use the computer to our advantage. With the computer, you can be explicit: you can say, “if
+the agents follow these rules, then this kind of world happens”. p.34
+
+
+(very frustrating : ABM develooped a lot more in other discipline than in economics, he could not publish on broad audience journal) p.36
+...
+That’s a frustrating thing, but not from the software/hardware point of view: that’s a
+frustrating thing from the acceptance of the methodology by the profession point of view. p. 37
+
+
+(blake lebarron, in financen ABM, they build richer cognitive ABM, with A Neural network for each agent) p.43
+
+
+(Axtell first use of internet is bitnet, a network across US university started in 1981) p.44
+
+(sent code through BITNET when he was at INSEAD to Epstein but coul not send jpeg or other images of diagrams, much easier to do it face to face a month later) p.44/45
+
+
+(One of the few ABM paper in top journal is a method about complexity and equilibrium form Epstein, reviewer liked it but dislike the technical terminology, Axtelle refused to take it out because it was important for him and the journal did it without his permission) p.45/46
+
+
+(internet change his way of researching like for everybody else, more easy access to data, to pdf of article, to github and code repo, but some old code don't work anymore) p. 46
+
+
+(cellular automata like game of life has no direct link to ABM, but Axtell view ABM as a generaliezation of CA as agent can move, have long distance interaction, have discrete stata and not only binary) p .47
+
+(10x more paper on ABM than CA in google SCHOLAR, and ABM now replace CA in area that use more CA) p.49
+
+p.49 missing the name of AXtell after Sergi question
+
+(Game of Life developped in the 60's but became broad known with microcomputers that allow it to be shown on screen) p. 49
+
+(main reference was artificial life and not economics at the beginning) p.52
+
+(but still had a lot of support from economist at Brookings, and even work on public policy retirement and socila security ABM with people at Standford) p.53/54
+
+
+(division of labor : Axtell coded and Epstein wrote the book, but they both read everything the other make and adjusted it) p.54/55
+
+
+(first program in Pascla, then in C to go faster for the graphics, then in Java to get it run on Mac and PC) p.56
+
+
+(il change les regles en fonction des graphiques obtenus en sorties, et de si ca leur plait ou pas, etrange comme manière de faire, on pourrait presque dire qu'ils test les regles jusq'uaa generer les sorties qui les arrangent pour leurs discours) p.58
+
+(tried to get a patentn for the technics they developped to keep the informations about genealogy tree building) p.59
+
+
+(how economist received the book) p.63/64
+
+(Axtell hope that ABM is going to rise as a good tool for policy maker, but he think that not enough economist have programming skills) p.68
+Hopefully, your history of thought version of this is you’re going to have agent-based modeling on
+the cusp of large-scale adoption here. But at the moment, to be totally honest about it, most
+economists still cannot do agent-based modeling. Most economists don’t know enough
+programming to do it. And that’s really a pathology of our education right now: we spend a lot of
+time on doing matrix inversion and to solve Slutsky conditions, or whatever is in the Mas-Colell,
+Whinston and Green [Microeconomic Theory]. But we don’t teach kids enough computing. 
