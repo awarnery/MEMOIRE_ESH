@@ -1,0 +1,34 @@
+Carrière académique
+
+Robert Axtell commence sa formation universitaire à la University of Detroit à la fin des années 1970, où il obtient un diplôme en ingénierie. Dès son premier semestre, probablement vers 1978-1979, il suit un cours de microéconomie qui marque un tournant dans ses intérêts intellectuels. Bien qu’il poursuive une spécialisation en ingénierie, il valide suffisamment de cours en économie pour obtenir l’équivalent d’une mineure en économie à la fin de son cursus.
+
+Il travaille ensuite brièvement chez Exxon (Esso en Europe), vers 1982-1983, où il est chargé de la conception de nouvelles usines pétrochimiques. Cette activité implique une forte composante informatique, puisqu’il y programme des modèles de procédés industriels sur les mainframes IBM. Cette expérience de « design computationnel » renforce son intérêt pour l’intersection entre ingénierie et économie.
+
+Il envisage un temps un doctorat à Stanford dans le programme Engineering Economic Systems, mais se réoriente vers Carnegie Mellon University, qu’il rejoint au début des années 1980, sans doute 1984 ou 1985. Il y intègre le programme de doctorat en Engineering and Public Policy, à l’interface des sciences sociales, de l’économie et de l’informatique.
+
+À Carnegie Mellon, il bénéficie du soutien d’Herbert Simon, qui l’autorise à suivre à la fois le tronc commun d’informatique (trois cours fondamentaux : langages, systèmes d’exploitation, systèmes) et un large éventail de cours d’économie (équilibre général, microéconomie, théorie des jeux). Il suit peu de macroéconomie et échappe aux examens qualificatifs des doctorants en économie, du fait de son inscription dans un programme interdisciplinaire.
+
+Il soutient sa thèse probablement vers 1991 ou 1992. Peu après, il participe à l’école d’hiver du Santa Fe Institute en janvier 1992, puis rejoint Brookings Institution à Washington D.C. le 1er septembre 1992, directement après l’obtention de son doctorat.
+
+Implication dans le développement de logiciels
+
+Dès son arrivée à Brookings à l’automne 1992, Axtell collabore avec Joshua Epstein dans le cadre du 2050 Project, financé par la fondation MacArthur. Ensemble, ils conçoivent et développent le modèle Sugarscape, un des premiers modèles multi-agents (agent-based models) appliqué aux sciences sociales.
+
+L’idée fondatrice du modèle est esquissée dès septembre 1992, sur une serviette de la cafétéria de Brookings. Axtell passe ensuite les mois de septembre à novembre à coder la première version du modèle, qu’ils présentent lors d’un séminaire à l’Université du Michigan en novembre 1992, la veille de l’élection présidentielle remportée par Bill Clinton.
+
+Le modèle simule une société artificielle peuplée d’agents collectant des ressources (« sugar »), et explore des dynamiques complexes : ségrégation spatiale, commerce, transmission culturelle, épidémies, inégalités économiques. Le livre Growing Artificial Societies, qui formalise le modèle, paraît en 1996, après plusieurs années de travail et de rédaction.
+
+En parallèle, Axtell joue un rôle actif dans la formalisation du champ de la modélisation à base d’agents. Il contribue notamment à fixer la terminologie “agent-based modeling”, en écartant les désignations alternatives comme “individual-based modeling” (IBM) ou “actor-based modeling”.
+
+Le centre de recherche Center on Social and Economic Dynamics, qu’il cofonde avec Epstein à Brookings vers 1997-1998, devient un lieu majeur pour le développement de modèles computationnels en économie. Le lancement officiel du centre donne lieu à un colloque réunissant notamment Kenneth Arrow, Thomas Schelling, John Roemer, Sam Bowles, et Ken Binmore.
+
+Rapport personnel à l’informatique
+
+L’usage de l’informatique chez Robert Axtell remonte à ses années de formation en ingénierie à la fin des années 1970, où il apprend à programmer en FORTRAN. Lors de son emploi chez Exxon (vers 1982-1983), il utilise des mainframes IBM pour simuler la conception d’usines de carburants synthétiques, marquant un premier contact approfondi avec l’informatique appliquée.
+
+Au cours de son doctorat à Carnegie Mellon (1984–1991/92), il approfondit ses compétences avec les cours d’informatique de base, et apprend plusieurs nouveaux langages à l’occasion du passage des mainframes aux micro-ordinateurs dans les années 1980. Il est profondément influencé par la culture computationnelle de l’époque, ainsi que par les travaux de John von Neumann, John Holland, Chris Langton, ou encore Robert Axelrod.
+
+Sa participation à l’école d’hiver du Santa Fe Institute en janvier 1992 constitue un tournant : il y découvre les approches de l’artificial life, les automates cellulaires, et la modélisation de systèmes adaptatifs complexes. Ces découvertes alimentent sa volonté de créer une version « sociale » de ces modèles biologiques, qui deviendra Sugarscape.
+
+Contrairement à ses pratiques antérieures de programmation orientée vers la résolution d’équations, la simulation multi-agents lui ouvre un nouveau paradigme : un monde simulé peuplé d’agents autonomes, où le comportement émerge de leurs interactions. Pour Axtell, cette transition marque une véritable rupture épistémologique dans l’usage des ordinateurs en sciences sociales.
+
