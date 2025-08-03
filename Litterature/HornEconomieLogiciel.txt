@@ -1,0 +1,32 @@
+03/08/2025
+
+Lecture Itinéraire d’une recherche d’un économiste avec des sociologues sur un nouvel objet : les logiciels libres
+
+1. Expliquer la contradiction entre création d'entreprise ultra dominantes/ capitalismes ++ et logiciel libre et participatifs
+Expliquer l'engagement des gens dans le logiciel libre ?
+- incitations economiques classiques, signal fort pour l'embauche, capital de réputation pour compétences difficilement évaluables
+
+Réponse peu satisfaisante car s'appuyant sur des sondages quantitatifs sans contexte
+
+2. Enquetes et entretiens qualitatifs
+En association avec un sociologue des professions atypiques, 30 entretiens
+2 résultats :
+- 
+-
+
+3. Un 2eme travail ethnographique
+- typologie des carrières : "militantisme politco-techniques" - "ludisme technologiques" - "professionalisme marchand"
+- socialisation limitée du fait du caractère distant  et dispersé de ces communautés
+- regulation distribuee, chacun creer et fait respecter des regles
+
+4. Les apports de l'économie politique
+Pas que socio qui contribue à eco
+Analyse de la gratuité
+Dans la continuité des travaux d'Ostrom sur les biens communs : "Il peut exister une gestion par des mécanismes institutionnels autres que le marché et la bureaucratie."
+Mais deux différences dues aux sujets d'études choisies :
+- caractéristiques technico-economique des biens étudiés, rivalité dans la consommation (forêt,...) vs non rivalité (logiciel libres) on a donc comme probleme "tragedie des communs" vs "dilemme du prisonnier" (profiter sans contribuer)
+- acteurs sont proches, se ressemblent, sont interdependant vs coopération à distance, dispertion géographique, etc.
+
+5. Aboutissement
+"L’histoire des projets militants qui associent à leur visée politique et idéologique des objectifs de production de biens ou de services montre les difficultés qu’il y a à concilier fidélité aux valeurs d’origine et réussite économique. Schématiquement le développement de ces projets navigue laborieusement entre deux écueils : rester dans la lignée de l’engagement politique originel, mais demeurer marginal sur le plan économique, voire disparaître ou, au contraire, réussir sur le plan de la production, mais au prix d’un effacement progressif des objectifs politiques initiaux."
+"Si l’activisme est une ressource majeure pour lancer et concrétiser l’initiative, la longévité et la survie de l’action organisée dépendent fortement du succès du (logiciel) produit, lequel peut attirer de nouveaux contributeurs, renforçant ainsi le produit, mais amenant aussi dans le groupe des participants mobilisés autour de la production plus que du projet."
