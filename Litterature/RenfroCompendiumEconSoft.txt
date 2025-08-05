@@ -1,0 +1,63 @@
+06/08/2025
+
+Summary of A compendium of existing econometric software packages, 2004, Renfro
+
+
+Independent econometric software packages
+    AREMOS
+    AUTOBOX
+    B34S
+    BETAHAT
+    CEF (Richard Pierce)
+    EasyReg International
+    EVIEWS
+    FP
+    GRETL (only time R is mentionned, python is not mentionned)
+    IDIOM
+    LIMDEP
+    MICROFIT
+    Modeleasy+
+    MODLER (Renfro)
+    MODLER BLUE
+    MOSAIC
+    NLOGIT
+    PcGets (David Hendry)
+    PcGive
+    PcNaive
+    RATS
+    REG-X
+    SHAZAM
+    SORITEC
+    STAMP
+    STATA (!!!!)
+    TROLL
+    TSP
+    WinSolve (Richard Pierse)
+    WYSEA
+
+Econometric programming libraries
+    BACC
+    MLE++
+    MODLER
+
+Econometric and mathematical programming languages
+    GAUSS
+    LINDO/LINGO
+    OX (David Hendry)
+
+Applications of econometric and mathematical programming languages
+    ARFIMA package for Ox
+    CML – Constrained maximum likelihood
+    DPD for Ox
+    G@RCH (Ox package)
+    GaussX
+    mathStatica
+    MSVAR
+    Time series modelling 3.2 (TSMod32)
+
+No longer supported econometric software programs
+    DAMSEL
+    EPS
+    PcFiml
+    XSIM
+    
