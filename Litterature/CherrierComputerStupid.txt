@@ -1,0 +1,55 @@
+04/08/2025
+
+Lecture de “It’s computers, stupid!” The spread of computers and the changing roles of theoretical and applied economics
+
+Backhouse et Cherrier 2016
+
+1.Intro
+    The shift towards applied economics in the last 40 decades is commonly explained by the developpement of PC and compute power.
+    And indeed, it allowed significant productivity gain and new technics to be used.
+
+    This simple explanation suggest that economist knew what they wanted to do but where held back by lack of computing power.
+    In practice, the level of computational intensity of a model is not correlated with it success (quasi-experimental tech outcome in 70's and 80's, allowed by computer to gather data but not compute intensive).
+    And computerization is not more important for applied than for theory.
+    It change the definition of applied an theory. Is simulations applied of theory ?
+
+
+2.Chronology
+    50's : (multiple example of applied and theoric works leveraging new compute capacity)
+    60's : (coding became important, building dataset, more compute did spread existing econometrics but also led to new modeling strategies)
+    80's : (PC, STATA developped to run MS DOS, software became a big business, new sources of data from internetization, economist gained independance with PC and high level language, new insitution, journals, think tank for this kind of work, became a routine for young economists, development of experimental economics through the use of computer)
+
+3.What do computers do for economists?
+    Improve speed and accuracy of routine calculations, no change apart from efficiency
+    Enable to solve more complex problem : compute power increase so much, it enable more complex problem to be solved, thus enabling economist to solve new problems (Orcutt autocorrelations)
+    Run simulations or experiments that generate new evidence : blurs boundaries between theoretical and applied.
+    Store and explore big data sets : graphics are key to convince users (applied searchers or decision makers)
+    Generation of new data : from internet, exp economists data from lab, led to big data, which are so big so led to new techniques such as ML.
+    Relaxed constraints on theoretical modeling : thanks to new model, more data, more compute
+    Proof assistant software : discover new theorem and challencge traditional concepts of proofs
+    New market, new modes of anlysis : online auction, carbon gases emission, radio spectrum
+    Seeing the market and agent as CS analogies (Mirowski)
+
+4.Theory and application
+    How far did computers transform the relationship between theory and applied work?
+    ABM does not fit the traditional theory/empirical divide
+    But integration of theory and practice is largely unfulfilled because of economist culture. Veluppilai explain it by Hylbertian paradigm (proofs à la Debreu). Judd by the reluctance of top journals to accept those not traditional proofs (For example, Kerber and Rowat (2014) found a proof using automated reasoning but once found, they chose to present a traditional proof.)
+    "Lehtinen and Kuorikoski (2008) argue that economists’ reluctance to use simulation as a theoretical tool is grounded in their conception of understanding, which requires that an analytical derivation from a set of fundamental axioms is established."
+    Economist want to understand how, not wether there is a causality or having strong precise numbers. They accuse computer simulation of being a black box.
+    But it is possible for computerization and simulation to become a trading zone for applied and theory work : physics, biology, linguistic
+
+    Economists’ selective appropriation of empirical techniques fostered by computation
+    Computerization allowed faster work and enabled new array/approaches.
+    But failed to transform ideas about economic knowledge and how to generate it (I disagree here, microsimulation, xp econ, ABM, were enabled by computer and created new knowledge, even though not widely published in top journals)
+    As the intensive macro models were developped, academic realized during 80's that simpler models are as good as very complex one, thus that was marginalized and pushed into private sector (Data ressources Inc). 
+    Success of DSGE came a lot from the good software (DYNARE)
+    Success of xp econ came a bit from infrastructure but also a lot from building a community around it.
+    In micro, computable general equilibrium relied a lot on compute power, but it declined despite the rise in compute power because of disagreement on theory.
+
+    Empirical econometrics and quasi xp methods, much less copute intense, emerge triumphant after the 80's crisis, not because of blending theory and applied, but because empiric was possible without ties to theory.
+
+
+5.Concluding remarks
+
+"We do not wish to challenge the claim that the growth of computers was central to the transformation of economics in the past thirty to forty years. It clearly was. Economists have used computers to do many things that they could never have done without them and some of these practices have become central to the field."
+"The impact of computerization was itself conditional upon the development and implementation of strategies for bringing models to the machine, such as the development of coding skills, software, laboratories, training programs, and interdisciplinary communities."
