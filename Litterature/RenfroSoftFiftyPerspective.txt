@@ -1,0 +1,28 @@
+08/08/2025
+
+Econometric Software: The first Fifty Years in Perspective, 2004, Renfro
+
+
+...
+
+6. Demand and Supply: the Market for Econometric Software
+    - Software = big fixed cost
+    - Market : 
+    Offer : most of the soft are created and maintained by a few people, a cottage industry
+    Demand : less than 100.000 economists in the world
+    but accustomed to excellent program from big corp and expect same quality
+
+    Different soft have different philosophy and specialization, that's why people or university have license for all of them.
+
+    Huge cost (p52) to developp and keep up to date an econometric packages : "you may think it possible to maintain an extremely comprehensive package, that is highly numerically accurate, and bug-free, on four different platforms for pennies a year, but if you do, you are probably not an econometric software developer."
+
+    The data type is a huge problem and there is not yet a standard to import data into software (problem solved by now)
+
+8. The Next New Thing
+    He included R in the software that a econ should know !!
+    Do you want a software with GUI or a programming language ?
+
+9. Conclusion and Prospective
+    "The period of development of econometric software spans the professional careers of almost all working economists. At each step along the road, what constituted “the present” at that time seemed to offer both promise and the sense of being at the forefront." THAT IS STILL TRUE TODAY
+
+    Attention au danger d'etre deconnecté des sujets qu'on traite, de ses outils etc. : "It is thus all too possible for someone to activate an econometric software package, of which he has only a dim understanding, to apply it to data of whose nature and provenance he is ignorant, and then to draw conclusions about an economic situation, whose historical and institutional realities he has, perhaps, not studied in any depth."
