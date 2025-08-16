@@ -1,0 +1,56 @@
+The Computerization of Economics: Three Lessons for Economics
+Marcel Boumans, Cléo Chassonnery-Zaïgouche, Pierrick Dechaux and Francesco Sergi
+2023
+
+Introduction
+    Economic professions is very optimistic with new computer technologies
+    Viewing computer as institution is interesting (cf Iacono and Kling, 1988)
+    This intro is about 3 geenral lessons that can be drawn from computerization of economics :
+        - Computerization reshape everything : disciplinary boundaries (research questions, theoretical and modeling strategies, the methodologies for empirical work, etc.) and the structure and role of the economic profession (the forms of expertise, the division of labor within the profession, its relation to private corporations)
+        - No premade tech entering the field, not exogenous, but endogenous, reshaping technology for econ.
+        - Reconsidering historiography is needed, escpecially in terms of sources and perspectives
+
+1. Reshaping the Discipline
+    Economists actively shape the computerization of economics, only this make computerization possible and sometimes successful.
+    Consequences appear trivial : main activities of an economist is conducted through computers
+        XP econ went from pen and paper in ad hoc locations to purpose built laboratories
+        Econometrics went from computors and by hand compute to electronic computers
+    But it also brings more substantial practical changes. Foe example, the practice of crafting codes, packages, software, onlline platforms, and datasets.
+    p.6 "In most cases analyzed, these tasks are undertaken by some economists specializing in designing these new computer technologies." => I wish to disagree, Fischbacher, Turocy, Dynare physicist, etc. Studied Math/CS and turned early to econ, so CS specialized in econ
+    Different practical and intellectual effects of computerization : reshaping the role of "computation in economics"; division of labor and reallocation of credit; move the boundaries between academia, policy-making and private business.
+
+1.1 Redefining computation
+    Extended posibilities and make it far more efficient to compute
+    BUT also introduce new research questions, new things like mathematical specifications of the behavior of an economic agents. NOT just an "aid to research"
+        Statistical information (macroecon, ...)
+        Information about economic systems (dynare, XP econ)
+
+1.2 New divisions of labor and "Hidden Figures"
+    Early period : clear division of labors, CS and electrical engineers operated mainframes. Economist stayed far away from them, with the exceptions of some that get into programming. See Cheng this issue about a CS woman Lucy Joan Slater
+    Then PC, operating computer no more need intervention of other professional figures. But no disapearance of "programming economists"
+
+1.3 Shifting academic boundaries
+    History of computers, deeply embedded with governement initiatives is also a long story of private company competition and mergers&acquisitions (see IBM, Bull)
+    The software have always been in a battle for ownership rights, between computer industry and the community of free software
+    The financial cost related to computer have led academia to developp new relationships between university, policymaking institution and private business
+    Macroecon started in academia with support from Institution (FED) and then, in 60's-70's, turned to consulting business to developp the financial ressources for better computer, database and software
+    In 90's, for Dynare, a different strategies, they team up with policymaking institution (DGT, IMF, CB) to develop and maintain it, making it free for everyone
+
+2. Technology as a Source of “Progress”?
+    Becareful with the notion of progress
+    This issue highlight and explian in details why exactly a given technologies provided "progress"
+    Ex : Rational expectation for macro model in Dynare article. Implementation in a parser of a specific algorithm became instrumental in solving DSGE, contribution to it success
+         Computer network in XP econ lab allowed for more complex auction game by allowing information to circulate instantaneously, not possible with pen and paper => big "computer boost" for the methodology of XP econ
+    But we can also assist to "computer busts", were computer accelerate the fate of some approaches.
+    Ex : Lenel this issue, computer make the forecastiing very complex, led to NBER stopping that activity
+    DRI was hype in 70's and 80's because of how they handle mainframe and software. But PC crushed that
+    Exemple of Gradoz and scanner data, I strongly disagree, the hard part is the big data one, yes it is challenging, but it is possible because of computer, no "computer bust"
+
+    Computerization is not a fatality or the one way to progress ! It is more interesting to view it as an institution embedded with cgnitive, social, financial, moral aspects into the life of an economist.
+    "computers are not dei ex machina, descending upon economists to“solve” their problems: quite the contrary, the ability of computers to“boost or bust” is embedded in the way economists “appropriate”them"
+
+3. The Computerization of Economics as an Historiographical Challenge
+    No historian of economics have made computerization central in their annalysis
+    It is the consequences of economist covering those issues int heir publications
+    Technical aspects are technical, even more when SOTA so hard to communicate and would be detrimental to the results obtained, thus those subjects are externalized from the main commuity to journal like the Journal of Computational Economics
+    So historians need to rely on other sources : archive of institutions that supervised mainframe, webpage, online repositories, online formum and mailing lists archives. Oral history !!
