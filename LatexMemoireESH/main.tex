@@ -18,6 +18,9 @@
 \documentclass[a4paper,12pt,twoside,french]{book}
 \usepackage{PackagesDeAmbroise}
 \addbibresource{biblio_ESH.bib}
+\addbibresource{Mémoire_ESH.bib}
+\addbibresource{Mémoire_ESH2.bib}
+
 
 \selectlanguage{french}%
 \linespread{1.2} % Line spacing of 1.5 times the normal spacing
@@ -28,8 +31,11 @@
 % Headers footers and glossaires
 \fancyhead{} % clear all header fields
 \fancyfoot{} % clear all footer fields
-\makeglossaries
-\makeindex
+\fancyfoot[RO,LE]{\thepage}  % fait apparaitre les numéros de page en bas à l'exterieur
+\setlength{\headheight}{14.5pt}
+
+% \makeglossaries
+% \makeindex
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %----------------------------------------------------------------------------------------
@@ -53,12 +59,12 @@
 \textsc{\LARGE Université Paris-Panthéon-Sorbonne}\\[0.2cm] % Univ name
     \large M2 - ESH\\
           \vfill
-
-         \rule{\textwidth}{0.8pt} \\ % Horizontal line
-         \vspace{10pt}
-          { \LARGE \bfseries Le figure de l'économiste programmeur} % Thesis title
-          \vspace{10pt}
-          \rule{\textwidth}{0.8pt} \\ % Horizontal line
+            \rule{\textwidth}{0.8pt} \\ % Ligne horizontale
+            \vspace{10pt}
+            {\LARGE \bfseries Les programmeurs-économistes et leurs logiciels (1970-2010)}\\[0.4cm] % Titre principal
+            {\large \itshape Une analyse de leurs parcours, de leurs pratiques et quelques perspectives sur l'avenir} % Sous-titre
+            \vspace{10pt}
+            \rule{\textwidth}{0.8pt} \\ % Ligne horizontale
     \end{center}
     
     \vfill
@@ -66,9 +72,8 @@
     \begin{center}
         Par \textsc{\Large Ambroise WARNERY}\\[1cm] 
         Mémoire de recherche\\[1.2cm]
-        Dirigée par \textsc{\large Francesco SERGI}\\[0.2cm]
-        Et par \textsc{\large Dorian JULLIEN}\\[0.2cm] 
-        Présenté et soutenue le XX/06/2025 %renseigner la date et choisir le type de soutenance
+        Dirigé par \textsc{\large Francesco SERGI}\\[0.2cm]
+        Présenté et soutenu le 10/09/2025 %renseigner la date et choisir le type de soutenance
     \end{center}
     
     \vspace{1cm}
@@ -95,12 +100,30 @@
 \fancyhead[RO]{\leftmark}
 \fancyhead[LE]{\textsc{\chaptername~\thechapter}}
 
+\tableofcontents
 
-\input{chapters/chap1}
+\chapter*{Introduction}
+\addcontentsline{toc}{chapter}{Introduction}
+\input{chapters/intro.tex}
 
+\chapter*{Methodologie}
+\addcontentsline{toc}{chapter}{Méthodologie}
+\input{chapters/methodologie.tex}
 
+\chapter{La figure du programmeur-économiste} % Main chapter title
+\input{chapters/fig_programmeur.tex}
 
-\printglossary
+\chapter{Les logiciels des programmeurs-économistes}
+\input{chapters/software.tex}
+
+\chapter{Les constats et leçons à tirer}
+\input{chapters/mes_takes.tex}
+
+\chapter*{Conclusion}
+\addcontentsline{toc}{chapter}{Conclusion}
+\input{chapters/conclusion.tex}
+
+% \printglossary
 
 
 %----------------------------------------------------------------------------------------

@@ -1,0 +1,107 @@
+
+Ce mémoire utilise comme littérature primaire, au sens où ce sont les matériaux que l'on vise à analyser, une collection de 7 entretiens. Ce corpus se compose d’entretiens semi-directifs menés avec des économistes ayant participé au développement de logiciels ou ayant fait un usage intensif de l’informatique dans leur pratique scientifique. 7 trajectoires sont analysées : celles d’Agnès Gramain, Urs Fischbacher, David Hendry, Richard Pierse, Theodore Turocy, Joshua Epstein et Robert Axtell. La réflexion menée dans ce mémoire repose sur une analyse qualitative et comparative de ces entretiens. Nous nous appuierons également sur une analyse de la littérature secondaire, au sens de la recherche académique portant sur le même sujet, sur la documentation des logiciels et les logiciels dont il est question dans les entretiens, ainsi que notre parcours académique en tant qu'étudiant en économie, économétrie puis épistémologie, qui nous a permis d'expérimenter la programmation pour l'économie, qui nous a donné l'occasion de rencontrer et de discuter avec beaucoup d'étudiants, professeurs, chercheurs liés de près ou de loin à cette thématique.
+
+Le corpus d'entretiens que nous analysons dans ce mémoire provient du projet \textit{Oral Histories of Economics}, coordonné par Francesco Sergi et Dorian Jullien, dont le but est de rendre accessible, en ligne et en libre accès, des entretiens avec des économistes, portant sur leurs pratiques de la recherche académique et sur l'histoire de leur discipline. Ce projet de recherche est à but non lucratif et a bénéficié à ses débuts d'un financement du « Fonds pour les nouvelles initiatives » de la History of Economics Society.
+Nous nous intéresserons uniquement à la collection nommée \textit{The Computerization of Economics: Oral Histories of Economics}. Les fichiers audio ainsi que les transcriptions des entretiens sont hébergés dans l'entrepôt de données Nakala, développé par Huma-Num et opéré par le CNRS (Centre National de la Recherche Scientifique), sous licence Creative Commons Zero v1.0 Universal.
+Le reste des données, articles de recherches et document mobilisés dans ce travail est référencé dans la bibliographie à la fin de ce devoir.
+
+La motivation principale de ce mémoire est de tenter, modestement, de documenter et d'analyser les pratiques informatiques des économistes. Et plus particulièrement la création de logiciels, par des économistes, et pour des économistes. Les questions autour de ces pratiques ne constituent pas, à proprement parler, un vide historiographique, puisque des articles ou des ouvrages d'histoire de l'économie, abordant des thèmes proches, ont déjà été publiés dans des revues à comité de lecture (on citera nottament les travaux de Renfro, de Backhouse, de Cherrier, ou encore le numéro spécial publié par Œconomia. History-Methodology-Philosophy en 2023\cite{boumansComputerizationEconomicsThree2023}). Mais, relativement à l'importance de ces pratiques dans la vie quotidienne des économistes, elles semblent sous-documentées. En effet, cet aspect du travail de la recherche en économie est invisibilisé ou en tout cas ne transparait quasiment pas dans les publications académiques. C'est pour cette raison que l'histoire orale se révèle particulièrement pertinente. 
+
+Le projet Oral Histories permet de rendre visibles ces pratiques, et particulièrement la programmation de logiciels. Notre travail consiste à analyser ce corpus, en tenant compte de la double dimension technique (programmation, conception logicielle) et scientifique (pratiques économiques, modèles théoriques) des entretiens. Ceux-ci s’inscrivent dans des contextes générationnels, institutionnels, académiques et géographiques très différents. Nous sommes restés attentifs aux limites de l’histoire orale, qui produit des sources situées, construites et traversées par des enjeux de légitimité scientifique (comme le rappelle Dorian Jullien dans son analyse des forces et faiblesses de cette méthode). Pour renforcer la robustesse de l’interprétation, les témoignages ont été croisés avec des références secondaires issues de l’histoire et de l’épistémologie de l’économie.
+
+
+Le corpus mobilisé comprend 7 entretiens, dont 6 en anglais et un en français. Ils ont été conduits entre janvier 2023 et avril 2024 par Francesco Sergi, Pierrick Dechaux, Dorian Jullien, Thomas Delcey, et Romain Plassard. La contribution de Cléo Chassonnery-Zaïgouche à un stage préliminaire du projet est également mentionnée. Ces entretiens, d’une durée moyenne de deux heures, ont pris la forme de discussions semi-directives centrées sur trois grands axes : la carrière académique, le rapport à l’informatique et la création logicielle. L’échantillon se compose de 6 hommes et une femme, issus de générations, de culture académique et d’institutions variées.
+
+\begin{table}[h!]
+\centering
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{|l|c|c|l|l|c|l|}
+\hline
+\textbf{Économiste} & \textbf{Genre} & \textbf{Nationalité} & \textbf{Licence (BA)} & \textbf{Doctorat (PhD)} & \textbf{Date PhD} & \textbf{Logiciel créé} \\ \hline
+Agnès Gramain  & F & FR  & Économie              & Économie                & 1998 & programmation pour sa thèse (1996) \\ \hline
+Urs Fischbacher & H & SWI & Mathématiques        & Mathématiques           & 1985 & \textit{z-Tree} (1995) \\ \hline
+David Hendry    & H & UK  & Économie             & Économie                & 1970 & \textit{PcGive} (1984) \\ \hline
+Theodore Turocy & H & USA & Informatique / Économie & Managerial Economics   & 2001 & \textit{Gambit} (fin 1980s) \\ \hline
+Joshua Epstein  & H & USA & Mathématiques        & Science politique        & 1981 & \textit{Sugarscape} (1996) \\ \hline
+Richard Pierse  & H & UK  & PPE                  & Économie (non terminé)  & 1983 (inachevé) & \textit{WinSolve} (1995) \\ \hline
+Robert Axtell   & H & USA & Ingénierie / Économie & Mathématiques           & 1992 & \textit{Sugarscape} (1996) \\ \hline
+\end{tabular}
+}
+\caption{Les caractéristiques des programmeurs-économistes de notre corpus}
+\label{tab:economistes}
+\end{table}
+
+
+L'analyse présentée dans ce mémoire a été menée sur une année complète, combinant lecture des entretiens, exploration de la littérature secondaire et articulation avec nos enseignements de master.
+
+Le choix d’une approche par l’histoire orale se justifie par la nature même du sujet étudié. Les trajectoires de programmeurs-économistes et les pratiques de programmation logicielle demeurent largement absentes des archives écrites et des publications académiques. L’histoire orale offre ainsi un accès privilégié à des expériences individuelles et à des savoirs pratiques qui, autrement, resteraient invisibles.
+Le corpus d’entretiens retenu se concentre sur des économistes ayant joué un rôle central dans le développement de logiciels ou dans l’usage pionnier de l’informatique dans leur discipline. Cette sélection permet d’éclairer les conditions concrètes de l’informatisation de l’économie à travers les parcours de celles et ceux qui en ont été les acteurs.
+L’analyse comparative de ces trajectoires vise à mettre en évidence à la fois des régularités — telles que l’auto-formation à l’informatique, la diversité des langages utilisés ou encore les frustrations liées aux contraintes institutionnelles — et des différences marquées, qu’elles tiennent aux générations, aux contextes nationaux ou aux disciplines de rattachement.
+Il convient toutefois de préciser que ce travail n’ambitionne pas de replacer systématiquement les parcours des programmeurs et l’évolution de leurs logiciels dans l’ensemble des productions scientifiques auxquelles ils ont participé. Un tel projet, particulièrement ambitieux, nécessiterait une enquête plus vaste et approfondie. L’objectif est ici plus circonscrit : comprendre qui sont ces programmeurs-économistes et ce qu’ils ont fait.
+
+
+Toute l’attention nécessaire a été employée pour assurer un protocole de recherche robuste.
+La diversité des trajectoires et des contextes étudiés a permis de limiter le risque de biais lié à un corpus trop homogène. Les limites de la méthode de l’histoire orale – subjectivité des récits, mémoire sélective, stratégies narratives – ont été systématiquement prises en compte. Lorsque cela était possible, les éléments avancés ont été confrontés à des sources secondaires afin de recouper les résultats. La démarche adoptée s’est voulue réflexive, en considérant à la fois les récits produits et leur performativité dans l’écriture de l’histoire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% To do list : 
+% • Fournir une introduction générale et une vue d’ensemble de vos matériaux (les données) et méthodes utilisés.
+%     - Matériaux : collection The Computerization of Economics: Oral Histories (NAKALA, Huma-Num - CNRS).
+%     - Données : entretiens semi-directifs réalisés avec des économistes impliqués dans le développement ou l’usage intensif de logiciels (Agnès Gramain, Urs Fischbacher, David Hendry, Richard Pierse, Theodore Turocy, Joshua Epstein, Robert Axtell).
+%     - Méthode : analyse qualitative et comparative des entretiens (carrière académique, implication dans les logiciels, rapport personnel à l’informatique).
+%     - Approche complémentaire : contextualisation historique et épistémologique des trajectoires et des logiciels mentionnés.
+%     - Pas beaucoup d'autres sources puisque champ assez peu etudier mais !
+%         Les logiciels en eux mêmes, explorer leurs fonctionnement, le code source quand il est trouvable.
+%         La littérature secondaire, qui s'est un peu intéresse à la question, notamment le numéro spécial d'Oeconomia sur le sujet
+%         Mon académique en tant qu'étudiant en economie appliqué, qui a donc pratiqué la programmation pour l'économie
+
+% • Réaffirmer l’objectif de votre article.
+%     - Analyser les trajectoires d’“économistes-programmeurs”, rentrer en détails dans la vie et les pratiques des économistes programmeurs (descriptif)
+%     - Analyser la trajectoire des logiciels auxquels ils ont contribué
+%     - Mettre en évidence la dimension épistémologique de l’usage de l’informatique en économie.
+%     - En tirer des leçons sur leurs pratiques, ce sera la partie plus problématiser
+
+% • Donner la source des données utilisées.
+%     - le projet oral histories of economics de Dorian Julien et Francesco Sergi
+%     - La littérature d'histoire de l'economie et d'epistemologue qui se sont penché sur le sujet de l'informatisation
+%     - Les software, données les liens internet ou j'ai pu trouver le code source
+
+% • Apporter les éléments supplémentaires de contextualisation permettant de comprendre votre méthodologie.
+%     - L'objectif est vraiment de venir partiellement et humblement comble un vide dans la littérature de l'histoire de l'economie aujourd'hui. Ce gap existe parce que les pratiques informatiques transparaissent peu dans les travaux des economistes. C'est ce manque de source que vient combler le projet Oral Histories. Ce gap concerne les pratiques autour de l'informatisation et ici, plus precisement, sur la pratique de programmer un logiciel. C'est un projet qui m'a ete proposé par Mr Franceso SErgi car il avait fait les interviews avec Dorian Julien mais ne les avait pas encore exploité plus que ça.
+%     - Pour remplir ce gap ils ont mene des interview et maintenant mon travail a ete de les analyser
+%     - Les entretiens explorent la double dimension technique (programmation, logiciels) et scientifique (pratiques économiques, modèles théoriques).
+%     - Il est important de noter que ces entretiens se situent dans des contextes générationnel, institutionnels, académiques, géographique tres différents
+%     - Nécessité de considérer les entretiens comme des sources situées, construites, traversées par des enjeux de légitimité scientifique cf l'article de Dorian Julien sur les forces et faiblesses de l'histoire oral (pas sur de la formulation, à vérifier)
+%     - Croisement des témoignages avec des références secondaires en histoire de la discipline et épistémologie de l’économie.
+
+% • Fournir les détails précis et spécifiques au sujet de vos matériaux et de votre protocole de recherche (durée, conditions, types de données, lieux d’enquête, taille d’échantillons…).
+%     - Faire un descriptif des "metadata" des interviews : AG 16/01/2023 UF 17/09/2023 26/04/2024 beaucoup en mars avril 2024
+%     - entretiens semi-directifs centrés sur la carrière, le rapport à l’informatique et la création logicielle.
+%     - 6 hommes 1 femmes, obtention des phd à des dates différentes (présenter le csv) 1 en francais et 6 en anglais
+%     - Une année de recherche sur sujet depuis le debut de mon mémoire, de lecture des entretiens, de la littérature secondaire, de croisement avec mes cours
+
+% • Justifier les choix faits.
+%     - Pertinence de l’histoire orale pour documenter des trajectoires souvent absentes des archives écrites.
+%     - Sélection d’économistes ayant joué un rôle central dans le développement de logiciels ou dans l’usage pionnier de l’informatique.
+%     - Approche comparative permettant de mettre en évidence à la fois des régularités (auto-formation, langages utilisés, frustrations institutionnelles) et des différences (générations, contextes nationaux, disciplines de rattachement).
+%     - on ne met pas trop les parcours des programmeurs et de leurs logiciels en perspective avec les productions scientifiques auxquels ils ont participé, ca serait passionnant mais demanderait beaucoup de travail de le faire pour les 7 economistes, ici on n'ananlyse pas tant leurs impacts sur leur entourage d'economiste que qui ils sont, que font ils, sur quoi se base leurs croyances
+%     - on fera ca quand on aura fini de rédiger le mémoire, il faudra revenir dessus
+
+% • Indiquer que toute l’attention nécessaire a été employée pour assurer un protocole de recherche robuste.
+%     - Reprendre ce que j'ai deja ecrit sur l'articel de Dorian Julien, faire atttention avec la méthodologie de l'histoire oral
+%     - Sur le reste j'ai fais du mieux que j'ai pu pour etayer mes arguments avec des références solides, et quand ils ne sont pas etayer, je m'appuie sur mon experience et mon sentiment vis à vis du sujet.
