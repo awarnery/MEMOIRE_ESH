@@ -1,4 +1,4 @@
-Winsolve
+WinSolve
 
 Dev par : Richard G. Pierse
 
@@ -6,7 +6,7 @@ Date : Développé entre 1995 et 1998, avec des versions successives jusqu’à 
 
 Institution : Université de Surrey (UK), avec financement initial de l’ESRC (Economic and Social Research Council)
 
-Publication : Pas d’article fondateur unique. Documentation en ligne sur www.winsolve.co.uk et plusieurs manuels utilisateurs. Présenté dans diverses conférences et cours, notamment via la Bank of England et le Centre for Central Banking Studies
+Publication : Pas d’article fondateur unique. Documentation en ligne sur www.WinSolve.co.uk et plusieurs manuels utilisateurs. Présenté dans diverses conférences et cours, notamment via la Bank of England et le Centre for Central Banking Studies
 
 But :
 WinSolve est un logiciel destiné à résoudre, simuler et contrôler des modèles non linéaires. Il peut traiter une large classe de modèles incluant à la fois des modèles théoriques tels que les modèles d'équilibre général dynamique stochastique (SDGE) et des modèles économétriques tels que les modèles macroéconomiques . Il a été conçu pour rendre la modélisation dynamique plus accessible, en fournissant une interface intuitive permettant à des chercheurs, étudiants ou institutions de manipuler et d’expérimenter avec différents types de modèles dynamiques (y compris avec anticipations rationnelles et contrôle optimal).
@@ -16,7 +16,7 @@ Programme Windows 32 bits, écrit en C++.
 Interface graphique interactive (GUI) inspirée des standards Windows.
 Possibilité d’exécution en mode batch via un langage de commandes interne (log language).
 Capacité à résoudre des modèles non linéaires, anticipatifs, de grande taille.
-Méthodes de résolution disponibles : Gauss-Seidel, Newton, Fair-Taylor, Stack Newton, Perturbation, Parexp (expectations parameterized), etc.
+Méthodes de résolution disponibles : GAUSS-Seidel, Newton, Fair-Taylor, Stack Newton, Perturbation, Parexp (expectations parameterized), etc.
 Simulation stochastique avec génération de fan charts, évaluation de distributions empiriques.
 Fonctions de contrôle optimal linéaire-quadratique, avec ou sans engagement, pour un ou plusieurs agents (jeux non coopératifs).
 Prise en charge de nombreux formats de données (PC-Give, MicroFit, TROLL, EViews, Excel…).

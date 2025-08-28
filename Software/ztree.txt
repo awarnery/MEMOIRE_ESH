@@ -1,4 +1,4 @@
-z-tree
+z-Tree
 
 Dev par : Urs Fischbacher, later helped by Stefan Schmid
 

@@ -7,7 +7,7 @@ Date : Débuts informels à la fin des années 1980. Le projet devient structur�
 Institution : Caltech, University of East Anglia, financer par la National Science Foundation (NSF) jusqu’en 1999, et plus récemment par l’Alan Turing Institute.
 
 Publication : Pas d’article unique fondateur, mais un ensemble de publications techniques. La citation recommandée aujourd’hui est 
-"Savani, Rahul & Turocy, Theodore L. (2025), Gambit: The package for computation in game theory, Version 16.3.0. https://www.gambit-project.org"
+"Savani, Rahul & Turocy, Theodore L. (2025), Gambit: The package for computation in game theory, Version 16.3.0. https://www.Gambit-project.org"
 
 But :
 Gambit est une bibliothèque logicielle libre destinée à la représentation, l’analyse et la résolution des jeux finis, en forme normale et extensive. Il contient notament les algorithmes permettant de calculer différents équilibres, dont celui de Nash, pour des jeux à stratégies discrètes. Il est conçu à la fois comme outil de recherche en théorie des jeux computationnelle et comme ressource pédagogique.
@@ -15,10 +15,10 @@ Gambit est une bibliothèque logicielle libre destinée à la représentation, l
 Caractéristiques techniques :
 Logiciel open source, sous licence GNU GPL v2.
 La dernière mis à jour date de janvier 2025, c'est la 16ème version
-Écrit principalement en C++, avec une interface Python (pygambit) et des outils en ligne de commande.
+Écrit principalement en C++, avec une interface Python (pyGambit) et des outils en ligne de commande.
 Interface graphique multiplateforme (Linux, MacOS, Windows) via wxWidgets.
 Compatible avec les scripts Python, intègre divers algorithmes de calcul d’équilibre.
-Disponible via PyPI (pip install gambit).
+Disponible via PyPI (pip install Gambit).
 Hébergé sur GitHub avec intégration continue (CI) et documentation complète.
 
 Histoire :
