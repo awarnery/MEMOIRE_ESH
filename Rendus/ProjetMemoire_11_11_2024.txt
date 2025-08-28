@@ -60,11 +60,11 @@ Cette étude m’apportera un éclairage important sur la littérature secondair
 
 Bibliographie
  
-Urs Fischbacher – The history of the Z-Tree software for experimental economics
-Theodore Turocy – The history of the GAMBIT software for game theory
-Richard Pierse – The history of the WINSOLVE software for macroeconomic dynamic modelling
-Joshua Epstein – The history of the SUGARSCAPE and agent-based modelling (coming soon)
-Robert Axtell – The history of the SUGARSCAPE and agent-based modelling (coming soon)
+Urs Fischbacher – The history of the z-Tree software for experimental economics
+Theodore Turocy – The history of the Gambit software for game theory
+Richard Pierse – The history of the WinSolve software for macroeconomic dynamic modelling
+Joshua Epstein – The history of the Sugarscape and agent-based modelling (coming soon)
+Robert Axtell – The history of the Sugarscape and agent-based modelling (coming soon)
 David Hendry – Computers and the practice of econometrics 
 Agnès Gramain – Computers and the practice of econometrics
 
