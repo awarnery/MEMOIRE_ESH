@@ -1,0 +1,8 @@
+Programming Languages:
+A Short History for Economists
+by
+Marc Nerlove, 2004
+
+
+
+"As the availability of a variety of data sets has increased, so has the range of econometric problems considered and methods developed. It would not be fair, however, to say that the development of programming languages has been influenced by econometric developments, but the opposite is surely true."

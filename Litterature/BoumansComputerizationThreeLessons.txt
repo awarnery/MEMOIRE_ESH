@@ -23,7 +23,7 @@ Introduction
     Extended posibilities and make it far more efficient to compute
     BUT also introduce new research questions, new things like mathematical specifications of the behavior of an economic agents. NOT just an "aid to research"
         Statistical information (macroecon, ...)
-        Information about economic systems (dynare, XP econ)
+        Information about economic systems (Dynare, XP econ)
 
 1.2 New divisions of labor and "Hidden Figures"
     Early period : clear division of labors, CS and electrical engineers operated mainframes. Economist stayed far away from them, with the exceptions of some that get into programming. See Cheng this issue about a CS woman Lucy Joan Slater

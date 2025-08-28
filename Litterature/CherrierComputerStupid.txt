@@ -17,7 +17,7 @@ Backhouse et Cherrier 2016
 2.Chronology
     50's : (multiple example of applied and theoric works leveraging new compute capacity)
     60's : (coding became important, building dataset, more compute did spread existing econometrics but also led to new modeling strategies)
-    80's : (PC, STATA developped to run MS DOS, software became a big business, new sources of data from internetization, economist gained independance with PC and high level language, new insitution, journals, think tank for this kind of work, became a routine for young economists, development of experimental economics through the use of computer)
+    80's : (PC, Stata developped to run MS DOS, software became a big business, new sources of data from internetization, economist gained independance with PC and high level language, new insitution, journals, think tank for this kind of work, became a routine for young economists, development of experimental economics through the use of computer)
 
 3.What do computers do for economists?
     Improve speed and accuracy of routine calculations, no change apart from efficiency
@@ -42,7 +42,7 @@ Backhouse et Cherrier 2016
     Computerization allowed faster work and enabled new array/approaches.
     But failed to transform ideas about economic knowledge and how to generate it (I disagree here, microsimulation, xp econ, ABM, were enabled by computer and created new knowledge, even though not widely published in top journals)
     As the intensive macro models were developped, academic realized during 80's that simpler models are as good as very complex one, thus that was marginalized and pushed into private sector (Data ressources Inc). 
-    Success of DSGE came a lot from the good software (DYNARE)
+    Success of DSGE came a lot from the good software (Dynare)
     Success of xp econ came a bit from infrastructure but also a lot from building a community around it.
     In micro, computable general equilibrium relied a lot on compute power, but it declined despite the rise in compute power because of disagreement on theory.
 

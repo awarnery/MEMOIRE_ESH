@@ -29,7 +29,7 @@ Independent econometric software packages
     SHAZAM
     SORITEC
     STAMP
-    STATA (!!!!)
+    Stata (!!!!)
     TROLL
     TSP
     WinSolve (Richard Pierse)
@@ -50,7 +50,7 @@ Applications of econometric and mathematical programming languages
     CML – Constrained maximum likelihood
     DPD for Ox
     G@RCH (Ox package)
-    GaussX
+    GAUSSX
     mathStatica
     MSVAR
     Time series modelling 3.2 (TSMod32)
