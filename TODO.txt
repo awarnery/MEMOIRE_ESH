@@ -4,9 +4,9 @@ Fischbacher : fini le
 Gramain     : fini le 
 Epstein     : fini le 15/03
 Pierse      : fini le 16/04
-Turocy      : 
-Hendry      : 
-Axtell      : 
+Turocy      : fini le 30/05
+Hendry      : fini le 25/04
+Axtell      : fini le 06/06
 
 BioFischbacher : v1
 BioGramain     : v1 
@@ -14,26 +14,30 @@ BioEpstein     : v2
 BioPierse      : v2
 BioTurocy      : v1
 BioHendry      : v2
-BioAxtell      : 
+BioAxtell      : v1
 SyntheseBioEcon: cf AOHJunior
 Synthese des moments wahou/entre[]/surligner par moi :
 Faire une synthèse des commentaires reçus à AOH Junior/Desmarais Tremblay :
 
 Comparison.csv
 
-sugarscape.txt   : v1
-ztree.txt        : v1
-gambit.txt       : v1
-winsolve.txt     : v1
+en fait à cette époque les software sont créer par des personnes seules pour leurs besoin, aujourd'hui c'est beaucoup plus collaboraitf (open source) et beaucoup plus de l'architecture de différentes librairies etc. 
+
+Sugarscape.txt   : v1
+z-Tree.txt        : v1
+Gambit.txt       : v1
+WinSolve.txt     : v1
 hendrysofts.txt  : v1
-SyntheseBioSoft:
+SyntheseBioSoft  :
 public auxquels se destinent les logiciels ? :
 que deviennent les logiciel ? qui s’en occupe maintenant ? :
 regarder si y a d’autre cas interessant à mettre en perspectives, dans la liste des logiciels des années 80, si y a des histoires interessantes, des logiciels qui existent encore
 
+Télécharger et faire des testes sur les logiciels encore disponible :
+
 Réorganiser ma biblio dans zotero :
 
-Lire papier "it's computer stupid" pour reference temporelles :
+Retravailler problématique avec les slides de méthodo et le plan :
 
 Demander à Sergi, entretien méthode de socio, pas neutre, pq avoir choisi ca, formation ? : il a dit de lire les papier d'intro de OHE et surtout le papier de Dorian Jullien
 Comment ont ils choisis les interviewé ? Y en a plus orthodoxes d'autre hétérodoxes ?
@@ -42,11 +46,47 @@ Faire un texte pour faire la différence entre software, langage, ... :
 
 Faire un mail à Agnes Gramain pour l'impérialisme des software economique :
 
+Faire un mail à Axtell sur pourquoi les GPU ca marche pas pour accélérer les calculs pour les ABM ? :
+
 Lister ici les papiers presentations OHE :
-Lire ces papiers :
+Lire ou relire ces papiers :
+- Three lessons
+- History of Dynare et Juillard
+- It's computer stupid (references temporelles)
+- Renfro list software (2eme ref temporelles sur eco computationnel)
+- Brittleness and Bureaucracy: Software as a Material for Science Matt Spencer
+- Chapter 1: Oxford's Contributions to Econometrics David F. Hendry and Bent Nielsen
+- A Brief History of General-to-specific Modelling DAVID F. HENDRY
+- Agent-Based Computational Models And Generative Social Science JOSHUA M. EPSTEIN
+- AN ORAL HISTORY OF PROGRAMMING PRACTICES: GENDER AND AGE DYNAMICS AND DIGITAL (DIS)ENGAGEMENT AMONG COMPUTER PROGRAMMERS IN FINLAND Antti Silvast
+- Programming Languages in Economics, 1999, DAVID A. KENDRICK1 and HANS M. AMMAN2
+- Le premier numéro de Computationnla economics
 
 Ecrire pour AOH Junior quelques pages qui rendent le corpus intelligible à quelqu'un (biographie du groupe) : v1 faites pour AOH, mais à refaire, trop sombre pour néophyte
 
 Explorer lien entre Sugarscape, Herbet Simon et Machine Dreams :
 
 computerisation from inside/orthodox and from outside/heterodox/new branch of economists
+
+
+
+Mail Pierre Lamarche Insee transition SAS vers R
+
+
+Les ordi ont permis l'avénement de nouveau marchés (crypto,...) qui sont tres etudier car toutes les données sont publiques.
+
+Intro : Meme si l'informatisation a beaucoup changé de choses dans l'economie (cf cherrier 2016) aujourd'hui on va s'interesser au figure qui font ces chagements, aux humains.
+Simulation has been (re)conceived as a third way of doing science (Ostrom 1988). (cherrier 2016)
+
+Beatrice Cherrier blog
+Early 60's
+"In that period, software is essentially the outgrowth of local needs for specific research projects."
+Aujourd'hui les economistes ne sont pas vraiment des informaticiens, ils n'ont pas besoin, lancer un script R c'est s'asseoir sur les épaules de géants.
+
+Renfor 50's y perspectives : 6. Demand and Supply: the Market for Econometric Software
+
+1966
+(Modeling/techniques) Von Neumann’s posthumous The Theory of Self-Reproducing Automata:
+“the heuristic use of computers is similar to and may be combined with the traditional hypothetical-deductive-experimental method of science. In that method one makes a hypothesis on the basis of the available information and derives consequences from it by means of mathematics, test the consequence experimentally, and forms a new hypothesis o the basis of the findings. This sequence is iterated indefinitely. In using a computer heuristically one proceeds in the same way, with computation replacing or augmenting experimentation.”
+8éme changement
+The old physics emulation, which induced some economists to build economic mechanisms into machines (for instance Philips’s MONIAC) has gradually given way to a reliance upon computer science to understand both how economic agent think and behave and how market work (process information, etc.). Or so Phil Mirowski contends in his history of the relationships between economics, cybernetics, automata theory and computer science.
