@@ -88,7 +88,7 @@ Lecture de l’entretien Agnès Gramain
 - améliorer par les géants du numérique qui se sont rendu compte que c’était nécessaire.
 - nouveau problème entre Latex et Scientific Word. chacun un traitement de texte different. l’avantage de plain TEX c’est que c’est compilable partout
 - elle écrivait ses morceaux en plain tex à ses collègues qui faisaient l’integration et la version finale de l’article. 
-- maintenant le problème c’est l’harmonisation des logiciels à enseigner. chacun enseigne avec celui qu’il maitrise. SAS, R, eviews, stata.
+- maintenant le problème c’est l’harmonisation des logiciels à enseigner. chacun enseigne avec celui qu’il maitrise. SAS, R, eviews, Stata.
 - (p.15)
 - à l’ensae ca fait partie du métier de connaitre pleins de technologie différentes mais dans sa licence d’eco, les gens sont pas destine a devenir des data hardcore donc vaut mieux avoir un seul outils qu’ils maitrisent bien.
 - comment elle elle choisit ?
@@ -110,26 +110,26 @@ Lecture de l’entretien Agnès Gramain
 - un peu, pour ses étudiants pour qu’il soit opérationnel facilement
 - (p.18)
 - elle n’a jamais refuse d’acheter de licence en tant que Directeur d’unite mais elle a essaye de faire réfléchir les gens, est ce possible de faire autrement ? 
-- pour stata, mutualisations avec un autre labo pour acheter la licence en gros et payer moins cher
-- mais elle essaye aussi de les faire passer ua logiciel libre, equivalent de matlab en libre, latex aussi. R libre.
+- pour Stata, mutualisations avec un autre labo pour acheter la licence en gros et payer moins cher
+- mais elle essaye aussi de les faire passer ua logiciel libre, equivalent de MATLAB en libre, latex aussi. R libre.
 - R enjeu plus complexe, pas comme un traitement de texte en perso, aussi enjeu pour l’éducation pour l’enseignement. 
 - elle pouvait pas collaborer avec un co auteur sur latex si il ne lui donnait pas un droit spécial. alors que le CNRS a un equivalent parfait mit a disposition. mais personne est au courant
 - Francesco sergi rit en disant qui lui le premier n’est pas au courant
 - au debut cet equivalent était reserve aux matheux du CNRS, mais après avoir rué dans les brancards, elle a obtenu, et les matheux ont gentiment accepte d’ouvrir l’outil à d’autres. en tant que DU elle a donc essaye de aire attention à ca. mais pas pour des raisons idéologiques, plus pour utiliser l’argent public intelligemment. 
 - (p.19)
-- après pour les choix perso, chacun fait ce qu’il veut. elle a essaye de respecter les choix des collègues la dessus. car les logiciels libres sont souvent collaboratifs (plusieurs devs) et donc moins bien ficelés. plus dangereux. tu ne sais pas bien quel est l’algorithme de maximisation derriere. alors que tradition de transparence, de métadonnées, beaucoup plus forte chez SAS, STATA, qui sont beaucoup plus institutionnalisés.
+- après pour les choix perso, chacun fait ce qu’il veut. elle a essaye de respecter les choix des collègues la dessus. car les logiciels libres sont souvent collaboratifs (plusieurs devs) et donc moins bien ficelés. plus dangereux. tu ne sais pas bien quel est l’algorithme de maximisation derriere. alors que tradition de transparence, de métadonnées, beaucoup plus forte chez SAS, Stata, qui sont beaucoup plus institutionnalisés.
 - enfin ca ca depend surtout des manières d’être de réfléchir
 - elle n’a pas d’idéologie, le fait d’apprendre avec SAS fait qu’elle est beaucoup plus a l’aise avec et qu’elle réfléchîtes tout avec ce mode de fonctionnement, en proc, … c’est comme une langue maternelle, ca structure ta manière de penser 
 - BREAK
 - oui, il y a forcement de meilleurs logiciels statistiques que d’autres. ca depend des critères, certains sont plus flexibles, certains permettent de faire moins de chose, sont plus ciblés, certain boite noirs, t’as pas la main, elle s’en méfie. elle a trouve des trucs tres clic bouton mais elle trouve ca dangereux.
 - (p.20)
 - troisième critère c’est comment le logiciel te parle, est ce que il y a de logs ? des bons messages d’erreurs ? quand il fait un truc est ce qu’il te le dit ? ca fait la difference entre les noobs et les experts, les experts regardent les logs essaye de corriger les zones rouges
-- dans les 4 grands (SAS, stata, eviews, R) stata sait pas pas utiliser, R et sas assez similaire. messages d’erreurs de R se comprennent plutôt bien, tres pertinents. Eviews, jamais programmé avec donc no se. eviews de toute façon c’est series temporelle et elle n’en fait jamais. 
+- dans les 4 grands (SAS, Stata, eviews, R) Stata sait pas pas utiliser, R et SAS assez similaire. messages d’erreurs de R se comprennent plutôt bien, tres pertinents. Eviews, jamais programmé avec donc no se. eviews de toute façon c’est series temporelle et elle n’en fait jamais. 
 - sur les algorithmes utilise en back ground elle fait surtout la différence entre les gros et les petits logiciels. ls gros te laissent quasiment tous le choix de l’algo. tu as la mains sur tout. comme les voitures modernes vs années 70. aujourd’hui ut peux rien réparer toi meme, faut de l’electronique etc. alors qu’avant tu pouvais rentrer dans le capot et customiser ton moteur. pareil pour les logiciels.
 - (p.21) il faut faire faire à l’informatique ce pourquoi elle est bonne et a l’humain ce pourquoi il est bon. les calculs a 2000 à l’heure c’est l’ordi, le choix de l’algo de maximisation c’est l’humain. il sait pq il en préfère un, les propriétés mathématiques, et que dans son cas, avec ces données, c’est lui le mieux. pour elle c’est important les logiciels qui liassent la part à l’homme dans ce pourquoi il est bon, pas juste appuyer un bouton.
 - donc dans les grands moments de l’informatique en économie, on sens qu’il y a deja un partage entre 2 temps au niveau logiciel.
 - il y a eu de l’économétrie app avant elle ou il devaient avoir en core plus les mains dans le moteur, c’st peut etre pas si mal qu’il y ait eu des simplifications pour avoir un accès un peu plus facile. tout le monde n’est pas un mega tuneur/garagiste pro de la mécanique.
-- dosage compliqué à faire mais aujourd’hui on a quand meme beaucoup de choix dans les logiciels plus ou moins facile. SAS STATA et R c’est trois generations différentes à la creation et c’est tres generationnel à l’utilisation, dans les labo ca se voit clairement. sauf que plus de gens transitent vers R que vers SAS. c’est un peu un signe. c’est tres flexible tu peux ou pas, rentrer dans le capot. SAS quand meme un truc de sorcier et cout d’entree tres important.
+- dosage compliqué à faire mais aujourd’hui on a quand meme beaucoup de choix dans les logiciels plus ou moins facile. SAS Stata et R c’est trois generations différentes à la creation et c’est tres generationnel à l’utilisation, dans les labo ca se voit clairement. sauf que plus de gens transitent vers R que vers SAS. c’est un peu un signe. c’est tres flexible tu peux ou pas, rentrer dans le capot. SAS quand meme un truc de sorcier et cout d’entree tres important.
 - dans les usages ont voit des vagues, des gens socialisés à l’informatique avec des logiciels différents, mais les logiciels eux meme ne disparaisse pas, ils coexistent.
 - (p.22)
 - GAUSS existe encore, des gens l’utilisent, mais R tu peux l’utiliser de la meme manière. en programmant tout. 

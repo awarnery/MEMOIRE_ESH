@@ -11,7 +11,7 @@ Aujourd'hui directrice de labo, confronté aux enjeux d'achat de matériels info
 Egalement en cours d'économétrie aupres de ses etudiants. Ils ont opté pour Rstudio comme langage apres avoir fait pas mal de temps sur SAS. mais en utilisant des library qui permettent de convertir R en SAS.
 toute une partie sur le fait qu'elle ne se sent pas comme les utilisateurs normaux de Rstudio et q'uelle est formatée par SAS.
 
-Les logiciels de statistiques sont spécialisés dans de sdomaines particuliers et certains sont donc meilleurs que d'autres pour des usages précis. CErtains sont généralistes, certains sont tres ouverts et offre beaucoup de liberté, d'autres des boites noirs impenetrables. Par exemple eViews est spécialisé pour le traitement des series temporelles.
+Les logiciels de statistiques sont spécialisés dans des domaines particuliers et certains sont donc meilleurs que d'autres pour des usages précis. Certains sont généralistes, certains sont tres ouverts et offre beaucoup de liberté, d'autres des boites noirs impenetrables. Par exemple eViews est spécialisé pour le traitement des series temporelles.
 
 
 

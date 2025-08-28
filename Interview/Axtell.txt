@@ -56,14 +56,14 @@ was thus involved with getting a teletype terminal in my high school. That was m
 with computers. The programs were stored not even on cards, but on paper tape, with holes in the
 paper tape. We programmed in BASIC. I remember BASIC language. p.15
 
-(then fortran for the first time doing ecoonomics, at exxon, on mainframe)
+(then Fortran for the first time doing ecoonomics, at exxon, on mainframe)
 
 
 
 Romain Plassard:... even if it was rudimentary, how did you learn about programming?
 Robert Axtell: Once my high school got that teletype terminal, then I took one semester of
 BASIC—the math teacher taught a one semester course on BASIC. I learned BASIC that way. In
-undergraduate school, I learned FORTRAN through just taking a course. You guys, once again, do
+undergraduate school, I learned Fortran through just taking a course. You guys, once again, do
 not remember this, but then, when microcomputers came around. And at “time zero” in
 microcomputers, it was not clear what the best languages were going to be. It turns out the IBM PC
 was the first kind of commercial box for doing this, but they were smaller. IBM actually released this
@@ -233,7 +233,7 @@ frustrating thing from the acceptance of the methodology by the profession point
 (internet change his way of researching like for everybody else, more easy access to data, to pdf of article, to github and code repo, but some old code don't work anymore) p. 46
 
 
-(cellular automata like game of life has no direct link to ABM, but Axtell view ABM as a generaliezation of CA as agent can move, have long distance interaction, have discrete stata and not only binary) p .47
+(cellular automata like game of life has no direct link to ABM, but Axtell view ABM as a generaliezation of CA as agent can move, have long distance interaction, have discrete Stata and not only binary) p .47
 
 (10x more paper on ABM than CA in google SCHOLAR, and ABM now replace CA in area that use more CA) p.49
 

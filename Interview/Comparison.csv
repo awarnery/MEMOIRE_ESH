@@ -1,7 +1,8 @@
-Economist,Genre,Nationality,BA_Subject,PhD_Subject,PhD_Date,First_Computer_Use,First_Language,First_Software,Learning_Method,Current_Location,Research_Interest,Epistemology,Stat_Method,Emotion_Reaction,,
-Gramain,F,FR,Economie,Economie,1998,Maison,SAS,SAS,Cours,Toulouse,Econométrie,,Econométrie,Frustration,,
-Fischbacher,H,SWI,Math,Math,1985,Lycée,Basic,,Autonome,Konstanz,Expérimental,,,Frustration,,
-Hendry,H,UK,Eco,Economie,1970,LSE,Fortran,Atlas,Cours,Oxford,Econométrie,Réduction,Econométrie,Frustration,,
-Turocy,H,USA,Eng/Eco,EcoManag,2001,Maison,Basic,,Autonome,Norwich,Jeux,Génératif,,,,
-Epstein,H,USA,PolEco,PolSci,1981,Université,Fortran,,Autonome,,Agents,Génératif,,,,
-Pierse,H,UK,PPE,Economie(si finit),1983(si finit),École,Fortran,NIModel,Autonome,,Econométrie,,Econométrie,Frustration,,
+Economist,Genre,Nationality,BA_Subject,PhD_Subject,PhD_Date,First_Computer_Use,First_Language,First_Software,Learning_Method,Current_Location,Research_Interest,Epistemology,Stat_Method,Emotion_Reaction,Had_SocialSciences,Software_created
+Gramain,F,FR,Economie,Economie,1998,Maison,SAS,SAS,Cours,Toulouse,Econométrie,,Econométrie,Frustration,,sa thèse en 96
+Fischbacher,H,SWI,Math,Math,1985,Lycée en 1976,Basic,,Autonome,Konstanz,Expérimental,,,Frustration,Yes Psycho and Socio,z-Tree en 1995
+Hendry,H,UK,Eco,Economie,1970,LSE,Fortran,Atlas,Cours,Oxford,Econométrie,Réduction,Econométrie,Frustration,,PcGive en 1984
+Turocy,H,USA,CS/Eco,EcoManag,2001,Maison,Basic,,Autonome,Norwich,Jeux,Génératif,,,Double BA in CS and Econ,Gambit en fin 80's
+Epstein,H,USA,Math major,PolSci,1981,Université,Fortran,,Autonome,,Agents,Génératif,,,,Sugarscape en 1996
+Pierse,H,UK,PPE,Economie(si finit),1983(si finit),École,Fortran,NIModel,Autonome,,Econométrie,,Econométrie,Frustration,BA in PPE,WinSolve grant in 1995
+Axtell,H,USA,Engineering/Eco,Math ,1992,,Fortran,,,,,,,,In master and PhD,Sugarscape en 1996

@@ -19,7 +19,7 @@ Lecture interview Joshua Epstein - Sugarscape
 - then realise it could be used for empirical work
 - Proto-History, agent in specified condition, and study how it evolve
 - At Santa Fe institute (thin tank, complex system), an archeologist thought it looks like Anasazi, Arizona natives civilisation who interact with other population and vanished 
-- Used hydrology, corn potential, housing in sugarscape to try to draw an Computational Archaeology and understand what happened
+- Used hydrology, corn potential, housing in Sugarscape to try to draw an Computational Archaeology and understand what happened
 (p4)
 - Math major before PhD, scholar thesis on financial control of industrial corporations in the U.S. economy
 - Very interested in political economy and MIT welcomed people from rigorous field AKA math
@@ -71,10 +71,10 @@ Lecture interview Joshua Epstein - Sugarscape
 - love computer, can make them do what you want ("muleish" ?)
 - used it to do physics homework, part of the undergraduate training
 (p10)
-- used fortran at MIT
-- first version of sugarscape in regular Pascal, no OOP
+- used Fortran at MIT
+- first version of Sugarscape in regular Pascal, no OOP
 - learn programming by doing
-- probably some book about fortran at Amherst
+- probably some book about Fortran at Amherst
 - you needed to built everything from scratch with Mac Toolbox routines
 - for his book, to wrote math and do visualisation, he used Mathematica and NetLogo, but it was a mess
 - he used mathematica since 90’s
@@ -89,7 +89,7 @@ Lecture interview Joshua Epstein - Sugarscape
 - at the MIT, his cohort was more into classical econometrics with TROLL
 - he was the only one in dynamic programming because coming from math background
 (p12)
-- to do Dynamical programming he used Fortran, Mathematica and then Matlab
+- to do Dynamical programming he used Fortran, Mathematica and then MATLAB
 - they were several technology explosion but the OOP was the biggest, for ABM
 - then Java was huge and permitted NetLogo specially designed for ABM
 - OOP permitted to really code agent as agent
@@ -104,7 +104,7 @@ Lecture interview Joshua Epstein - Sugarscape
 - "cutting room floor" on NtLogo (did not understand, have to dig)
 - do not remember other frustrations, did a lot of bad coding and errors, the objective was to do simplest explaining model
 (p15)
-- history of sugarscape : simplest thing we could get going 
+- history of Sugarscape : simplest thing we could get going 
 - move towards sugar, have kids, same or with mutation
 - without plan, just elaborated the model in different dimension
 - tried kids, fight, cultural transmission, segregate, fight for ressources

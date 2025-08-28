@@ -1,11 +1,11 @@
 16/04/2025
 
-Lecture interview David Hendry - PCGIVE
+Lecture interview David Hendry - PcGive
 
 (p1)
 - started computer with hand calculator at Aberdeen and then the computer ATLAS at LSE at the Center of London University
 - Denis Sargan publish his famous 1964 paper by plugging wire into ATLAS
-- he was bad at ATLAS Autocode and the university bought an IBM using FORTRAN
+- he was bad at ATLAS Autocode and the university bought an IBM using Fortran
 - he did not use computer during MSc but during Phd he programmed a lot under the supervision of Denis Sargan, who wanted program to apply theory he wrote
 (p2)
 - he learned programming in Fortran at LSE with Carol Hewlett in a class wth other Phd student in econometric
@@ -17,13 +17,13 @@ Lecture interview David Hendry - PCGIVE
 - not much difference in programming between USA and UE because no developper in EU apart him, Hashem Pesaran and Pierse
 - but huge methodology difference, Americain assumed they have a true theory, the collect data and fitted it with the theory, while Hendry proposed to look at the data, build a model and try to interpret the results. that was called data mining in a very pejorative way at the time
 (p4)
-- all the software he created (PCGIVE, PCGET) are a recode of what he didi on mainframe at LSE but for PC as he view them as the future
+- all the software he created (PcGive, PCGET) are a recode of what he didi on mainframe at LSE but for PC as he view them as the future
 - he was very limited and felt very frustrated by the small amount of RAM and ROM but he succeded and hardware improved
 - he wanted his software to enhance teaching of econometrics, that he disliked a lot at that time, very much american way of doing it, spending 3 weeks in proving LS was BLUE instead of learning how to create model
 - it was very open so that other people might plug into theyre program
 - he developped an sort of ML approahc with monte carlo but he stopped in front of antagonism it created
 (p5)
-- FORTRAN was a nightmare to create a fornt end and to output graphic, so Jurgen Doornik was engaged on the promess of easing the whole program a lot with C code
+- Fortran was a nightmare to create a fornt end and to output graphic, so Jurgen Doornik was engaged on the promess of easing the whole program a lot with C code
 - he also created the language OX, very similar to C, for replicating everythonng done with OxMetrics
 (p6)
 - but they were also other members of the team, each did contribute to the project by doing small standalone bit of the software

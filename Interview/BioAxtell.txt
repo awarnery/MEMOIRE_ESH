@@ -24,7 +24,7 @@ Le centre de recherche Center on Social and Economic Dynamics, qu’il cofonde a
 
 Rapport personnel à l’informatique
 
-L’usage de l’informatique chez Robert Axtell remonte à ses années de formation en ingénierie à la fin des années 1970, où il apprend à programmer en FORTRAN. Lors de son emploi chez Exxon (vers 1982-1983), il utilise des mainframes IBM pour simuler la conception d’usines de carburants synthétiques, marquant un premier contact approfondi avec l’informatique appliquée.
+L’usage de l’informatique chez Robert Axtell remonte à ses années de formation en ingénierie à la fin des années 1970, où il apprend à programmer en Fortran. Lors de son emploi chez Exxon (vers 1982-1983), il utilise des mainframes IBM pour simuler la conception d’usines de carburants synthétiques, marquant un premier contact approfondi avec l’informatique appliquée.
 
 Au cours de son doctorat à Carnegie Mellon (1984–1991/92), il approfondit ses compétences avec les cours d’informatique de base, et apprend plusieurs nouveaux langages à l’occasion du passage des mainframes aux micro-ordinateurs dans les années 1980. Il est profondément influencé par la culture computationnelle de l’époque, ainsi que par les travaux de John von Neumann, John Holland, Chris Langton, ou encore Robert Axelrod.
 

@@ -3,6 +3,23 @@
 Lecture de l’entretien Urs Fischbacher
 
 
+Résumé
+- p.2 answering if he had econ courses : "No, actually, not at all. When the decision was of what to study [back] then, it was quite clear that I want to do math with a minor in physics. Nevertheless, I looked a bit around. So, the interesting thing is I went to two additional information lectures. One was psychology and the other was sociology." p.2 
+- p.5 his life : "So I did my habilitation in 2006. And actually I did that because I have no other formal degree in economics. So I thought I need to kind of prove that I also have something in economics." p.5
+- p.6 utilise ordinary pour la premiere fois pour la recherche pour master de math
+- p.7 became economist in 1995 when he joined Ernst Fehr
+- p.9 change de hard et de language tout le temps "The first experience in high school was with something that was what is nowadays actually less good than a programmable hand computer. And then I had the ZX81 with BASIC; I had Commodore 64 also with BASIC; then Macintosh with THINK Pascal. Which is kind of also an objective oriented version of Pascal. And then on the job, I used different programming languages, in this AI-time I used PROLOG for some time, but that, to be honest, was not particularly productive. I think I did some cool things but there were also things that didn’t really work out. So we tried to use some object-oriented concept with these Pascal workstations. And then I had Macintosh again, with THINK Pascal and then Windows system actually starting with Windows NT and from then on essentially I worked most of the time with Windows."
+- p11 frustration is something very technical between server and client communication on z-Tree
+- p13 Stefan Schmid qui programme z tree a fait des etudes de CS
+- p16 "But I was also an experimental economist at that time. Or almost. Thomas Delcey: You were... Urs Fischbacher: So kind of. At least I became aware."
+- p16 invited to Berlin to teach about z tree in 1998, that’s how spread began
+- p17 main difficulty is the network and interactions
+- p20 users had to cite working paper from 1998 and real paper came out in 2007
+- p21 tried to publish before 2007 but journal Experimental Economics refused 
+- p23 z-Tree unleashed and o-tree are the competitor but also not as good on some areas and better in others
+
+
+Détaillé
 - 3 sets of questions : CV, experience with computer, history of Z tree
 - licence + master + doctorat de math
 - aucune relation avec eco ou autres sciences sociales
@@ -31,10 +48,10 @@ Lecture de l’entretien Urs Fischbacher
 - après son Commodre il a eut un mac qu’il utilisait pour faire du texte et des mails deja dans les années 80
 - les mails etait envoye une fois par jour, pendant la nuit.
 - tout ce qui était lié au réseau était super compliqué donc il utilisait un livre "grimoire" avec toutes les commandes, par ex imprimer, tout été basé sur les lignes de commandes
-- dans son métier sur les computer-aid manufacturing, il avait un système appelé PASCAL sur les postes de travail qui était vraiment bien
+- dans son métier sur les computer-aid manufacturing, il avait un système appelé Pascal sur les postes de travail qui était vraiment bien
 - vi était un éditeur de texte tres compliqué à prendre en main et étrange
 - (p.8) 
-- dans son premier job dans le privé, il utilisait DO, puis PASCAL, puis UNIX, puis macintosh avec OBJECT PASCAL 
+- dans son premier job dans le privé, il utilisait DO, puis Pascal, puis UNIX, puis macintosh avec OBJECT Pascal 
 - dans son job d’economiste en 95 il avait un mac pour le quotidien et un windows pour programmer pour le laboratoire. ca rendrait le programme plus facile à diffuser, meme si c’était pas un objectif principal au debut
 - est ce que après le lycée qqn lui a appris à coder ou toujours en solo ?
 - toujours principalement en solo dans ses jobs
@@ -43,7 +60,7 @@ Lecture de l’entretien Urs Fischbacher
 - comment il était compare aux économistes moyen de Zurich ? les autres à l’université comprenait un peu la technique ?
 - (p.9)
 - faisait il un peu d’econometrie ? d’analyse de données ? en python ou R ?
-- a l’époque ils utilisaient principalement stata pour la data analysis, et lui ils connaissaient pas trop la statistiques par rapport à eux. parce qu’il était mathématicien les économistes pensaient qu’il maitrisait tout ca
+- a l’époque ils utilisaient principalement Stata pour la data analysis, et lui ils connaissaient pas trop la statistiques par rapport à eux. parce qu’il était mathématicien les économistes pensaient qu’il maitrisait tout ca
 - c’était Simon Gächter qui a compris que il maitrisait pas tout a cette époque
 how would you characterize the evolution of your own use of computers and software along your career?
 - refait un resumer des hardware et sofwtwaare associe assez long, beaucoup de changements
@@ -74,9 +91,9 @@ how would you characterize the evolution of your own use of computers and softwa
 [partage la programmmation, l’informatique, qui sert à diffuser une autre culture, matériel, ajouter des rideaux dans son labo]
 - a ce moment la à Harvard ils utilisaient deja Z tree, bien avant le papier de 2007 dans Experimental Economics
 - il y avait aussi des labo avec des écrans en verre donc les gens se voyaient entre eux mais pas les écrans, ca n’a rien a voir avec le hardware et la culture sous jacente, juste des labo dans la tradition de Selten avec rideau mais a part ca, ils se ressemblent beaucoup entre eux
-third set of questions : try to cover extensively the history of Z-Tree
+third set of questions : try to cover extensively the history of z-Tree
 - (p.15)
-- Z-tree is a programming environnement to program experiments and conducts them. experiments are interactive environment for human subjects. Z tree is good for interaction.
+- z-Tree is a programming environnement to program experiments and conducts them. experiments are interactive environment for human subjects. Z tree is good for interaction.
 - job starting in 95 was to program experiments.
 - l’idee est de faire une expérience type, de programmer une experience spécifique, de définir des paramètres et c’est good.
 - la premiere chose c’était l’interaction, des écran qu’on a parameter avec des check-box, des paramètres pour définir la structure de pay off et voila.
@@ -92,7 +109,7 @@ third set of questions : try to cover extensively the history of Z-Tree
 - et son avantage était d’être programmeur et économiste expérimental a la fois
 - son job était de programmer les experiences spécifiques du labo, pas de faire un logiciel général
 - au debut il voulait faire un marché avec des extensions à son logiciel mais le pb des gens qui disagree sur les details rend ca inutile
-- "Z-Tree is useful because it’s very simple to develop something more or less from scratch"
+- "z-Tree is useful because it’s very simple to develop something more or less from scratch"
 - anecdote dev une experience en un week end qui a pris 3 semaines de travail à d’autres
 - 1998 premier cours sur utilisation de z tree à berlin
 - (p.17)

@@ -1,26 +1,26 @@
 18/05/2025
 
-Turocy "I’ll even say that, even today, it’s ... I’ll say probably, as we go through this
-interview, I’ll say [it] even more: I’m not really an economist." p.3
+p.3 Turocy "I’ll even say that, even today, it’s ... I’ll say probably, as we go through this
+interview, I’ll say [it] even more: I’m not really an economist." 
 
 
-Dorian Jullien: I think what you said might be connected to the next question. We can see that you have
+p.5 Dorian Jullien: I think what you said might be connected to the next question. We can see that you have
 published papers that are rather diverse. At first, about foundational issues in decision theory, about
 transitivity, for instance; then, more applied work, notably about baseball, and other experimental work. Do
-you recall if there were any common threads, behind this apparent diversity during your years in Texas? p.5
+you recall if there were any common threads, behind this apparent diversity during your years in Texas? 
 
-Theodore Turocy: Yes. Something which will probably emerge again later is that, in economics,
+p.6 Theodore Turocy: Yes. Something which will probably emerge again later is that, in economics,
 computational game theory is sometimes an answer in search of a question. Again, in terms of the way I
 tend to wind up writing my papers, a lot of my papers start with computing stuff, and then it gets rewritten,
 and then the computational part gets either thrown out or very heavily de-emphasized. For a very long time,
-since the funding ended from the NSF for GAMBIT, we’ve been trying to get more funding to do more
-work on GAMBIT, specifically, and on computational methods and on game theory, more generally. And
-[it has] never been successful. p.6
+since the funding ended from the NSF for Gambit, we’ve been trying to get more funding to do more
+work on Gambit, specifically, and on computational methods and on game theory, more generally. And
+[it has] never been successful.
 
 
 
 
-But again, not really in a cohesive
+p.7 But again, not really in a cohesive
 intellectual framework, which actually has been being developed in computing science for the last 10 and
 15 years. That was how we came to be involved with the Turing. Because it turns out that that is sort of,
 maybe not the only place, but certainly a good place or an interesting place where there is a, I can tell you
@@ -28,22 +28,22 @@ the types of things that... that we’re using as applications in that project. 
 most part, wouldn’t publish in economics: attack and defense of computer networks, some work in contest
 theory, but not the sort of contest theory ... the sort of not the types of things that I tend to publish sort of
 experimentally, not unrelated to it, but not the same, not exactly the same.
-Dorian Jullien: So, if I understand correctly, in a sense, GAMBIT being redeveloped through the Turing
+Dorian Jullien: So, if I understand correctly, in a sense, Gambit being redeveloped through the Turing
 Institute will contribute to things possibly outside of economics, or outside of economic applications.
 Theodore Turocy: I think probably most of the immediate applications will not be the sorts of things that
 will turn up in economics journals. That’s not to say there won’t be some things that will. But a lot of it
-won’t be. p.7
+won’t be. 
 
 
-Turocy is clearly not an economist, he ended up with a double degree because of a growing interest during BA and flexible condition to get one (if you do enough courses). He say it himself (p.3) and most of the application of the new GAMBIT developed in Turing project are not pushable in econ journals.
+*****Turocy is clearly not an economist, he ended up with a double degree because of a growing interest during BA and flexible condition to get one (if you do enough courses). He say it himself (p.3) and most of the application of the new Gambit developed in Turing project are not pushable in econ journals.
 
 
-Once you’re a professor, sometimes
+p.8 Once you’re a professor, sometimes
 you can get away with that. But yes, I definitely have made my peace, I have decided to identify—although
 I don’t know what the current phrasing would be—as an engineer principally, but one who has an interest
-in economic problems. p.8
+in economic problems. 
 
-Theodore Turocy: My first real computer was Texas Instruments 99/4, or 99/4A. I think this was the
+p.9 Theodore Turocy: My first real computer was Texas Instruments 99/4, or 99/4A. I think this was the
 model, which I would have gotten when I was seven or eight years old—certainly around 1982, 1981.
 Actually, my grandfather had won it.
 Dorian Jullien: Do you remember what you did with it?
@@ -60,52 +60,52 @@ as I work with computing scientists, that stuff that I don’t think is that har
 write code much faster than most people. Of course, a lot of that is probably because it has just been 40-
 something years of doing it; but I also just ... I just find it easier. It works with my mental model. There are
 other things that don’t work with my mental model. But, for some reason, writing code, managing the
-complexity of a computer program, just feels very natural to me somehow.  p.9
+complexity of a computer program, just feels very natural to me somehow.  
 
-Theodore Turocy: It depends on when one does flip into doing it for research. By the time I was an
+p.10 Theodore Turocy: It depends on when one does flip into doing it for research. By the time I was an
 undergraduate. Certainly, [not] in high school. In my high school, despite being a quite good high school,
 they still did not have any real sort of computer class—because this was 1988, 1987. [...] I was starting with working on learning game theory through writing
 programs about game theory, and then using that to sort of generate some research—some research
-questions that were coming out of that.    p.10
+questions that were coming out of that.    
 
-Francesco Sergi: All the computers you had at your disposal at Caltech (as a student or young researcher)
+p.10 Francesco Sergi: All the computers you had at your disposal at Caltech (as a student or young researcher)
 were already personal computers? There was no access to mainframe computers?
 Theodore Turocy: No, so at this point, no. I never really used a mainframe. The PDPs and stuff like that
 were already sort of in the rearview mirror by the time I came to Caltech. These would be desktop
-workstation-type computers.     p.10
+workstation-type computers.     
 
 
-Dorian Jullien: And on a broader theme maybe, how would you compare your computer training in the
+p.11 Dorian Jullien: And on a broader theme maybe, how would you compare your computer training in the
 1990s, compared to the average economists around the same period?
 Theodore Turocy: Probably far, far more. By a comfortable margin, 99-point-something percentile, almost
-surely.   p.11
+surely.   
 
 
-##On open code
-Dorian Jullien: You already mentioned how computers were used in economics, and that was not the norm
+******On open code
+p.12 Dorian Jullien: You already mentioned how computers were used in economics, and that was not the norm
 for doing research, except for econometrics. But a little bit later, like around 2005, we can see that in your
 first single effort paper on baseball, you shared your script on your website. In 2005, was this common
 practice in economics at the time?
 Theodore Turocy: No. In fact, it’s only just barely becoming standard practice now, as you’re probably
-aware. No, then it was not at all common.    p.12
+aware. No, then it was not at all common.    
 
-
-Turocy : I’ve already discussed sort of how the robustness paper in auctions came from actually
+********Epistemology
+p.13 Turocy : I’ve already discussed sort of how the robustness paper in auctions came from actually
 numerical work. My paper with Razzolini and Yan Chen is an experimental paper on congestion, on cost
 allocation. That paper I got involved with because they were interested in trying to compute all the equilibria
 of their environments and confirm that the equilibria are, the equilibria they’re claiming are the only
 equilibria. There’s not unusual equilibria. So there was a computation algorithmic part of that. And then
 after I saw the algorithmic results, I said, wait a minute, I think I can prove a theorem. So I proved the
 theorem. The algorithm makes stuff goes away, right? So now I can just prove the theorem, right? But of
-course, I didn’t know what theorem to prove until then. p.13
+course, I didn’t know what theorem to prove until then. 
 
-Dorian Jullien: It’s too bad, because sometimes if that computational path would be made more visible,
-that would be good publicity for GAMBIT in a sense.
+p.14 Dorian Jullien: It’s too bad, because sometimes if that computational path would be made more visible,
+that would be good publicity for Gambit in a sense.
 Theodore Turocy: Well, yes. But the referees and editors always want to cut. I think I will move to this
-one. p.14
+one. 
 
 
-Dorian Jullien: Along your research career, do you recall any particular moment of amazement about
+p.15 Dorian Jullien: Along your research career, do you recall any particular moment of amazement about
 computer technology? + any cultural difference towards computer between US and UK ?
 Turocy :
 I think, generally
@@ -116,7 +116,7 @@ think that’s a stereotype—I’m sure anybody can come up with counterexample
 think there’s a certain sense to which it’s true.
 
         (
-
+                p.18
         Dorian Jullien: Would you have some, maybe you already told us a couple, but any specific events or
         particular example to illustrate that openness or that closure?
         Theodore Turocy: Again, my experience in my first job. I was in a department that did adopt a relatively
@@ -130,7 +130,7 @@ think there’s a certain sense to which it’s true.
         get a table of data and some figures out, and you put it in your paper, and that goes to AER, right? You
         compute some equilibria of a game, right? Say, well here’s what can happen. The referee says “reject”. It’s a
         black box. Which is like no, actually, like a lot of statistical computing software is really a black box. And
-        I’m not saying it’s wrong, but it’s a bit of a black box. p.18
+        I’m not saying it’s wrong, but it’s a bit of a black box. 
         )
 ...
 I did adopt Git[Hub] in 2009 (I think it was 2009). Once
@@ -142,67 +142,64 @@ of the concept of Git and how it works was already kind of like “wow”.   p.1
 I used to actually have to have a Windows
 computer sitting around, and then I’d have to have access to a Linux computer somehow. I’d have to
 maintain all these things. I used to have a Linux or Windows computer sitting on my desk here at University
-of East Anglia, which I would turn on like once a year to try to compile and test GAMBIT. And it was just
+of East Anglia, which I would turn on like once a year to try to compile and test Gambit. And it was just
 such a... And it was just such a faff. And now with GitHub CI, I set up all the virtual machines. Every time
 I push, it compiles and makes sure that everything works and runs the tests on every platform. Then I even
 have the binaries all ready to go for a release. I mean, this is the transformational thing for me, the single
-most transformational in computing, in terms of being able to do [computing]. p.15
+most transformational in computing, in terms of being able to do [computing]. 
 
 
-Dorian Jullien: Now let’s try to move from amazement to frustration [laughs]. Do you recall any moment
+p15 Dorian Jullien: Now let’s try to move from amazement to frustration [laughs]. Do you recall any moment
 of frustration about, any particular, especially salient moment of frustration about computer technology in
 your research career?
 Theodore Turocy: Every time I have to use Windows? I mean, I say that smartly, but, actually, it’s always
-been the case. p15
+been the case. 
 
 
 
-Dorian Jullien: Let’s consider one of your most recent papers (of your choice), and let’s imagine you would
+p.16 Dorian Jullien: Let’s consider one of your most recent papers (of your choice), and let’s imagine you would
 need to do it using the computer technologies (hardware and software) that you had at your disposal at the
 beginning of your career. What would have been the most important differences and challenges?
- -> Memory and compute power make it possible to asses 5000 propabibilities in30 minutes for auction, not possible at the beginning p.16
+ -> Memory and compute power make it possible to asses 5000 propabibilities in30 minutes for auction, not possible at the beginning 
 
 
 
-
-
-
-Theodore Turocy: GAMBIT starts sometime in the late 1980s, when Richard McKelvey was interested in
+p.17 Theodore Turocy: Gambit starts sometime in the late 1980s, when Richard McKelvey was interested in
 computing and games. He was very much one of these early adopters that we’ve been speaking about
 elsewhere. He was also another very sort of ... just, generally, he was sort of a very techie type of person. He
 liked gadgets, and stuff like that, right? So, again, not surprisingly, he was interested in programming
 computers or anything to do stuff. At some point in the late 1980s, he was starting to write computer codes
-for implementing different ways to compute Nash equilibrium. p.17
-GAMBIT commence avec un economiste un peu geek
+for implementing different ways to compute Nash equilibrium. 
+Gambit commence avec un economiste un peu geek
 
 Ordinateur n'est plus l'écran principal vs telephone et tablette
 Pas besoin de telecharger et installer un jeu si y a l'app store
 
 
-(besoin local, donc developpement d'un outil)
-Dorian Jullien: Would you say there was, outside of Richard [McKelvey]’s own interest in computing
+******besoin local, donc developpement d'un outil)
+p.19 Dorian Jullien: Would you say there was, outside of Richard [McKelvey]’s own interest in computing
 equilibria, an outside demand for that kind of stuff?
 Theodore Turocy: Probably not a huge, enormous outcry for it, that I would be aware of. My impression
 is that it would be his own personal interest, and clearly that there would be other people who would have
 some interest in other game theorists. Bob Wilson was interested enough to have this program, have it to
-be part of GAMBIT, and mention it in this paper. Bob is one of the loveliest people you’ll ever care to meet.
+be part of Gambit, and mention it in this paper. Bob is one of the loveliest people you’ll ever care to meet.
 Definitely there would have been some interest in it. Was there anybody sort of saying, “Oh, well, we really
-need to be able to automate the computation of equilibria?” Probably not. p.19
+need to be able to automate the computation of equilibria?” Probably not. 
 
 
-(support instit)
-Dorian Jullien: In terms of institutional support for GAMBIT, what was there?
+******support instit
+p.20  Dorian Jullien: In terms of institutional support for Gambit, what was there?
 Theodore Turocy: In the main, the real development of it, as a package in its own right, was the National
 Science Foundation grant, that Richard [McKelvey] and Andy [McLennan] got in 1993-ish. I was employed
 under that grant, which ran, I think, including probably an extension, up until ... I think it was 1999. That
 would have been in a certain sense the main support. Certainly, Caltech would have been supportive of it,
 but the amount of resources ... and I don’t know, when he was working with student programmers, where
-the money might have been coming, from in terms of being able to pay t  p.20
+the money might have been coming, from in terms of being able to pay t  
 
 
 
 Dorian Jullien: And why C++?
-Theodore Turocy: It seemed like a good idea at the time. It was sort of the hot thing at the time. I had
+p.21 Theodore Turocy: It seemed like a good idea at the time. It was sort of the hot thing at the time. I had
 learned it—I think I would have been introduced to it in my sophomore year in computing science. C++
 specifically, object-oriented programming in general. It was very popular and it seemed like it had a lot of
 features that make programming easier. I think it took C++ about 25 years actually to realize most of those
@@ -210,12 +207,12 @@ things [laughs]. This is another one of the things that has been a real amazemen
 C++ that we wanted it to be in 1993. C++ 17 is almost like finally getting to the point where it’s realizing
 some of the potential that they had. I remember, I think Bjarne Stroustroup just said something like, “C++
 is a big language with a small language trying to get out of it”, or something like this. But, so yeah, it was
-trending, right, at the time. p.21
+trending, right, at the time. 
 
 
 
 (used C++ at the very beginning, the compiler was not as mature as the langugage and was not able to compile everything)
-Dorian Jullien: What would you say were the main difficulties in redeveloping and expanding GAMBIT
+p.23 Dorian Jullien: What would you say were the main difficulties in redeveloping and expanding Gambit
 back then, I mean, 1994-1995?
 Theodore Turocy: Well, I mean, I think that this is very much looking at it retrospectively. Compared to
 if I were doing it today, it is largely the tooling.
@@ -234,11 +231,11 @@ I claimed was a bug in their compiler, and they claimed was not. Thinking back o
 world that we were trying to develop software in: it was really slow, compared to what you can what you
 can accomplish today. And that was a real challenge. We were programming in a language that, compared
 to its life span today, was itself still very, very embryonic, both in terms of its concepts, but also in terms of
-even compilers supporting it. p.23
+even compilers supporting it. 
 
-(difficile de savoir qui l'utilise, un peu plus simple depuis 10 ans, les citations de software sont un peu plus devenues la norme, notamment grace au pionnier Urs Fischbachre)
-Dorian Jullien: You have to satisfy mutual constraints that were not obviously mutually consistent, yeah.
-Do you recall how GAMBIT came to be used by other scholars?
+(difficile de savoir qui l'utilise, un peu plus simple depuis 10 ans, les citations de software sont un peu plus devenues la norme, notamment grace au pionnier Urs Fischbacher)
+p.23 Dorian Jullien: You have to satisfy mutual constraints that were not obviously mutually consistent, yeah.
+Do you recall how Gambit came to be used by other scholars?
 Theodore Turocy: Again, it would have largely been word of mouth: people knowing Richard [McKelvey],
 people seeing mentions of it, in the few papers that do mention it. There was definitely a small community
 of people who would have used it. One of the things actually that I’ve never known, and I still don’t really
@@ -249,19 +246,18 @@ encouragement to cite it, anybody who’s citing the McKelvey-McLennan or the Sa
 McLennan-Turocy or Savani-Turocy versions, the software citation we put on the website, there’s a huge
 chunk of citations there. I did also at some point try to track the use, police people who would mention it,
 but not cite it. Up until about 10 years ago. In about the last 10 years, we’ve gotten much more standard at
-citing software in a paper. Actually, this was an innovation, going back to our friend Urs Fischbacher.  p.23
+citing software in a paper. Actually, this was an innovation, going back to our friend Urs Fischbacher.  
 
 
-
-(Two student commited some code to GAMBIT, but no economist, only CS major interested into game theory
+************(Two student commited some code to Gambit, but no economist, only CS major interested into game theory
 and game theory took of in CS but not in economics, and CSstudent have programming skills)
-Dorian Jullien: These students, they knew about GAMBIT when they designed their algorithms.
+p.26 Dorian Jullien: These students, they knew about Gambit when they designed their algorithms.
 Theodore Turocy: There was some awareness in computing science circles.
 Dorian Jullien: But again, they were not economists.
 Theodore Turocy: Right, but none of these are economists. These are all people in computing science, in
 the world of computing. Part of computing science that’s interested in game theory. But, this was very much
 they had. They had done the work independently, and then we kind of plugged it into ... We integrated it in
-to GAMBIT, and packaged it. But in terms core maintenance, or just sort of routine bug fixes and so forth,
+to Gambit, and packaged it. But in terms core maintenance, or just sort of routine bug fixes and so forth,
 this would have been basically 100% me. 
 ...
 Because the problem that I have sitting on the economic side of the
@@ -269,24 +265,22 @@ world ... did I find myself on the wrong side of the proverbial fence? The way h
 theory takes off a bit more, more and more in computing science, in ways that sort of align with the kind
 of things that I’m interested in. On the computing science side of the world, there’s many, many more
 students who have some knowledge of game theory and some knowledge of programming or software
-engineering. p.26
+engineering. 
 
-
-(Economics and computing conference in duo with Game Theory one)
-For several years, the Economics and Computing, the EC conferences,
+*******Economics and computing conference in duo with Game Theory one
+p.27 For several years, the Economics and Computing, the EC conferences,
 were co-located with the Game Theory Society conferences. This was the case in Maastricht. I think it was
 also the case in 2012 in Istanbul, if I remember correctly. But in 2016, we actually then did sort of a mini-
-workshop at the front of it, on GAMBIT and computation and equilibrium.
+workshop at the front of it, on Gambit and computation and equilibrium.
 Francesco Sergi: Early on, the EC conferences and the Game Theory Society were joined? In the
 beginnings?
 Theodore Turocy: It wasn’t from the beginning. I think in 2012 and 2016, it definitely was. Because in
 2016, we did this workshop as part of the co-located conference. In 2012 in Istanbul. I don’t think it was in
 2008, when it was at Northwestern. But I’m doing this off the top of my head here, so I may be wrong. And
-that would be very easy to check. p.27
+that would be very easy to check. 
 
-
-(Computerization is more than just faster tools)
-Dorian Jullien: Okay and so to conclude if we have time for one general question. As you know, our broad
+********Computerization is more than just faster tools)
+p.31 Dorian Jullien: Okay and so to conclude if we have time for one general question. As you know, our broad
 project is to understand, from a historical perspective, the place and role of computers, software, and the
 internet in the history of economics—what we call the “computerization” of economics. We’d like to hear
 your thoughts about our main research question, based on your own personal experience. One recurrent
@@ -300,4 +294,4 @@ who’s trained in (and tends to think in) terms of economic questions; and [thi
 economic framework, how we think about individual decision-making and small group decision-making. I
 think we can use that toolkit now, to answer questions that maybe we couldn’t answer before, and answer
 different kinds of questions that are still very much relevant to economics and our type of social science
-more generally, the more quantitative social sciences more generally. p.31
+more generally, the more quantitative social sciences more generally. 

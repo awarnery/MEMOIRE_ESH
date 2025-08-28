@@ -1,7 +1,28 @@
 16/03/2025
 
-Lecture interview Richard Pierse - Winsolve
+Lecture interview Richard Pierse - WinSolve
 
+Résumé
+- p1 started at Oxford in PPE, a full year working at NIESR with econometrician Denise Osborn, created NIModels
+- p2 that got him interested in econometrics and he went for master at LSE and then Phd with Hendry and Sargan
+- p3 went to Cambridge for 10 years on forecasting model, funded by ESRC 
+- p4 then at LBS, back to macro and to a version of NIModel, applied to a fund to build WinSolve
+- p5 liberal-art hugh school but possibility to do CS courses that he took
+- p6 then no CS at Oxford for 3 years because Econ and CS was really two different world
+- p7 econ and CS blended when arrived at LSE
+- p8 every language are similar in logic : " I always thought that if you really understood how to program in one language, it was very easy to use any other language. I mean, some languages have advantages for things: so, you could choose there might be one language that was better for writing a particular program. But, in principle, you should be able to use whatever language was available."
+- p9 wrote WinSolve in C++ because that was the language to use it on windows at the time
+- p10 again the idea that language are permutable : "But also it was part of my, I’ve always felt that if you learn programming, the language shouldn’t matter very much. If you can program, you should be able to program in any language. It’s just converting the idea of the program into the syntax of the different language."
+- p16 Hardest thing in WinSolve was the interface, what options to let users use, like UI/UX
+- p17 client never became the research groups but Central bankers instead
+- p18 after the end of the grant from ESRC, Timberlake consultant offered him to do the distribution and make it not free (there are still selling Stata and eViews, but not WinSolve anymore)
+- update had been add following what he wanted and what users asked for by email
+- p21/22 pressure from university because journals refuse to publish work on win solve : "At that point, I was coming under pressure from [University of] Surrey, to be not spending as much of my time working on this. Because I found it almost impossible to get published papers out of the work I was doing on WinSolve. People wanted me to work, to continue the work, but journals didn’t want to publish papers on it. And so, I had to essentially scale down, all the work I was doing on it."
+- p22 ESRC pushed him to commercialise the soft because they can’t fund it anymore 
+- p25 no more work since 2021 but last available version is 2007
+- doing compute is not recognised : "People who were spending a lot of time actually doing programming were not the people who were having great academic careers. I mean, that’s what I sort of observed. People like Jurgen Doornik, for example: he’s done some brilliant stuff in programming—the stuff he has done with David Hendry, he’s essentially rewritten all of David Hendry’s software; he has written essentially his own language, which is now a competitor of MATLAB and GAUSS, that is free (at least there are versions of it, that are free I think). But he’s not really had the ... acclaim ... that I think he deserves. […] The top journals won’t ever publish stuff on this sort of thing"
+
+Détaillé
 (p1)
 - 1976, graduated in Philosophy, Politics and Economics at Oxford
 - not much econometrics, not a very good place for technical Economics
@@ -38,20 +59,20 @@ Lecture interview Richard Pierse - Winsolve
 (p7)
 - interest for computer anc econ converge at LSE where he realize that Phd in econometrics always mean writing a program
 - he printed David Hendry program to look at it 
-- he wrote his own, named PERESUS during his PhD, a FORTRAN program for estimating systems of equations with switching exogeneity
+- he wrote his own, named PERESUS during his PhD, a Fortran program for estimating systems of equations with switching exogeneity
 - at Cambridge, did not programmed
-- later used GAUSS, higher-level language, he translated FORTRAN program he had into GAUSS
+- later used GAUSS, higher-level language, he translated Fortran program he had into GAUSS
 - at LSE, the National Institute and Cambridge, it was mainframe computer built by Control Data Corporation
 (p8)
 - at LSE a card reader went through your card ant send the data to the computer, then the output came back after a long time
-- he learned programming langage by himself, FORTRAN by reading Danile McCracken book
+- he learned programming langage by himself, Fortran by reading Danile McCracken book
 - he preffered ALGOL, which he thought was more elegant
 - he think that programming is more a logic and you can do it with every language
 - he agree that higher level code make it esaier for broad range of people to do econometrics and reuse code frome other people
 - people switch from software to other for 2 reason : more people wrote on that software so make it easier to use it, "appel d'air" and problem of compatibility (ex: switching to windows)
 (p9)
-- 2 moment of amazement : running a lot of regression for disaggreagated model (40 industry), Hashem Pesaran wanted that every output came from Microfit, the package he created, with a program of low level code and GAUSS, he reproduced the look of those output and Hashem did not notice / and learning C++ to work on winsolve, because C++ library was necessary to wrote windows app
-- C++ is different because it is object oriented and because student still learn it while nobody learn FORTRAN
+- 2 moment of amazement : running a lot of regression for disaggreagated model (40 industry), Hashem Pesaran wanted that every output came from Microfit, the package he created, with a program of low level code and GAUSS, he reproduced the look of those output and Hashem did not notice / and learning C++ to work on WinSolve, because C++ library was necessary to wrote windows app
+- C++ is different because it is object oriented and because student still learn it while nobody learn Fortran
 (p10)
 - he had to teach computer at Surrey, he chose BASIC and Java because it is OOP
 - a lot of moment of frustration but always thought it was his fault rather than the language
@@ -63,7 +84,7 @@ Lecture interview Richard Pierse - Winsolve
 - in term of WWW, he tried with a colleague named Adam Nealis at LBS, a system called Gopher, an index of images and stuff
 - also tried Mosaic at LBS
 (p12)
-- winsolve start when at LBS, he is asked by head of Centre for Econmic Forecasting, David Currie, to go to a meeting with other modelling people organized by ESRC
+- WinSolve start when at LBS, he is asked by head of Centre for Econmic Forecasting, David Currie, to go to a meeting with other modelling people organized by ESRC
 - lot's of people in macro that he know from BoE, Treasury, National Institute, and Jeremy Bray, a memebre of Parliament interested in macro modelling and software
 - Jeremy Bray pushed ESRC to fund a cutting edge software for all the macro people funded by ESRC
 - but ESRC did'nt fund macro model group which were funding themselves by selling forecast and were differentiating each other by theyre software, so imposing one was going to destroy that and they were all against
@@ -71,7 +92,7 @@ Lecture interview Richard Pierse - Winsolve
 (p13)
 - as he knew he can do it, he applied for the funding and building the software
 - he wanted to do for macro model solution software what was done on econometric software by Hendry
-- everybody followed David Hendry type of econometric approach because everybody started to use PCgive because it was easy to use
+- everybody followed David Hendry type of econometric approach because everybody started to use PcGive because it was easy to use
 - the software was spreading his approach and his fame
 - seeing people at conference talking about software make him thought that it was academically okay, but he don't think so anymore
 - he felt that the modelling community was kind of hiding to the world how to build a model and forecast with it
@@ -79,26 +100,26 @@ Lecture interview Richard Pierse - Winsolve
 - he was accepted but did a teaching job in the same time so he was funded for half his time for three years, from 1995 to 1998
 - he was alone on this project but the administration add someone else
 (p14)
-- from the very start he saw winsolve as a software to handle rational excpectations, models, dynamics
+- from the very start he saw WinSolve as a software to handle rational excpectations, models, dynamics
 - because at that time that was the model used by ESRC groups, later BoE started to work on something for SDGE models
 - but a lot of solution methods are implemented
 - and then he started doing a day a week consultancy at the BoE, teaching new entrants econometric, for 10 years
 (p15)
-- at the BoE, he developped specific part of Winsolve to help Peter Westaway on developping the MTMM model
+- at the BoE, he developped specific part of WinSolve to help Peter Westaway on developping the MTMM model
 - then, a new team was hired to developp BEQM Bank of England Quarterly model, but this group used TROLL, a very expensive American software, using a stacked-Newton solution method
 - but he did not engage with that group
-- he worked for Fathom a consultancy group that asked him to reproduce BEQM in Winsolve, which was very easy with public knowledge
+- he worked for Fathom a consultancy group that asked him to reproduce BEQM in WinSolve, which was very easy with public knowledge
 (p16)
 - BEQM did not survive long, and they moved away fromm TROLL which was very expensive
-- he tried it a bit when he had access, at the bank, and it was a basic front end with a FORTRAN program
-- biggest difficulty for winsolve was the user interface because they were a very different paradigm for pre windows and windows program
+- he tried it a bit when he had access, at the bank, and it was a basic front end with a Fortran program
+- biggest difficulty for WinSolve was the user interface because they were a very different paradigm for pre windows and windows program
 - they were a lot of change, for the C++ compiler he used Borland one which then moveed to another one called OWL, which then changed again, but a community keep supporting OWL so he followed the flow, now he use the microsoft one
-- they wera also the question of writing the program for 16 or 32 bit, he had both version of winsolve, but abandon the 16 version
+- they wera also the question of writing the program for 16 or 32 bit, he had both version of WinSolve, but abandon the 16 version
 (p17)
 - then 64 came out, and now there is a problem with non ASCII symbole like the pound surligner
 - he did a PC Windows program because it was the state of the art at the time, for Jeremy Bray, but now the state of the art is probably web based app
 - the first version came out in 1998
-- he talked to user, the less hostile one, but major part of the user came from the BoE course, that used winsolve, for other Central Bank named Centre for Central Banking Studies, they were Central Bank and Treasury form around the world
+- he talked to user, the less hostile one, but major part of the user came from the BoE course, that used WinSolve, for other Central Bank named Centre for Central Banking Studies, they were Central Bank and Treasury form around the world
 - when ESRC stopped funding the developpment they asked him to keep developing it, so he started to sell it, but it was a big burden, so a company approach him and started to sell it for him
 (p18)
 - the company is called Timberlake Consultants Limited
@@ -112,16 +133,16 @@ Lecture interview Richard Pierse - Winsolve
 - people requested to be able to use it through command line instead of the GUI so he developped that
 - this new usage made some pre check set up for the GUI redundant and he had to change that in order to avoid doing thousand of teste for every thousand of variable of a model
 (p20)
-- Winsolve was able to run for very large model because that was the usage at that time in central banks, now it is more small model but very hard to solve because extremly non linear, tha's why he put so much solution methods, that are useful in different context
-- the econometric part was not developped because no need to reinvent the wheel, lot of econ soft, just not able to perform model forecasting, so he made Winsolve able to read data files from other program such as PCgive
-- now with DSGE both part come together and it lack in winsolve
+- WinSolve was able to run for very large model because that was the usage at that time in central banks, now it is more small model but very hard to solve because extremly non linear, tha's why he put so much solution methods, that are useful in different context
+- the econometric part was not developped because no need to reinvent the wheel, lot of econ soft, just not able to perform model forecasting, so he made WinSolve able to read data files from other program such as PcGive
+- now with DSGE both part come together and it lack in WinSolve
 (p21)
 - Dynare was not doing higher than second order approximation while he was, but it was really hard
-- probably because it was coded on GAUSS at first, then a Matlab version came out and then in 2004/5 they did a C++ version, wherehas Winsolve is C++ from the start
+- probably because it was coded on GAUSS at first, then a MATLAB version came out and then in 2004/5 they did a C++ version, wherehas WinSolve is C++ from the start
 - he met a guy named Ondra Kamenik at Washinton onse that has written c++ for high order approximation
-- he was at Washington because of a possibility to publish a paper with Andy Blake, under the pression of University of Surrey who wanted him to publish or to scale down his time on Winsolve, because Winslolve work was very difficult to publish
+- he was at Washington because of a possibility to publish a paper with Andy Blake, under the pression of University of Surrey who wanted him to publish or to scale down his time on WinSolve, because Winslolve work was very difficult to publish
 (p22)
-- he always was for free software and never see Winsolve as very expensive for academics, but he was pushed to it by ESRC who stopped funding it
+- he always was for free software and never see WinSolve as very expensive for academics, but he was pushed to it by ESRC who stopped funding it
 - now it is very differnet and that king of grant would probaly come with openess conditions
 - ESRC was cutting funding for model development to zero and only fund some special extension of model in a direction for specific project and for the paper tha t would come out
 (p23)
@@ -131,7 +152,7 @@ Lecture interview Richard Pierse - Winsolve
 - the documentation is very clear but some people approach him directly for some help on problem that was never seen before, it was interesting but time consming and a problem when at Surrey
 - but he never had question on the algorithm of solution method, probably because people who use those software don't understand them
 (p25)
-- he is retired now and do'nt have worked on winsolve for 3 or 4 years
+- he is retired now and do'nt have worked on WinSolve for 3 or 4 years
 - to came back to software recognition, he observed that people like Jurgan Doornik and other econometrician who pent a lot of time on programming did not publish about program but about the thing they did with the program, so they did not have a very brilliant career as writing take a lot of time
 - he tried to publish some algorithm but he never publishes those paper and became découragé (despondent)
 - referee most of the time did not understood the paper and said it was not new or else
@@ -144,7 +165,7 @@ Lecture interview Richard Pierse - Winsolve
 - he is not programmming anymore
 - he remember loving a lot his programmation work, he enjoyed a lot doin it and work a lot of unpaid overtime
 (p28)
-- Winsolve is named after SOLVE, a version of NIModel that he wrote at LSE, and becasue Winsolve was translating and extending SOLVE to Windows application
+- WinSolve is named after SOLVE, a version of NIModel that he wrote at LSE, and becasue WinSolve was translating and extending SOLVE to Windows application
 - in computing history, he particularly remember Werox work on user interface, trasnition from mainframe to PC and WWW decentralized system
 
 finished at 01:57 16/04/2025
